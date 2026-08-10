@@ -1,12 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10T03:42:48.743797+00:00",
+  "generated_at": "2026-08-10T03:58:55.808134+00:00",
   "counts": {
-    "accepted": 2,
-    "candidates": 0,
-    "total": 2
+    "accepted": 2
   },
-  "accepted": [
+  "resources": [
     {
       "id": "vetai-lab-vetwelfare-nlp",
       "source": "github",
@@ -32,7 +30,22 @@
         "status": "accepted",
         "source": "seed",
         "verified": true
-      }
+      },
+      "description": null,
+      "homepage": null,
+      "topics": [],
+      "language": "Python",
+      "license": "MIT",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-08-05T04:03:06Z",
+      "updated_at": "2026-08-05T07:41:51Z",
+      "pushed_at": "2026-08-05T07:17:30Z",
+      "default_branch": "main",
+      "last_scanned": "2026-08-10T03:46:26.992682+00:00"
     },
     {
       "id": "vetai-lab-vetjudge",
@@ -61,8 +74,22 @@
         "status": "accepted",
         "source": "seed",
         "verified": true
-      }
+      },
+      "description": "Ensemble agreement and uncertainty framework for AI-assisted veterinary annotation",
+      "homepage": null,
+      "topics": [],
+      "language": "Python",
+      "license": "MIT",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-08-05T07:43:24Z",
+      "updated_at": "2026-08-05T08:13:57Z",
+      "pushed_at": "2026-08-05T08:12:23Z",
+      "default_branch": "main",
+      "last_scanned": "2026-08-10T03:46:27.619692+00:00"
     }
-  ],
-  "candidates": []
+  ]
 }

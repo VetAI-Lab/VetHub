@@ -2,31 +2,71 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>VetHub — Veterinary Open Resources</title>
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+
+  <meta
+    name="description"
+    content="VetHub: discover open veterinary software, datasets, models, benchmarks and computational resources."
+  >
+
+  <title>VetHub | Veterinary Open Resources</title>
+
   <link rel="stylesheet" href="styles.css">
 </head>
-<body>
-  <main>
-    <header>
-      <p class="eyebrow">VetAI-Lab</p>
-      <h1>VetHub</h1>
-      <p class="lede">
-        Discover open veterinary software, datasets, models, benchmarks, and computational resources.
-      </p>
-      <input id="search" type="search" placeholder="Search veterinary resources…" autocomplete="off">
-      <div id="stats"></div>
-    </header>
 
-    <section>
-      <div id="filters">
-        <button class="active" data-view="accepted">Reviewed</button>
-        <button data-view="candidates">Candidates</button>
-        <button data-view="all">All</button>
-      </div>
-      <div id="results"></div>
-    </section>
-  </main>
-  <script src="app.js"></script>
+<body>
+
+<main>
+
+<header>
+
+  <p class="eyebrow">VetAI-Lab</p>
+
+  <h1>VetHub</h1>
+
+  <p class="lede">
+    Discover open veterinary software, datasets,
+    models, benchmarks, and computational resources.
+  </p>
+
+  <input
+    id="search"
+    type="search"
+    placeholder="Search veterinary resources…"
+    autocomplete="off"
+  >
+
+  <div id="stats"></div>
+
+</header>
+
+
+<section>
+
+  <div id="themes"></div>
+
+  <div id="results"></div>
+
+</section>
+
+
+<footer style="margin-top:50px;color:#68737d">
+
+  <p>
+    VetHub is an open veterinary resource discovery project
+    maintained by VetAI-Lab.
+  </p>
+
+  <p>
+    Only reviewed resources are displayed publicly.
+  </p>
+
+</footer>
+
+</main>
+
+<script src="app.js"></script>
+
 </body>
 </html>
