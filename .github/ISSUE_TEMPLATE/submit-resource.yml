@@ -1,0 +1,44 @@
+name: Submit a veterinary resource
+description: Suggest an open veterinary software, dataset, model, benchmark, or computational resource.
+title: "[Resource]: "
+labels:
+  - resource-submission
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Resource URL
+      description: GitHub repository or canonical resource URL.
+      placeholder: https://github.com/owner/repository
+    validations:
+      required: true
+
+  - type: dropdown
+    id: resource_type
+    attributes:
+      label: Resource type
+      options:
+        - Software
+        - Dataset
+        - Model
+        - Benchmark
+        - Database / knowledge base
+        - Annotation tool
+        - Workflow
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Veterinary relevance
+      description: Briefly describe why this resource is useful for veterinary medicine, animal health, or One Health.
+    validations:
+      required: true
+
+  - type: input
+    id: paper
+    attributes:
+      label: Paper or DOI
+      description: Optional publication link or DOI.

@@ -1,0 +1,55 @@
+version: 1
+
+search_queries:
+  - '"veterinary"'
+  - '"veterinary medicine"'
+  - '"veterinary clinical"'
+  - '"animal health"'
+  - '"animal welfare"'
+  - 'veterinary pathology'
+  - 'veterinary radiology'
+  - 'veterinary genomics'
+  - '"livestock health"'
+  - '"companion animal"'
+  - 'equine veterinary'
+  - 'bovine veterinary'
+  - 'canine veterinary'
+  - 'feline veterinary'
+  - '"one health" veterinary'
+  - 'veterinary epidemiology'
+
+per_query: 25
+minimum_score: 0.35
+high_confidence_score: 0.85
+max_candidates: 1000
+
+strong_terms:
+  veterinary: 4.0
+  "veterinary medicine": 5.0
+  "animal health": 3.5
+  "animal welfare": 3.5
+  vetmed: 4.0
+  "veterinary clinical": 4.0
+  "veterinary pathology": 4.0
+  "veterinary radiology": 4.0
+
+supporting_terms:
+  canine: 1.5
+  feline: 1.5
+  bovine: 1.5
+  equine: 1.5
+  porcine: 1.5
+  poultry: 1.0
+  livestock: 1.5
+  zoonotic: 1.0
+  zoonosis: 1.0
+  "one health": 1.0
+  animal: 0.5
+  veterinary-ai: 2.0
+
+negative_terms:
+  "dog vs cat": -4.0
+  "cats vs dogs": -4.0
+  tutorial: -1.0
+  homework: -2.0
+  "hello world": -3.0

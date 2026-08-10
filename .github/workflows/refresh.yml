@@ -1,0 +1,48 @@
+name: Refresh VetHub
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vethub-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install VetHub
+        run: pip install -e .
+
+      - name: Refresh registry
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: vethub refresh
+
+      - name: Commit registry changes
+        run: |
+          if git diff --quiet; then
+            echo "No registry changes."
+            exit 0
+          fi
+
+          git config user.name "vethub-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add registry data docs/catalog.json
+          git commit -m "chore: refresh VetHub registry"
+          git push

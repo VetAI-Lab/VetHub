@@ -1,0 +1,45 @@
+version: 1
+resources:
+  - id: vetai-lab-vetwelfare-nlp
+    source: github
+    full_name: VetAI-Lab/VetWelfare-NLP
+    url: https://github.com/VetAI-Lab/VetWelfare-NLP
+    resource_types:
+      - software
+      - nlp
+    domains:
+      - clinical-informatics
+      - animal-welfare
+      - veterinary-ai
+    species:
+      - multi-species
+    tasks:
+      - clinical-nlp
+      - welfare-annotation
+    curation:
+      status: accepted
+      source: seed
+      verified: true
+
+  - id: vetai-lab-vetjudge
+    source: github
+    full_name: VetAI-Lab/VetJudge
+    url: https://github.com/VetAI-Lab/VetJudge
+    resource_types:
+      - software
+      - benchmark
+    domains:
+      - veterinary-ai
+      - clinical-informatics
+      - animal-welfare
+    species:
+      - multi-species
+    tasks:
+      - annotation-agreement
+      - adjudication
+      - uncertainty
+      - benchmarking
+    curation:
+      status: accepted
+      source: seed
+      verified: true

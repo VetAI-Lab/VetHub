@@ -1,0 +1,92 @@
+version: 1
+
+resource_types:
+  - software
+  - dataset
+  - model
+  - benchmark
+  - annotation-tool
+  - database
+  - knowledge-base
+  - workflow
+  - library
+  - nlp
+  - web-application
+
+domains:
+  - veterinary-ai
+  - clinical-informatics
+  - animal-welfare
+  - diagnostics
+  - epidemiology
+  - infectious-disease
+  - antimicrobial-resistance
+  - genomics
+  - metagenomics
+  - phylogenetics
+  - pathology
+  - radiology
+  - parasitology
+  - pharmacology
+  - drug-discovery
+  - surgery
+  - reproduction
+  - nutrition
+  - precision-livestock
+  - one-health
+  - public-health
+  - wildlife-health
+  - aquaculture
+
+species:
+  - multi-species
+  - canine
+  - feline
+  - bovine
+  - equine
+  - porcine
+  - poultry
+  - ovine
+  - caprine
+  - wildlife
+  - aquatic
+  - laboratory-animal
+
+modalities:
+  - clinical-text
+  - structured-ehr
+  - genomics
+  - transcriptomics
+  - proteomics
+  - metabolomics
+  - microbiome
+  - radiography
+  - ct
+  - mri
+  - ultrasound
+  - histopathology
+  - microscopy
+  - video
+  - audio
+  - sensor-data
+  - surveillance-data
+
+tasks:
+  - clinical-nlp
+  - phenotype-extraction
+  - welfare-annotation
+  - annotation-agreement
+  - adjudication
+  - uncertainty
+  - classification
+  - segmentation
+  - detection
+  - diagnosis
+  - prognosis
+  - risk-prediction
+  - benchmarking
+  - phylogenetics
+  - outbreak-analysis
+  - amr-surveillance
+  - genome-analysis
+  - data-curation
