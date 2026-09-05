@@ -34,7 +34,7 @@ resources:
   updated_at: '2026-08-05T07:41:51Z'
   pushed_at: '2026-08-05T07:17:30Z'
   default_branch: main
-  last_scanned: '2026-09-04T08:51:26.002143+00:00'
+  last_scanned: '2026-09-05T08:21:51.465823+00:00'
 - id: vetai-lab-vetjudge
   source: github
   full_name: VetAI-Lab/VetJudge
@@ -71,4 +71,4 @@ resources:
   updated_at: '2026-08-05T08:13:57Z'
   pushed_at: '2026-08-05T08:12:23Z'
   default_branch: main
-  last_scanned: '2026-09-04T08:51:26.457531+00:00'
+  last_scanned: '2026-09-05T08:21:51.829740+00:00'
