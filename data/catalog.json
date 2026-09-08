@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-07T09:25:04.050394+00:00",
+  "generated_at": "2026-09-08T08:57:19.190148+00:00",
   "counts": {
     "accepted": 2,
-    "candidates": 467,
-    "total": 469
+    "candidates": 484,
+    "total": 486
   },
   "accepted": [
     {
@@ -47,7 +47,7 @@
       "updated_at": "2026-08-05T07:41:51Z",
       "pushed_at": "2026-08-05T07:17:30Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:16.364099+00:00"
+      "last_scanned": "2026-09-08T08:52:55.800237+00:00"
     },
     {
       "id": "vetai-lab-vetjudge",
@@ -91,7 +91,7 @@
       "updated_at": "2026-08-05T08:13:57Z",
       "pushed_at": "2026-08-05T08:12:23Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:16.912874+00:00"
+      "last_scanned": "2026-09-08T08:52:56.313962+00:00"
     }
   ],
   "candidates": [
@@ -114,7 +114,7 @@
       "updated_at": "2025-10-28T21:29:49Z",
       "pushed_at": "2025-10-28T21:29:46Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:18.058904+00:00",
+      "last_scanned": "2026-09-08T08:52:57.882902+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -147,7 +147,7 @@
       "updated_at": "2026-08-27T02:38:15Z",
       "pushed_at": "2026-08-06T04:56:40Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:18.529072+00:00",
+      "last_scanned": "2026-09-08T08:52:58.407280+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -179,7 +179,7 @@
       "updated_at": "2026-08-27T14:16:53Z",
       "pushed_at": "2026-08-27T13:52:24Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:19.087875+00:00",
+      "last_scanned": "2026-09-08T08:52:58.840751+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -213,7 +213,7 @@
       "updated_at": "2026-08-04T16:46:44Z",
       "pushed_at": "2026-08-04T16:45:11Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:19.714987+00:00",
+      "last_scanned": "2026-09-08T08:52:59.359776+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -247,7 +247,7 @@
       "updated_at": "2026-04-01T17:17:36Z",
       "pushed_at": "2026-04-01T17:10:08Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:20.149206+00:00",
+      "last_scanned": "2026-09-08T08:52:59.875270+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -289,7 +289,7 @@
       "updated_at": "2026-09-04T19:07:32Z",
       "pushed_at": "2026-09-04T19:07:27Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:20.692160+00:00",
+      "last_scanned": "2026-09-08T08:53:00.462634+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -322,7 +322,7 @@
       "updated_at": "2026-07-19T06:38:24Z",
       "pushed_at": "2026-07-19T06:38:20Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:21.168506+00:00",
+      "last_scanned": "2026-09-08T08:53:01.172883+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -354,10 +354,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-08-24T05:38:10Z",
-      "updated_at": "2026-09-06T22:12:16Z",
-      "pushed_at": "2026-09-06T22:12:12Z",
+      "updated_at": "2026-09-08T05:37:10Z",
+      "pushed_at": "2026-09-08T05:36:58Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:21.660202+00:00",
+      "last_scanned": "2026-09-08T08:53:01.769704+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -390,7 +390,7 @@
       "updated_at": "2026-09-06T11:39:03Z",
       "pushed_at": "2026-09-06T11:54:48Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:22.139124+00:00",
+      "last_scanned": "2026-09-08T08:53:02.261906+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -424,7 +424,7 @@
       "updated_at": "2024-09-27T10:11:30Z",
       "pushed_at": "2024-09-27T10:11:26Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:22.636944+00:00",
+      "last_scanned": "2026-09-08T08:53:02.738670+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -457,7 +457,7 @@
       "updated_at": "2026-08-24T12:18:10Z",
       "pushed_at": "2026-08-24T12:13:10Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:23.076305+00:00",
+      "last_scanned": "2026-09-08T08:53:03.361754+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -490,7 +490,7 @@
       "updated_at": "2026-08-07T20:15:06Z",
       "pushed_at": "2026-08-07T20:15:02Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:23.509001+00:00",
+      "last_scanned": "2026-09-08T08:53:04.001538+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -522,7 +522,7 @@
       "updated_at": "2026-07-30T15:21:30Z",
       "pushed_at": "2026-07-30T15:16:27Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:23.966195+00:00",
+      "last_scanned": "2026-09-08T08:53:04.537123+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -555,7 +555,7 @@
       "updated_at": "2026-09-06T09:48:03Z",
       "pushed_at": "2026-09-06T09:48:00Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:24.410297+00:00",
+      "last_scanned": "2026-09-08T08:53:05.092910+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -595,7 +595,7 @@
       "updated_at": "2026-06-20T23:32:45Z",
       "pushed_at": "2026-07-24T02:12:50Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:24.962856+00:00",
+      "last_scanned": "2026-09-08T08:53:05.612480+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -627,7 +627,7 @@
       "updated_at": "2026-03-07T07:44:25Z",
       "pushed_at": "2025-09-07T21:33:41Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:25.424339+00:00",
+      "last_scanned": "2026-09-08T08:53:06.109631+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -696,7 +696,7 @@
       "updated_at": "2026-08-29T13:09:35Z",
       "pushed_at": "2026-08-29T13:09:12Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:26.086135+00:00",
+      "last_scanned": "2026-09-08T08:53:06.836676+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -707,6 +707,42 @@
           "+4 strong:veterinary clinical",
           "+1.5 support:canine",
           "+1.5 support:feline",
+          "+0.5 support:animal"
+        ]
+      }
+    },
+    {
+      "id": "katarurevanth5726-glitch-vetcheck",
+      "source": "github",
+      "full_name": "katarurevanth5726-glitch/VetCheck",
+      "url": "https://github.com/katarurevanth5726-glitch/VetCheck",
+      "description": "AI-assisted animal health screening and veterinary support platform",
+      "homepage": null,
+      "topics": [],
+      "language": "TypeScript",
+      "license": null,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-09-07T17:06:33Z",
+      "updated_at": "2026-09-07T19:54:20Z",
+      "pushed_at": "2026-09-07T19:53:43Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:53:07.379611+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 1.0,
+        "score_reasons": [
+          "+4 strong:veterinary",
+          "+3.5 strong:animal health",
+          "+3.5 strong:animal welfare",
+          "+4 strong:veterinary clinical",
+          "+1 support:poultry",
+          "+1.5 support:livestock",
           "+0.5 support:animal"
         ]
       }
@@ -730,7 +766,7 @@
       "updated_at": "2026-08-10T12:07:39Z",
       "pushed_at": "2026-08-10T12:07:14Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:26.594138+00:00",
+      "last_scanned": "2026-09-08T08:53:07.920921+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -764,7 +800,7 @@
       "updated_at": "2022-11-13T11:12:34Z",
       "pushed_at": "2023-02-09T14:30:11Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:27.268202+00:00",
+      "last_scanned": "2026-09-08T08:53:08.397305+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -796,7 +832,7 @@
       "updated_at": "2026-08-17T20:10:34Z",
       "pushed_at": "2026-08-17T20:07:10Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:27.664765+00:00",
+      "last_scanned": "2026-09-08T08:53:08.903467+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -831,7 +867,7 @@
       "updated_at": "2026-08-26T15:23:18Z",
       "pushed_at": "2026-08-26T14:48:01Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:28.213537+00:00",
+      "last_scanned": "2026-09-08T08:53:09.437313+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -865,7 +901,7 @@
       "updated_at": "2026-04-04T00:49:01Z",
       "pushed_at": "2026-04-04T00:48:58Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:28.671711+00:00",
+      "last_scanned": "2026-09-08T08:53:10.029183+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -890,16 +926,16 @@
       "topics": [],
       "language": "Jupyter Notebook",
       "license": null,
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "open_issues": 0,
       "archived": false,
       "fork": false,
       "created_at": "2026-07-26T22:01:01Z",
-      "updated_at": "2026-08-03T21:18:44Z",
+      "updated_at": "2026-09-07T18:58:38Z",
       "pushed_at": "2026-08-03T21:15:48Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:29.150384+00:00",
+      "last_scanned": "2026-09-08T08:53:10.531278+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -932,7 +968,7 @@
       "updated_at": "2025-08-06T20:31:28Z",
       "pushed_at": "2025-08-06T20:31:24Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:29.661125+00:00",
+      "last_scanned": "2026-09-08T08:53:11.068674+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -970,7 +1006,7 @@
       "updated_at": "2026-08-12T23:43:51Z",
       "pushed_at": "2026-08-19T12:25:48Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:30.164980+00:00",
+      "last_scanned": "2026-09-08T08:53:11.630473+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1010,7 +1046,7 @@
       "updated_at": "2026-09-06T00:44:33Z",
       "pushed_at": "2026-09-04T21:46:40Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:30.720453+00:00",
+      "last_scanned": "2026-09-08T08:53:12.156660+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1043,7 +1079,7 @@
       "updated_at": "2022-03-21T15:53:22Z",
       "pushed_at": "2021-08-06T09:40:15Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:31.294149+00:00",
+      "last_scanned": "2026-09-08T08:53:12.663611+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1076,7 +1112,7 @@
       "updated_at": "2026-09-05T14:18:55Z",
       "pushed_at": "2026-08-31T14:06:50Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:31.725818+00:00",
+      "last_scanned": "2026-09-08T08:53:13.143696+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1110,7 +1146,7 @@
       "updated_at": "2026-08-11T11:28:02Z",
       "pushed_at": "2026-08-11T11:27:31Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:32.146409+00:00",
+      "last_scanned": "2026-09-08T08:53:13.645804+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1144,7 +1180,7 @@
       "updated_at": "2026-08-17T18:16:35Z",
       "pushed_at": "2026-08-17T18:15:21Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:21:32.649036+00:00",
+      "last_scanned": "2026-09-08T08:53:14.173068+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1187,7 +1223,7 @@
       "updated_at": "2026-01-29T11:41:27Z",
       "pushed_at": "2026-01-21T22:57:16Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:33.071889+00:00",
+      "last_scanned": "2026-09-08T08:53:14.649391+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1219,7 +1255,7 @@
       "updated_at": "2026-09-03T04:59:53Z",
       "pushed_at": "2026-09-03T04:50:24Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:33.513305+00:00",
+      "last_scanned": "2026-09-08T08:53:15.184925+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1252,7 +1288,7 @@
       "updated_at": "2026-04-01T18:16:27Z",
       "pushed_at": "2025-08-15T15:19:34Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:34.137468+00:00",
+      "last_scanned": "2026-09-08T08:53:15.680683+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1287,7 +1323,7 @@
       "updated_at": "2026-08-05T19:04:57Z",
       "pushed_at": "2026-08-05T19:03:56Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:34.629058+00:00",
+      "last_scanned": "2026-09-08T08:53:16.315284+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1320,7 +1356,7 @@
       "updated_at": "2026-08-09T12:36:16Z",
       "pushed_at": "2026-08-09T12:36:11Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:35.133319+00:00",
+      "last_scanned": "2026-09-08T08:53:16.854147+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1353,7 +1389,7 @@
       "updated_at": "2026-08-23T14:03:21Z",
       "pushed_at": "2026-08-23T14:02:09Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:35.574613+00:00",
+      "last_scanned": "2026-09-08T08:53:17.382485+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1387,7 +1423,7 @@
       "updated_at": "2026-08-31T18:27:39Z",
       "pushed_at": "2026-08-31T18:16:48Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:36.060991+00:00",
+      "last_scanned": "2026-09-08T08:53:17.917325+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1421,7 +1457,7 @@
       "updated_at": "2025-11-25T05:19:24Z",
       "pushed_at": "2025-11-25T05:19:20Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:36.509248+00:00",
+      "last_scanned": "2026-09-08T08:53:18.429251+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1453,7 +1489,7 @@
       "updated_at": "2026-09-02T16:38:53Z",
       "pushed_at": "2026-09-02T16:14:16Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:36.939121+00:00",
+      "last_scanned": "2026-09-08T08:53:19.051605+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1486,7 +1522,7 @@
       "updated_at": "2026-07-01T11:59:46Z",
       "pushed_at": "2026-07-01T11:59:42Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:37.435508+00:00",
+      "last_scanned": "2026-09-08T08:53:19.557442+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1528,7 +1564,7 @@
       "updated_at": "2026-09-04T18:39:49Z",
       "pushed_at": "2026-09-04T18:39:46Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:37.930898+00:00",
+      "last_scanned": "2026-09-08T08:53:20.098882+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1571,7 +1607,7 @@
       "updated_at": "2026-09-04T19:34:53Z",
       "pushed_at": "2026-09-04T19:34:30Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:38.427056+00:00",
+      "last_scanned": "2026-09-08T08:53:20.666199+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1607,10 +1643,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2024-05-29T11:55:34Z",
-      "updated_at": "2026-09-07T08:54:24Z",
-      "pushed_at": "2026-09-07T08:54:16Z",
+      "updated_at": "2026-09-08T08:37:52Z",
+      "pushed_at": "2026-09-08T08:35:37Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:38.837712+00:00",
+      "last_scanned": "2026-09-08T08:53:21.208101+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1643,7 +1679,7 @@
       "updated_at": "2026-09-06T21:29:14Z",
       "pushed_at": "2026-09-06T21:29:07Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:39.301146+00:00",
+      "last_scanned": "2026-09-08T08:53:21.752412+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1676,7 +1712,7 @@
       "updated_at": "2026-08-15T14:19:14Z",
       "pushed_at": "2026-08-15T14:19:09Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:39.819518+00:00",
+      "last_scanned": "2026-09-08T08:53:22.305539+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1708,7 +1744,7 @@
       "updated_at": "2026-06-24T14:07:38Z",
       "pushed_at": "2026-06-24T14:06:35Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:40.287641+00:00",
+      "last_scanned": "2026-09-08T08:53:22.862300+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1774,7 +1810,7 @@
       "updated_at": "2026-08-29T10:09:28Z",
       "pushed_at": "2026-08-13T02:04:23Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:40.902552+00:00",
+      "last_scanned": "2026-09-08T08:53:23.536144+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1807,7 +1843,7 @@
       "updated_at": "2026-08-31T20:06:17Z",
       "pushed_at": "2026-08-31T20:06:05Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:41.367185+00:00",
+      "last_scanned": "2026-09-08T08:53:24.044117+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1837,10 +1873,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-09-01T22:33:14Z",
-      "updated_at": "2026-09-07T01:51:35Z",
-      "pushed_at": "2026-09-07T01:51:31Z",
+      "updated_at": "2026-09-08T03:08:49Z",
+      "pushed_at": "2026-09-08T03:11:01Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:41.854047+00:00",
+      "last_scanned": "2026-09-08T08:53:24.550868+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1872,7 +1908,7 @@
       "updated_at": "2026-07-05T12:32:28Z",
       "pushed_at": "2026-07-05T12:32:24Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:42.415794+00:00",
+      "last_scanned": "2026-09-08T08:53:25.083939+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1904,7 +1940,7 @@
       "updated_at": "2026-07-15T11:01:09Z",
       "pushed_at": "2026-07-15T11:00:57Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:42.889187+00:00",
+      "last_scanned": "2026-09-08T08:53:25.628525+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1937,7 +1973,7 @@
       "updated_at": "2026-08-01T19:49:21Z",
       "pushed_at": "2026-08-01T19:49:17Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:43.441472+00:00",
+      "last_scanned": "2026-09-08T08:53:26.189275+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -1970,7 +2006,7 @@
       "updated_at": "2026-06-08T10:37:40Z",
       "pushed_at": "2026-06-08T10:37:36Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:43.900847+00:00",
+      "last_scanned": "2026-09-08T08:53:26.722821+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2002,7 +2038,7 @@
       "updated_at": "2026-03-26T10:31:33Z",
       "pushed_at": "2026-03-26T10:31:29Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:44.452663+00:00",
+      "last_scanned": "2026-09-08T08:53:27.231558+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2074,7 +2110,7 @@
       "updated_at": "2026-08-15T00:08:13Z",
       "pushed_at": "2026-08-15T00:08:04Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:45.036734+00:00",
+      "last_scanned": "2026-09-08T08:53:27.894542+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2107,7 +2143,7 @@
       "updated_at": "2026-07-06T18:27:05Z",
       "pushed_at": "2026-07-06T18:27:00Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:45.537024+00:00",
+      "last_scanned": "2026-09-08T08:53:28.393229+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2139,7 +2175,7 @@
       "updated_at": "2026-09-06T16:59:45Z",
       "pushed_at": "2026-09-06T16:59:41Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:45.985478+00:00",
+      "last_scanned": "2026-09-08T08:53:28.919958+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2172,7 +2208,7 @@
       "updated_at": "2026-08-11T15:58:24Z",
       "pushed_at": "2026-08-11T15:57:28Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:46.449560+00:00",
+      "last_scanned": "2026-09-08T08:53:29.422143+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2205,7 +2241,7 @@
       "updated_at": "2026-08-25T08:47:26Z",
       "pushed_at": "2026-08-26T14:30:38Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:47.019776+00:00",
+      "last_scanned": "2026-09-08T08:53:29.933974+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2249,7 +2285,7 @@
       "updated_at": "2026-07-06T06:29:55Z",
       "pushed_at": "2026-07-06T06:29:51Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:47.506943+00:00",
+      "last_scanned": "2026-09-08T08:53:30.528430+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2282,7 +2318,7 @@
       "updated_at": "2026-08-14T05:51:10Z",
       "pushed_at": "2026-08-14T05:46:55Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:48.035879+00:00",
+      "last_scanned": "2026-09-08T08:53:31.026264+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2315,7 +2351,7 @@
       "updated_at": "2026-09-04T12:30:15Z",
       "pushed_at": "2026-09-04T12:30:07Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:48.449865+00:00",
+      "last_scanned": "2026-09-08T08:53:31.713271+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2348,7 +2384,7 @@
       "updated_at": "2026-08-02T15:38:23Z",
       "pushed_at": "2026-08-02T15:38:10Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:48.904848+00:00",
+      "last_scanned": "2026-09-08T08:53:32.240409+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2387,7 +2423,7 @@
       "updated_at": "2026-08-23T20:33:49Z",
       "pushed_at": "2026-08-23T20:33:25Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:21:49.501885+00:00",
+      "last_scanned": "2026-09-08T08:53:33.849846+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2420,7 +2456,7 @@
       "updated_at": "2026-01-28T05:32:19Z",
       "pushed_at": "2026-01-28T05:04:21Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:49.946573+00:00",
+      "last_scanned": "2026-09-08T08:53:34.430358+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2452,7 +2488,7 @@
       "updated_at": "2026-07-31T10:52:31Z",
       "pushed_at": "2026-07-31T10:52:28Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:50.391477+00:00",
+      "last_scanned": "2026-09-08T08:53:35.017851+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2485,7 +2521,7 @@
       "updated_at": "2026-08-25T14:48:34Z",
       "pushed_at": "2026-08-25T14:40:15Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:50.907983+00:00",
+      "last_scanned": "2026-09-08T08:53:35.544463+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2516,7 +2552,7 @@
       "updated_at": "2026-08-26T17:49:23Z",
       "pushed_at": "2026-08-26T17:42:47Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:51.521648+00:00",
+      "last_scanned": "2026-09-08T08:53:36.039090+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2547,7 +2583,7 @@
       "updated_at": "2026-09-05T06:45:48Z",
       "pushed_at": "2026-09-05T06:45:44Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:51.937694+00:00",
+      "last_scanned": "2026-09-08T08:53:36.574173+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2578,7 +2614,7 @@
       "updated_at": "2026-09-04T21:32:14Z",
       "pushed_at": "2026-09-04T21:32:10Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:52.366565+00:00",
+      "last_scanned": "2026-09-08T08:53:37.245974+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2609,7 +2645,7 @@
       "updated_at": "2026-09-07T06:40:18Z",
       "pushed_at": "2026-09-07T06:40:15Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:52.757293+00:00",
+      "last_scanned": "2026-09-08T08:53:37.730176+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2654,7 +2690,7 @@
       "updated_at": "2026-06-08T11:26:43Z",
       "pushed_at": "2026-06-08T11:26:39Z",
       "default_branch": "develop",
-      "last_scanned": "2026-09-07T09:21:53.219009+00:00",
+      "last_scanned": "2026-09-08T08:53:38.245642+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2685,7 +2721,7 @@
       "updated_at": "2026-06-06T13:05:19Z",
       "pushed_at": "2026-06-06T13:05:15Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:53.647587+00:00",
+      "last_scanned": "2026-09-08T08:53:38.818798+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2716,7 +2752,7 @@
       "updated_at": "2020-06-25T05:49:52Z",
       "pushed_at": "2020-06-25T05:49:50Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:21:54.125992+00:00",
+      "last_scanned": "2026-09-08T08:53:39.328890+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2747,7 +2783,7 @@
       "updated_at": "2026-07-26T16:51:06Z",
       "pushed_at": "2026-07-26T16:50:59Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:54.608972+00:00",
+      "last_scanned": "2026-09-08T08:53:39.818221+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2778,7 +2814,7 @@
       "updated_at": "2026-06-24T21:54:25Z",
       "pushed_at": "2026-06-24T21:54:14Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:55.040719+00:00",
+      "last_scanned": "2026-09-08T08:53:40.305534+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2809,7 +2845,7 @@
       "updated_at": "2026-08-11T06:22:24Z",
       "pushed_at": "2026-08-11T06:10:43Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:56.397148+00:00",
+      "last_scanned": "2026-09-08T08:53:40.938308+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2842,7 +2878,7 @@
       "updated_at": "2026-06-22T14:34:11Z",
       "pushed_at": "2026-06-22T14:31:59Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:56.854936+00:00",
+      "last_scanned": "2026-09-08T08:53:41.511429+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2873,7 +2909,7 @@
       "updated_at": "2026-07-02T09:45:43Z",
       "pushed_at": "2026-07-02T09:45:38Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:57.421451+00:00",
+      "last_scanned": "2026-09-08T08:53:42.077732+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2909,7 +2945,7 @@
       "updated_at": "2023-08-18T08:52:14Z",
       "pushed_at": "2022-12-20T01:42:17Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:57.936113+00:00",
+      "last_scanned": "2026-09-08T08:53:42.597933+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2942,7 +2978,7 @@
       "updated_at": "2026-07-11T16:55:04Z",
       "pushed_at": "2026-07-11T16:54:59Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:58.393203+00:00",
+      "last_scanned": "2026-09-08T08:53:43.096992+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -2973,7 +3009,7 @@
       "updated_at": "2026-07-23T13:20:41Z",
       "pushed_at": "2026-07-23T12:52:42Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:58.855620+00:00",
+      "last_scanned": "2026-09-08T08:53:43.709250+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3004,7 +3040,7 @@
       "updated_at": "2026-09-04T17:18:14Z",
       "pushed_at": "2026-09-05T00:04:28Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:59.329938+00:00",
+      "last_scanned": "2026-09-08T08:53:44.262852+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3035,7 +3071,7 @@
       "updated_at": "2026-08-05T07:44:44Z",
       "pushed_at": "2026-08-05T07:43:34Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:21:59.773687+00:00",
+      "last_scanned": "2026-09-08T08:53:44.788130+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3063,10 +3099,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-08-05T07:43:30Z",
-      "updated_at": "2026-09-06T08:43:06Z",
-      "pushed_at": "2026-09-06T08:42:58Z",
+      "updated_at": "2026-09-07T09:25:27Z",
+      "pushed_at": "2026-09-07T09:25:05Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:00.283581+00:00",
+      "last_scanned": "2026-09-08T08:53:45.257762+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3098,7 +3134,7 @@
       "updated_at": "2026-02-08T04:24:53Z",
       "pushed_at": "2026-02-01T09:48:03Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:00.717562+00:00",
+      "last_scanned": "2026-09-08T08:53:45.739682+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3130,7 +3166,7 @@
       "updated_at": "2025-03-23T02:31:20Z",
       "pushed_at": "2025-03-23T02:31:17Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:01.162733+00:00",
+      "last_scanned": "2026-09-08T08:53:46.220696+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3162,7 +3198,7 @@
       "updated_at": "2026-06-02T11:22:08Z",
       "pushed_at": "2026-06-02T11:22:04Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:01.684856+00:00",
+      "last_scanned": "2026-09-08T08:53:46.736786+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3194,7 +3230,7 @@
       "updated_at": "2026-05-13T09:41:34Z",
       "pushed_at": "2026-05-13T09:40:47Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:02.259990+00:00",
+      "last_scanned": "2026-09-08T08:53:47.279369+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3226,7 +3262,7 @@
       "updated_at": "2026-08-22T10:13:53Z",
       "pushed_at": "2026-08-22T10:13:12Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:02.708924+00:00",
+      "last_scanned": "2026-09-08T08:53:47.801789+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3258,7 +3294,7 @@
       "updated_at": "2026-09-03T11:59:45Z",
       "pushed_at": "2026-09-03T11:58:53Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:03.294877+00:00",
+      "last_scanned": "2026-09-08T08:53:48.279468+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3290,7 +3326,7 @@
       "updated_at": "2026-09-07T05:25:26Z",
       "pushed_at": "2026-09-07T05:25:21Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:03.730138+00:00",
+      "last_scanned": "2026-09-08T08:53:48.800340+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3328,7 +3364,7 @@
       "updated_at": "2026-07-21T07:52:05Z",
       "pushed_at": "2026-07-21T07:51:38Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:04.291760+00:00",
+      "last_scanned": "2026-09-08T08:53:49.335718+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3370,7 +3406,7 @@
       "updated_at": "2024-09-27T06:35:08Z",
       "pushed_at": "2024-09-27T06:35:02Z",
       "default_branch": "gh-pages",
-      "last_scanned": "2026-09-07T09:22:04.752093+00:00",
+      "last_scanned": "2026-09-08T08:53:49.869079+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3402,7 +3438,7 @@
       "updated_at": "2026-08-07T09:58:35Z",
       "pushed_at": "2026-08-07T09:58:06Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:05.241353+00:00",
+      "last_scanned": "2026-09-08T08:53:50.366573+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3434,7 +3470,7 @@
       "updated_at": "2026-08-06T12:20:35Z",
       "pushed_at": "2026-08-06T12:20:08Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:22:05.855138+00:00",
+      "last_scanned": "2026-09-08T08:53:50.901861+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3466,7 +3502,7 @@
       "updated_at": "2026-08-16T16:48:17Z",
       "pushed_at": "2026-08-16T16:47:42Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:06.314030+00:00",
+      "last_scanned": "2026-09-08T08:53:51.417323+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3498,7 +3534,7 @@
       "updated_at": "2026-05-10T16:14:35Z",
       "pushed_at": "2026-05-10T16:14:35Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:06.758242+00:00",
+      "last_scanned": "2026-09-08T08:53:51.952512+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3536,7 +3572,7 @@
       "updated_at": "2026-09-04T19:41:54Z",
       "pushed_at": "2026-09-04T19:41:49Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:07.296414+00:00",
+      "last_scanned": "2026-09-08T08:53:52.481682+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3574,7 +3610,7 @@
       "updated_at": "2026-09-04T19:50:52Z",
       "pushed_at": "2026-09-04T19:50:49Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:07.961706+00:00",
+      "last_scanned": "2026-09-08T08:53:53.032461+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3616,7 +3652,7 @@
       "updated_at": "2026-09-04T19:56:01Z",
       "pushed_at": "2026-09-04T19:55:55Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:08.500475+00:00",
+      "last_scanned": "2026-09-08T08:53:53.638243+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3654,7 +3690,7 @@
       "updated_at": "2026-09-04T20:29:16Z",
       "pushed_at": "2026-09-04T20:29:11Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:09.041788+00:00",
+      "last_scanned": "2026-09-08T08:53:54.226211+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3683,10 +3719,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-09-03T11:44:07Z",
-      "updated_at": "2026-09-07T08:37:27Z",
-      "pushed_at": "2026-09-07T08:37:21Z",
+      "updated_at": "2026-09-08T06:22:14Z",
+      "pushed_at": "2026-09-08T06:21:58Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:09.620490+00:00",
+      "last_scanned": "2026-09-08T08:53:54.839140+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3718,7 +3754,7 @@
       "updated_at": "2026-03-12T21:25:48Z",
       "pushed_at": "2026-03-12T21:25:44Z",
       "default_branch": "feat/dynamic-detail-pages",
-      "last_scanned": "2026-09-07T09:22:10.154972+00:00",
+      "last_scanned": "2026-09-08T08:53:55.348108+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3749,7 +3785,7 @@
       "updated_at": "2024-10-11T16:45:20Z",
       "pushed_at": "2024-09-04T18:41:54Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:10.646995+00:00",
+      "last_scanned": "2026-09-08T08:53:55.866660+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3788,7 +3824,7 @@
       "updated_at": "2025-03-31T19:44:22Z",
       "pushed_at": "2025-03-31T19:42:51Z",
       "default_branch": "develop",
-      "last_scanned": "2026-09-07T09:22:11.129093+00:00",
+      "last_scanned": "2026-09-08T08:53:56.390603+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3819,7 +3855,7 @@
       "updated_at": "2026-04-03T08:48:16Z",
       "pushed_at": "2026-04-03T08:48:13Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:11.542206+00:00",
+      "last_scanned": "2026-09-08T08:53:56.866193+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3851,7 +3887,7 @@
       "updated_at": "2026-05-29T12:05:27Z",
       "pushed_at": "2026-05-29T12:05:21Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:12.015269+00:00",
+      "last_scanned": "2026-09-08T08:53:57.399900+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3882,7 +3918,7 @@
       "updated_at": "2026-08-14T14:10:30Z",
       "pushed_at": "2026-08-14T14:08:46Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:12.438164+00:00",
+      "last_scanned": "2026-09-08T08:53:57.964512+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3928,7 +3964,7 @@
       "updated_at": "2026-09-03T23:09:22Z",
       "pushed_at": "2026-09-07T07:30:03Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:12.875881+00:00",
+      "last_scanned": "2026-09-08T08:53:58.472101+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -3972,7 +4008,7 @@
       "updated_at": "2026-08-08T13:00:04Z",
       "pushed_at": "2026-08-08T12:59:56Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:13.589551+00:00",
+      "last_scanned": "2026-09-08T08:53:58.996686+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4004,7 +4040,7 @@
       "updated_at": "2025-07-09T09:41:50Z",
       "pushed_at": "2025-07-09T09:41:48Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:14.066579+00:00",
+      "last_scanned": "2026-09-08T08:53:59.455510+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4035,7 +4071,7 @@
       "updated_at": "2026-05-14T05:10:14Z",
       "pushed_at": "2026-05-13T09:36:33Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:14.490157+00:00",
+      "last_scanned": "2026-09-08T08:54:00.020856+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4066,7 +4102,7 @@
       "updated_at": "2026-08-06T02:52:09Z",
       "pushed_at": "2026-08-06T02:51:57Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:14.921595+00:00",
+      "last_scanned": "2026-09-08T08:54:00.631804+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4097,7 +4133,7 @@
       "updated_at": "2026-06-21T14:49:38Z",
       "pushed_at": "2026-06-21T14:49:34Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:15.448719+00:00",
+      "last_scanned": "2026-09-08T08:54:01.192540+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4128,7 +4164,7 @@
       "updated_at": "2026-09-05T17:10:36Z",
       "pushed_at": "2026-09-05T17:10:33Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:15.907432+00:00",
+      "last_scanned": "2026-09-08T08:54:01.659567+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4159,7 +4195,7 @@
       "updated_at": "2023-06-08T15:49:26Z",
       "pushed_at": "2021-05-24T22:00:29Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:22:16.347318+00:00",
+      "last_scanned": "2026-09-08T08:54:02.176775+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4190,7 +4226,7 @@
       "updated_at": "2025-11-17T19:48:00Z",
       "pushed_at": "2025-11-03T09:56:51Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:16.914388+00:00",
+      "last_scanned": "2026-09-08T08:54:02.639846+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4222,7 +4258,7 @@
       "updated_at": "2026-07-24T01:52:33Z",
       "pushed_at": "2026-08-24T01:16:14Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:17.378358+00:00",
+      "last_scanned": "2026-09-08T08:54:03.113148+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4253,7 +4289,7 @@
       "updated_at": "2026-08-13T22:29:34Z",
       "pushed_at": "2026-08-13T22:29:29Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:17.895794+00:00",
+      "last_scanned": "2026-09-08T08:54:03.633601+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4262,6 +4298,38 @@
         "score_reasons": [
           "+4 strong:veterinary",
           "+3.5 strong:animal welfare",
+          "+0.5 support:animal"
+        ]
+      }
+    },
+    {
+      "id": "lidu12-veterinary-drug-supply-management-system",
+      "source": "github",
+      "full_name": "lidu12/veterinary-drug-supply-management-system",
+      "url": "https://github.com/lidu12/veterinary-drug-supply-management-system",
+      "description": null,
+      "homepage": null,
+      "topics": [],
+      "language": "JavaScript",
+      "license": null,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-08-28T11:09:46Z",
+      "updated_at": "2026-09-08T07:47:11Z",
+      "pushed_at": "2026-09-08T07:44:32Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:54:04.166141+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.8,
+        "score_reasons": [
+          "+4 strong:veterinary",
+          "+3.5 strong:animal health",
           "+0.5 support:animal"
         ]
       }
@@ -4285,7 +4353,7 @@
       "updated_at": "2026-04-10T19:40:53Z",
       "pushed_at": "2026-04-10T19:40:48Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:18.383462+00:00",
+      "last_scanned": "2026-09-08T08:54:04.652805+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4316,7 +4384,7 @@
       "updated_at": "2026-08-29T15:40:30Z",
       "pushed_at": "2026-08-29T15:40:21Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:18.947141+00:00",
+      "last_scanned": "2026-09-08T08:54:05.186236+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4348,7 +4416,7 @@
       "updated_at": "2026-05-18T16:13:34Z",
       "pushed_at": "2026-05-18T16:13:30Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:19.526303+00:00",
+      "last_scanned": "2026-09-08T08:54:05.693573+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4379,7 +4447,7 @@
       "updated_at": "2026-06-30T00:12:29Z",
       "pushed_at": "2026-06-30T00:12:25Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:22:19.946552+00:00",
+      "last_scanned": "2026-09-08T08:54:06.255538+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4410,7 +4478,7 @@
       "updated_at": "2026-03-26T16:52:34Z",
       "pushed_at": "2026-03-26T16:52:34Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:20.468528+00:00",
+      "last_scanned": "2026-09-08T08:54:06.820824+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4441,7 +4509,7 @@
       "updated_at": "2021-11-29T13:50:34Z",
       "pushed_at": "2021-11-29T13:50:32Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:20.965745+00:00",
+      "last_scanned": "2026-09-08T08:54:07.301356+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4472,7 +4540,7 @@
       "updated_at": "2024-05-25T14:29:39Z",
       "pushed_at": "2023-02-03T15:33:27Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:21.503667+00:00",
+      "last_scanned": "2026-09-08T08:54:07.893410+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4503,7 +4571,7 @@
       "updated_at": "2026-08-06T14:56:42Z",
       "pushed_at": "2026-08-06T21:01:46Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:21.971486+00:00",
+      "last_scanned": "2026-09-08T08:54:08.424113+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4534,7 +4602,7 @@
       "updated_at": "2024-07-14T04:55:48Z",
       "pushed_at": "2024-07-14T04:55:45Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:22.511816+00:00",
+      "last_scanned": "2026-09-08T08:54:08.875756+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4565,7 +4633,7 @@
       "updated_at": "2026-06-15T22:32:42Z",
       "pushed_at": "2026-06-15T22:32:39Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:22.989291+00:00",
+      "last_scanned": "2026-09-08T08:54:09.370530+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4596,7 +4664,7 @@
       "updated_at": "2026-06-22T14:52:33Z",
       "pushed_at": "2026-06-22T14:50:27Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:23.424960+00:00",
+      "last_scanned": "2026-09-08T08:54:09.886826+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4627,7 +4695,7 @@
       "updated_at": "2026-09-04T21:25:31Z",
       "pushed_at": "2026-09-04T21:26:09Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:23.881579+00:00",
+      "last_scanned": "2026-09-08T08:54:10.410667+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4659,7 +4727,7 @@
       "updated_at": "2026-08-14T14:02:55Z",
       "pushed_at": "2026-08-14T14:01:32Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:24.410403+00:00",
+      "last_scanned": "2026-09-08T08:54:10.974312+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4691,7 +4759,7 @@
       "updated_at": "2026-03-09T22:48:47Z",
       "pushed_at": "2026-03-09T22:48:44Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:24.871032+00:00",
+      "last_scanned": "2026-09-08T08:54:11.429271+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4722,7 +4790,7 @@
       "updated_at": "2026-08-04T11:37:23Z",
       "pushed_at": "2026-08-04T11:36:24Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:25.327738+00:00",
+      "last_scanned": "2026-09-08T08:54:11.984577+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4754,7 +4822,7 @@
       "updated_at": "2026-08-05T07:43:57Z",
       "pushed_at": "2026-08-05T07:43:40Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:25.806247+00:00",
+      "last_scanned": "2026-09-08T08:54:12.559796+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4785,7 +4853,7 @@
       "updated_at": "2026-04-03T07:50:44Z",
       "pushed_at": "2026-04-03T07:50:41Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:26.324755+00:00",
+      "last_scanned": "2026-09-08T08:54:13.109740+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4813,16 +4881,16 @@
       ],
       "language": "TypeScript",
       "license": "NOASSERTION",
-      "stars": 2020,
+      "stars": 2019,
       "forks": 82,
-      "open_issues": 104,
+      "open_issues": 108,
       "archived": false,
       "fork": false,
       "created_at": "2025-01-21T11:26:05Z",
-      "updated_at": "2026-09-06T17:54:02Z",
-      "pushed_at": "2026-09-07T05:43:23Z",
+      "updated_at": "2026-09-08T07:30:31Z",
+      "pushed_at": "2026-09-08T08:47:01Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:26.839447+00:00",
+      "last_scanned": "2026-09-08T08:54:13.674989+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4854,7 +4922,7 @@
       "updated_at": "2023-10-11T04:55:50Z",
       "pushed_at": "2022-03-29T09:33:13Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:27.296142+00:00",
+      "last_scanned": "2026-09-08T08:54:14.277841+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4887,7 +4955,7 @@
       "updated_at": "2026-03-19T02:20:13Z",
       "pushed_at": "2026-03-19T00:58:51Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:27.726604+00:00",
+      "last_scanned": "2026-09-08T08:54:14.784654+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4920,7 +4988,7 @@
       "updated_at": "2026-07-07T08:01:30Z",
       "pushed_at": "2026-07-07T08:01:08Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:28.235293+00:00",
+      "last_scanned": "2026-09-08T08:54:15.278688+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4953,7 +5021,7 @@
       "updated_at": "2024-01-27T15:47:54Z",
       "pushed_at": "2024-01-27T15:48:16Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:28.660659+00:00",
+      "last_scanned": "2026-09-08T08:54:15.924440+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -4992,7 +5060,7 @@
       "updated_at": "2026-03-25T19:54:46Z",
       "pushed_at": "2025-02-18T21:19:45Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:29.111015+00:00",
+      "last_scanned": "2026-09-08T08:54:16.477304+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5029,7 +5097,7 @@
       "updated_at": "2026-07-17T14:17:09Z",
       "pushed_at": "2026-07-13T15:34:39Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:29.585056+00:00",
+      "last_scanned": "2026-09-08T08:54:16.974855+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5062,7 +5130,7 @@
       "updated_at": "2026-09-04T13:20:06Z",
       "pushed_at": "2026-09-04T13:19:11Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:30.086796+00:00",
+      "last_scanned": "2026-09-08T08:54:17.520168+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5095,7 +5163,7 @@
       "updated_at": "2026-07-27T07:09:06Z",
       "pushed_at": "2026-07-27T07:08:41Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:30.577443+00:00",
+      "last_scanned": "2026-09-08T08:54:18.108889+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5128,7 +5196,7 @@
       "updated_at": "2026-08-19T14:30:14Z",
       "pushed_at": "2026-08-19T14:25:25Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:31.076155+00:00",
+      "last_scanned": "2026-09-08T08:54:18.633049+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5161,7 +5229,7 @@
       "updated_at": "2026-06-12T08:56:13Z",
       "pushed_at": "2026-06-09T17:11:33Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:31.596510+00:00",
+      "last_scanned": "2026-09-08T08:54:19.122252+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5202,7 +5270,7 @@
       "updated_at": "2026-04-15T04:14:08Z",
       "pushed_at": "2026-04-15T04:11:12Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:32.124325+00:00",
+      "last_scanned": "2026-09-08T08:54:19.616089+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5235,7 +5303,7 @@
       "updated_at": "2024-06-26T19:17:03Z",
       "pushed_at": "2021-09-14T17:11:07Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:32.607206+00:00",
+      "last_scanned": "2026-09-08T08:54:20.076313+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5268,7 +5336,7 @@
       "updated_at": "2026-09-05T04:30:21Z",
       "pushed_at": "2026-09-05T04:30:17Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:33.189115+00:00",
+      "last_scanned": "2026-09-08T08:54:20.617269+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5301,7 +5369,7 @@
       "updated_at": "2026-09-01T09:38:44Z",
       "pushed_at": "2026-09-01T09:32:55Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:33.620777+00:00",
+      "last_scanned": "2026-09-08T08:54:21.184390+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5334,7 +5402,7 @@
       "updated_at": "2026-08-25T17:55:57Z",
       "pushed_at": "2026-08-25T17:50:19Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:34.078429+00:00",
+      "last_scanned": "2026-09-08T08:54:21.808489+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5367,7 +5435,7 @@
       "updated_at": "2026-01-18T08:52:57Z",
       "pushed_at": "2026-01-18T08:52:54Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:34.486043+00:00",
+      "last_scanned": "2026-09-08T08:54:22.306944+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5399,7 +5467,7 @@
       "updated_at": "2026-07-31T09:45:32Z",
       "pushed_at": "2026-07-31T09:45:12Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:35.041461+00:00",
+      "last_scanned": "2026-09-08T08:54:22.842399+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5443,7 +5511,7 @@
       "updated_at": "2026-07-04T06:20:57Z",
       "pushed_at": "2026-07-04T06:20:54Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:35.480937+00:00",
+      "last_scanned": "2026-09-08T08:54:23.402042+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5485,7 +5553,7 @@
       "updated_at": "2026-09-04T19:11:29Z",
       "pushed_at": "2026-09-04T19:11:25Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:36.006934+00:00",
+      "last_scanned": "2026-09-08T08:54:24.005966+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5517,7 +5585,7 @@
       "updated_at": "2026-01-13T10:21:21Z",
       "pushed_at": "2026-01-13T10:20:47Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:36.399314+00:00",
+      "last_scanned": "2026-09-08T08:54:24.517137+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5547,10 +5615,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-07-18T17:25:14Z",
-      "updated_at": "2026-09-07T07:25:39Z",
-      "pushed_at": "2026-09-07T07:25:33Z",
+      "updated_at": "2026-09-08T07:19:23Z",
+      "pushed_at": "2026-09-08T07:19:18Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:36.886621+00:00",
+      "last_scanned": "2026-09-08T08:54:24.985858+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5583,7 +5651,7 @@
       "updated_at": "2026-01-08T11:48:16Z",
       "pushed_at": "2026-01-08T11:48:12Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:37.568433+00:00",
+      "last_scanned": "2026-09-08T08:54:25.471292+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5625,7 +5693,7 @@
       "updated_at": "2026-09-04T19:07:34Z",
       "pushed_at": "2026-09-04T19:07:26Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:38.128496+00:00",
+      "last_scanned": "2026-09-08T08:54:25.966185+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5662,7 +5730,7 @@
       "updated_at": "2026-09-03T07:07:53Z",
       "pushed_at": "2026-09-03T07:06:58Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:38.842777+00:00",
+      "last_scanned": "2026-09-08T08:54:26.465991+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5701,7 +5769,7 @@
       "updated_at": "2026-08-24T02:06:48Z",
       "pushed_at": "2026-07-01T08:51:58Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:39.267972+00:00",
+      "last_scanned": "2026-09-08T08:54:27.009975+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5733,7 +5801,7 @@
       "updated_at": "2026-09-06T16:16:06Z",
       "pushed_at": "2026-09-06T16:15:52Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:39.723411+00:00",
+      "last_scanned": "2026-09-08T08:54:27.618692+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5777,7 +5845,7 @@
       "updated_at": "2026-08-30T11:57:27Z",
       "pushed_at": "2026-08-30T11:56:34Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:40.200106+00:00",
+      "last_scanned": "2026-09-08T08:54:28.162083+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5820,7 +5888,7 @@
       "updated_at": "2026-09-07T08:48:53Z",
       "pushed_at": "2026-09-07T08:48:42Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:40.908700+00:00",
+      "last_scanned": "2026-09-08T08:54:28.822129+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5861,7 +5929,7 @@
       "updated_at": "2026-08-24T13:51:06Z",
       "pushed_at": "2026-08-24T13:47:42Z",
       "default_branch": "develop",
-      "last_scanned": "2026-09-07T09:22:41.397859+00:00",
+      "last_scanned": "2026-09-08T08:54:29.464584+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5893,7 +5961,7 @@
       "updated_at": "2026-08-01T11:18:03Z",
       "pushed_at": "2026-08-01T11:17:40Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:41.796765+00:00",
+      "last_scanned": "2026-09-08T08:54:29.971755+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5925,7 +5993,7 @@
       "updated_at": "2026-08-08T09:04:03Z",
       "pushed_at": "2026-08-08T08:52:47Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:42.337692+00:00",
+      "last_scanned": "2026-09-08T08:54:30.508767+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -5974,7 +6042,7 @@
       "updated_at": "2026-09-06T21:02:49Z",
       "pushed_at": "2026-09-07T04:24:42Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:42.879210+00:00",
+      "last_scanned": "2026-09-08T08:54:31.083634+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6006,7 +6074,39 @@
       "updated_at": "2026-08-25T08:08:43Z",
       "pushed_at": "2026-08-25T08:06:56Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:43.341372+00:00",
+      "last_scanned": "2026-09-08T08:54:31.647626+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.6,
+        "score_reasons": [
+          "+4 strong:veterinary",
+          "+1.5 support:livestock",
+          "+0.5 support:animal"
+        ]
+      }
+    },
+    {
+      "id": "priyan1436ei-lab-pashuraksha",
+      "source": "github",
+      "full_name": "priyan1436ei-lab/PASHURAKSHA-",
+      "url": "https://github.com/priyan1436ei-lab/PASHURAKSHA-",
+      "description": "PashuRaksha AI – An AI-powered livestock health monitoring and early disease-warning system that detects disease risks, identifies outbreaks, and connects farmers with veterinarians.",
+      "homepage": null,
+      "topics": [],
+      "language": "TypeScript",
+      "license": null,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-09-08T08:42:03Z",
+      "updated_at": "2026-09-08T08:48:48Z",
+      "pushed_at": "2026-09-08T08:47:01Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:54:32.388752+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6071,7 +6171,7 @@
       "updated_at": "2026-01-05T18:06:01Z",
       "pushed_at": "2026-01-05T18:05:57Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:43.926767+00:00",
+      "last_scanned": "2026-09-08T08:54:33.056398+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6103,7 +6203,7 @@
       "updated_at": "2026-09-03T14:37:59Z",
       "pushed_at": "2026-08-27T16:58:07Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:44.412770+00:00",
+      "last_scanned": "2026-09-08T08:54:33.635888+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6148,7 +6248,7 @@
       "updated_at": "2026-04-08T18:01:35Z",
       "pushed_at": "2026-04-08T18:01:30Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:44.919120+00:00",
+      "last_scanned": "2026-09-08T08:54:34.132068+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6180,7 +6280,7 @@
       "updated_at": "2026-09-04T10:01:02Z",
       "pushed_at": "2026-09-02T20:36:40Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:45.466181+00:00",
+      "last_scanned": "2026-09-08T08:54:34.596473+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6212,7 +6312,7 @@
       "updated_at": "2026-09-04T09:47:17Z",
       "pushed_at": "2026-09-04T09:44:21Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:45.970927+00:00",
+      "last_scanned": "2026-09-08T08:54:35.230862+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6244,7 +6344,7 @@
       "updated_at": "2026-09-05T06:29:58Z",
       "pushed_at": "2026-09-05T06:32:13Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:46.491089+00:00",
+      "last_scanned": "2026-09-08T08:54:35.819213+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6276,7 +6376,7 @@
       "updated_at": "2023-03-29T13:58:58Z",
       "pushed_at": "2023-03-29T13:58:59Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:46.880936+00:00",
+      "last_scanned": "2026-09-08T08:54:36.376631+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6307,7 +6407,7 @@
       "updated_at": "2026-08-29T09:22:41Z",
       "pushed_at": "2026-08-29T09:22:21Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:47.386904+00:00",
+      "last_scanned": "2026-09-08T08:54:36.868200+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6338,7 +6438,7 @@
       "updated_at": "2026-05-27T19:54:11Z",
       "pushed_at": "2026-05-27T19:54:05Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:47.807483+00:00",
+      "last_scanned": "2026-09-08T08:54:37.468252+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6369,7 +6469,7 @@
       "updated_at": "2026-09-06T18:27:56Z",
       "pushed_at": "2026-09-06T18:27:52Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:48.185909+00:00",
+      "last_scanned": "2026-09-08T08:54:37.986884+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6401,7 +6501,7 @@
       "updated_at": "2026-06-25T04:18:14Z",
       "pushed_at": "2026-06-25T04:18:10Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:48.858593+00:00",
+      "last_scanned": "2026-09-08T08:54:38.496827+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6432,7 +6532,7 @@
       "updated_at": "2026-08-09T22:01:54Z",
       "pushed_at": "2026-08-09T22:01:45Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:49.348825+00:00",
+      "last_scanned": "2026-09-08T08:54:39.082670+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6464,7 +6564,7 @@
       "updated_at": "2026-05-25T23:07:33Z",
       "pushed_at": "2026-05-25T23:07:30Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:49.853211+00:00",
+      "last_scanned": "2026-09-08T08:54:39.585589+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6495,7 +6595,7 @@
       "updated_at": "2026-07-21T01:13:31Z",
       "pushed_at": "2026-07-21T01:13:26Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:50.337919+00:00",
+      "last_scanned": "2026-09-08T08:54:40.156154+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6526,7 +6626,7 @@
       "updated_at": "2026-09-03T12:12:25Z",
       "pushed_at": "2026-09-03T12:12:24Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:50.822313+00:00",
+      "last_scanned": "2026-09-08T08:54:40.750576+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6569,7 +6669,7 @@
       "updated_at": "2026-09-04T19:46:56Z",
       "pushed_at": "2026-09-04T19:46:52Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:51.344021+00:00",
+      "last_scanned": "2026-09-08T08:54:41.427254+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6601,7 +6701,7 @@
       "updated_at": "2026-08-21T18:42:23Z",
       "pushed_at": "2026-08-21T18:42:10Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:51.768489+00:00",
+      "last_scanned": "2026-09-08T08:54:41.933965+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6640,7 +6740,7 @@
       "updated_at": "2024-05-09T20:59:35Z",
       "pushed_at": "2024-04-30T09:37:44Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:52.284285+00:00",
+      "last_scanned": "2026-09-08T08:54:42.456586+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6671,7 +6771,7 @@
       "updated_at": "2026-06-10T12:25:29Z",
       "pushed_at": "2026-06-10T12:25:25Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:52.806187+00:00",
+      "last_scanned": "2026-09-08T08:54:42.981176+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6702,7 +6802,7 @@
       "updated_at": "2026-06-02T22:32:17Z",
       "pushed_at": "2026-06-02T22:32:13Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:53.239765+00:00",
+      "last_scanned": "2026-09-08T08:54:43.480652+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6733,7 +6833,7 @@
       "updated_at": "2025-12-22T06:37:45Z",
       "pushed_at": "2025-12-22T06:37:42Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:53.654966+00:00",
+      "last_scanned": "2026-09-08T08:54:44.040859+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6764,7 +6864,7 @@
       "updated_at": "2025-10-08T20:52:08Z",
       "pushed_at": "2025-10-08T20:52:26Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:54.047763+00:00",
+      "last_scanned": "2026-09-08T08:54:44.538710+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6795,7 +6895,7 @@
       "updated_at": "2026-02-12T14:26:49Z",
       "pushed_at": "2026-07-02T12:08:02Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:54.577123+00:00",
+      "last_scanned": "2026-09-08T08:54:45.065717+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6827,7 +6927,7 @@
       "updated_at": "2026-08-09T18:14:29Z",
       "pushed_at": "2026-08-09T18:14:16Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:54.993581+00:00",
+      "last_scanned": "2026-09-08T08:54:45.629139+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6858,7 +6958,7 @@
       "updated_at": "2026-08-06T21:10:08Z",
       "pushed_at": "2026-08-06T21:09:58Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:55.540914+00:00",
+      "last_scanned": "2026-09-08T08:54:46.162641+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6895,7 +6995,7 @@
       "updated_at": "2025-06-24T19:36:38Z",
       "pushed_at": "2025-06-24T19:36:34Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:55.987517+00:00",
+      "last_scanned": "2026-09-08T08:54:46.708974+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6926,7 +7026,7 @@
       "updated_at": "2024-01-08T01:44:15Z",
       "pushed_at": "2024-01-08T01:44:11Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:56.513105+00:00",
+      "last_scanned": "2026-09-08T08:54:47.310284+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6958,7 +7058,7 @@
       "updated_at": "2026-07-03T09:05:12Z",
       "pushed_at": "2026-07-03T09:05:08Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:56.953481+00:00",
+      "last_scanned": "2026-09-08T08:54:47.879352+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -6989,7 +7089,7 @@
       "updated_at": "2026-09-03T18:46:36Z",
       "pushed_at": "2026-09-03T18:45:58Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:22:57.465337+00:00",
+      "last_scanned": "2026-09-08T08:54:48.395715+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7025,7 +7125,7 @@
       "updated_at": "2023-05-14T09:25:45Z",
       "pushed_at": "2023-03-01T12:04:35Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:57.928113+00:00",
+      "last_scanned": "2026-09-08T08:54:48.955176+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7056,7 +7156,7 @@
       "updated_at": "2026-07-28T15:04:09Z",
       "pushed_at": "2026-07-28T14:57:51Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:58.608874+00:00",
+      "last_scanned": "2026-09-08T08:54:49.473390+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7093,7 +7193,7 @@
       "updated_at": "2026-08-15T20:20:03Z",
       "pushed_at": "2026-08-15T20:20:51Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:59.067770+00:00",
+      "last_scanned": "2026-09-08T08:54:49.983628+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7128,7 +7228,7 @@
       "updated_at": "2025-09-19T18:08:48Z",
       "pushed_at": "2025-09-19T18:08:44Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:59.515681+00:00",
+      "last_scanned": "2026-09-08T08:54:50.515589+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7159,7 +7259,7 @@
       "updated_at": "2025-10-26T03:45:52Z",
       "pushed_at": "2025-10-25T22:42:14Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:22:59.949417+00:00",
+      "last_scanned": "2026-09-08T08:54:51.031193+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7190,7 +7290,7 @@
       "updated_at": "2024-07-15T14:39:42Z",
       "pushed_at": "2024-06-04T19:19:48Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:01.214494+00:00",
+      "last_scanned": "2026-09-08T08:54:51.733936+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7221,7 +7321,7 @@
       "updated_at": "2023-04-15T14:25:34Z",
       "pushed_at": "2023-04-15T14:31:33Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:01.643751+00:00",
+      "last_scanned": "2026-09-08T08:54:52.237863+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7252,7 +7352,7 @@
       "updated_at": "2026-07-13T06:43:22Z",
       "pushed_at": "2026-07-13T06:43:18Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:02.057905+00:00",
+      "last_scanned": "2026-09-08T08:54:52.696471+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7291,7 +7391,7 @@
       "updated_at": "2026-02-02T11:41:29Z",
       "pushed_at": "2026-02-02T11:41:25Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:23:02.521901+00:00",
+      "last_scanned": "2026-09-08T08:54:53.228739+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7341,7 +7441,7 @@
       "updated_at": "2026-09-05T23:25:47Z",
       "pushed_at": "2026-09-05T23:25:43Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:03.044489+00:00",
+      "last_scanned": "2026-09-08T08:54:53.799982+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7373,7 +7473,7 @@
       "updated_at": "2026-07-10T13:20:37Z",
       "pushed_at": "2026-07-10T13:19:53Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:03.557772+00:00",
+      "last_scanned": "2026-09-08T08:54:54.497255+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7414,7 +7514,7 @@
       "updated_at": "2023-07-11T03:07:42Z",
       "pushed_at": "2023-07-14T15:40:59Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:23:04.001162+00:00",
+      "last_scanned": "2026-09-08T08:54:55.055243+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7445,7 +7545,7 @@
       "updated_at": "2026-05-09T15:01:55Z",
       "pushed_at": "2026-05-09T15:01:51Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:04.448397+00:00",
+      "last_scanned": "2026-09-08T08:54:55.616907+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7476,7 +7576,7 @@
       "updated_at": "2026-04-23T13:01:16Z",
       "pushed_at": "2026-04-23T12:49:59Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:04.868048+00:00",
+      "last_scanned": "2026-09-08T08:54:56.099042+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7507,7 +7607,7 @@
       "updated_at": "2026-03-16T20:23:51Z",
       "pushed_at": "2026-03-16T20:23:51Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:05.334076+00:00",
+      "last_scanned": "2026-09-08T08:54:56.676411+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7538,7 +7638,7 @@
       "updated_at": "2026-09-06T08:57:26Z",
       "pushed_at": "2026-09-06T08:57:15Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:05.876763+00:00",
+      "last_scanned": "2026-09-08T08:54:57.177461+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7578,7 +7678,7 @@
       "updated_at": "2025-07-14T03:50:56Z",
       "pushed_at": "2025-07-14T03:50:53Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:06.311095+00:00",
+      "last_scanned": "2026-09-08T08:54:57.671902+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7609,7 +7709,7 @@
       "updated_at": "2026-08-25T05:20:46Z",
       "pushed_at": "2026-08-25T05:20:46Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:06.759762+00:00",
+      "last_scanned": "2026-09-08T08:54:58.179866+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7640,7 +7740,7 @@
       "updated_at": "2026-08-11T05:51:14Z",
       "pushed_at": "2026-08-11T05:50:30Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:23:07.206789+00:00",
+      "last_scanned": "2026-09-08T08:54:58.669991+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7671,7 +7771,7 @@
       "updated_at": "2026-08-03T08:58:08Z",
       "pushed_at": "2026-08-03T08:57:50Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:07.818513+00:00",
+      "last_scanned": "2026-09-08T08:54:59.227375+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7702,7 +7802,7 @@
       "updated_at": "2026-08-08T17:43:46Z",
       "pushed_at": "2026-08-08T17:43:36Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:23:08.292016+00:00",
+      "last_scanned": "2026-09-08T08:54:59.747373+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7734,7 +7834,7 @@
       "updated_at": "2026-08-27T17:01:50Z",
       "pushed_at": "2026-08-27T16:46:40Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:09.508075+00:00",
+      "last_scanned": "2026-09-08T08:55:00.299586+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7765,7 +7865,7 @@
       "updated_at": "2026-08-06T06:47:46Z",
       "pushed_at": "2026-08-06T06:47:40Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:10.479421+00:00",
+      "last_scanned": "2026-09-08T08:55:00.831524+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7797,7 +7897,7 @@
       "updated_at": "2026-09-05T06:32:52Z",
       "pushed_at": "2026-09-05T09:25:10Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:10.963114+00:00",
+      "last_scanned": "2026-09-08T08:55:01.350968+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7840,7 +7940,7 @@
       "updated_at": "2026-07-13T11:24:09Z",
       "pushed_at": "2026-07-13T11:23:57Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:11.962588+00:00",
+      "last_scanned": "2026-09-08T08:55:01.933361+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7871,7 +7971,7 @@
       "updated_at": "2026-09-06T18:01:22Z",
       "pushed_at": "2026-09-06T18:01:14Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:12.495417+00:00",
+      "last_scanned": "2026-09-08T08:55:02.429180+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7902,7 +8002,7 @@
       "updated_at": "2026-06-29T18:22:35Z",
       "pushed_at": "2026-06-29T18:20:53Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:12.889139+00:00",
+      "last_scanned": "2026-09-08T08:55:02.917195+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7933,7 +8033,7 @@
       "updated_at": "2025-07-18T05:02:46Z",
       "pushed_at": "2025-07-18T05:02:43Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:13.546349+00:00",
+      "last_scanned": "2026-09-08T08:55:03.393880+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7964,7 +8064,7 @@
       "updated_at": "2024-12-23T13:41:48Z",
       "pushed_at": "2024-12-23T13:41:45Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:14.086558+00:00",
+      "last_scanned": "2026-09-08T08:55:03.911894+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -7995,7 +8095,7 @@
       "updated_at": "2026-07-06T23:03:16Z",
       "pushed_at": "2026-07-06T23:03:11Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:14.574246+00:00",
+      "last_scanned": "2026-09-08T08:55:04.363512+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8026,7 +8126,7 @@
       "updated_at": "2018-09-29T23:12:36Z",
       "pushed_at": "2018-09-29T23:12:35Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:23:15.090977+00:00",
+      "last_scanned": "2026-09-08T08:55:04.890384+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8090,7 +8190,7 @@
       "updated_at": "2026-08-13T15:42:32Z",
       "pushed_at": "2026-08-13T15:42:22Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:15.750674+00:00",
+      "last_scanned": "2026-09-08T08:55:05.741464+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8121,7 +8221,7 @@
       "updated_at": "2026-04-15T18:45:57Z",
       "pushed_at": "2026-04-15T18:45:53Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:16.241027+00:00",
+      "last_scanned": "2026-09-08T08:55:06.257371+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8152,7 +8252,7 @@
       "updated_at": "2026-08-13T12:36:53Z",
       "pushed_at": "2026-08-13T12:36:12Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:16.860788+00:00",
+      "last_scanned": "2026-09-08T08:55:06.921737+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8194,7 +8294,7 @@
       "updated_at": "2026-09-04T19:34:47Z",
       "pushed_at": "2026-09-04T19:34:43Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:17.417593+00:00",
+      "last_scanned": "2026-09-08T08:55:07.488412+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8226,7 +8326,7 @@
       "updated_at": "2026-08-09T15:57:20Z",
       "pushed_at": "2026-08-09T15:57:05Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:17.878828+00:00",
+      "last_scanned": "2026-09-08T08:55:08.166766+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8258,7 +8358,7 @@
       "updated_at": "2026-03-30T18:20:55Z",
       "pushed_at": "2026-03-30T18:20:51Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:18.328625+00:00",
+      "last_scanned": "2026-09-08T08:55:08.653563+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8289,7 +8389,7 @@
       "updated_at": "2026-09-03T06:33:21Z",
       "pushed_at": "2026-09-03T06:31:46Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:18.771869+00:00",
+      "last_scanned": "2026-09-08T08:55:09.235174+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8321,7 +8421,7 @@
       "updated_at": "2026-01-22T19:38:20Z",
       "pushed_at": "2026-01-22T19:38:16Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:19.205249+00:00",
+      "last_scanned": "2026-09-08T08:55:09.757381+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8352,7 +8452,7 @@
       "updated_at": "2026-03-23T17:42:13Z",
       "pushed_at": "2026-03-23T17:42:09Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:19.637882+00:00",
+      "last_scanned": "2026-09-08T08:55:10.279742+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8383,7 +8483,7 @@
       "updated_at": "2026-08-31T21:31:49Z",
       "pushed_at": "2026-08-31T21:31:14Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:20.059100+00:00",
+      "last_scanned": "2026-09-08T08:55:10.843852+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8415,7 +8515,7 @@
       "updated_at": "2026-07-17T08:08:24Z",
       "pushed_at": "2026-07-17T08:07:56Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:23:20.459009+00:00",
+      "last_scanned": "2026-09-08T08:55:11.359306+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8446,7 +8546,7 @@
       "updated_at": "2026-08-15T18:30:17Z",
       "pushed_at": "2026-08-15T18:30:04Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:20.898995+00:00",
+      "last_scanned": "2026-09-08T08:55:11.870558+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8514,10 +8614,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-07-21T20:20:13Z",
-      "updated_at": "2026-09-07T00:51:01Z",
-      "pushed_at": "2026-09-07T00:50:57Z",
+      "updated_at": "2026-09-08T02:30:41Z",
+      "pushed_at": "2026-09-08T02:30:35Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:21.445651+00:00",
+      "last_scanned": "2026-09-08T08:55:12.587792+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8548,7 +8648,7 @@
       "updated_at": "2024-01-11T07:00:55Z",
       "pushed_at": "2024-01-11T07:05:17Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:21.984314+00:00",
+      "last_scanned": "2026-09-08T08:55:13.130580+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8589,7 +8689,7 @@
       "updated_at": "2026-09-04T19:26:55Z",
       "pushed_at": "2026-09-04T19:26:10Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:22.700896+00:00",
+      "last_scanned": "2026-09-08T08:55:13.646182+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8625,7 +8725,7 @@
       "updated_at": "2026-09-04T19:51:59Z",
       "pushed_at": "2026-09-04T19:51:55Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:23.237518+00:00",
+      "last_scanned": "2026-09-08T08:55:14.176119+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8672,7 +8772,7 @@
       "updated_at": "2026-09-04T19:52:00Z",
       "pushed_at": "2026-09-04T19:51:56Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:23.894097+00:00",
+      "last_scanned": "2026-09-08T08:55:14.809884+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8714,7 +8814,7 @@
       "updated_at": "2026-09-04T19:52:02Z",
       "pushed_at": "2026-09-04T19:51:57Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:24.371770+00:00",
+      "last_scanned": "2026-09-08T08:55:15.339859+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8755,7 +8855,7 @@
       "updated_at": "2026-09-04T20:23:35Z",
       "pushed_at": "2026-09-04T20:23:31Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:24.805196+00:00",
+      "last_scanned": "2026-09-08T08:55:15.875937+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8798,7 +8898,7 @@
       "updated_at": "2026-09-04T20:23:35Z",
       "pushed_at": "2026-09-04T20:23:31Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:25.276432+00:00",
+      "last_scanned": "2026-09-08T08:55:16.484287+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8838,7 +8938,7 @@
       "updated_at": "2026-09-04T20:23:36Z",
       "pushed_at": "2026-09-04T20:23:32Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:26.025958+00:00",
+      "last_scanned": "2026-09-08T08:55:17.160628+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8869,7 +8969,7 @@
       "updated_at": "2025-05-18T04:28:17Z",
       "pushed_at": "2025-05-18T04:28:13Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:26.529006+00:00",
+      "last_scanned": "2026-09-08T08:55:17.697536+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8912,7 +9012,7 @@
       "updated_at": "2026-09-05T23:01:23Z",
       "pushed_at": "2026-09-05T23:01:18Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:26.999095+00:00",
+      "last_scanned": "2026-09-08T08:55:18.275328+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8943,7 +9043,7 @@
       "updated_at": "2026-09-06T01:21:50Z",
       "pushed_at": "2026-09-06T04:11:21Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:27.521715+00:00",
+      "last_scanned": "2026-09-08T08:55:18.772850+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -8974,7 +9074,7 @@
       "updated_at": "2026-09-05T14:24:12Z",
       "pushed_at": "2026-09-05T14:24:09Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:28.314889+00:00",
+      "last_scanned": "2026-09-08T08:55:19.293430+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9005,7 +9105,7 @@
       "updated_at": "2026-08-14T14:55:23Z",
       "pushed_at": "2026-08-14T14:54:15Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:28.704070+00:00",
+      "last_scanned": "2026-09-08T08:55:19.805594+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9036,7 +9136,7 @@
       "updated_at": "2026-09-03T03:17:14Z",
       "pushed_at": "2026-09-03T03:15:04Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:29.085848+00:00",
+      "last_scanned": "2026-09-08T08:55:20.439143+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9067,7 +9167,7 @@
       "updated_at": "2026-09-06T03:18:57Z",
       "pushed_at": "2026-09-06T03:18:54Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:29.610868+00:00",
+      "last_scanned": "2026-09-08T08:55:20.961849+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9098,7 +9198,38 @@
       "updated_at": "2026-09-07T03:18:00Z",
       "pushed_at": "2026-09-07T03:17:57Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:30.139757+00:00",
+      "last_scanned": "2026-09-08T08:55:21.481565+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.45,
+        "score_reasons": [
+          "+4 strong:veterinary",
+          "+0.5 support:animal"
+        ]
+      }
+    },
+    {
+      "id": "ejajmahmud-veterinary-hospital-ehr-hub-nodejs-express-cluster-v2026-b68",
+      "source": "github",
+      "full_name": "ejajmahmud/veterinary-hospital-ehr-hub-nodejs-express-cluster-v2026-b68",
+      "url": "https://github.com/ejajmahmud/veterinary-hospital-ehr-hub-nodejs-express-cluster-v2026-b68",
+      "description": "Veterinary Hospital Electronic Health Record & Pet Surgery Hub enterprise system built with JavaScript / Node.js 22 Express, WebSockets & Cluster Bus (Source: Codeberg JS Open (codeberg.org/node-cluster-bus/event-webhook-relay))",
+      "homepage": null,
+      "topics": [],
+      "language": "JavaScript",
+      "license": "NOASSERTION",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-09-08T03:16:16Z",
+      "updated_at": "2026-09-08T03:16:24Z",
+      "pushed_at": "2026-09-08T03:16:20Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:55:22.056775+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9161,7 +9292,7 @@
       "updated_at": "2026-09-06T06:45:25Z",
       "pushed_at": "2026-09-06T06:45:21Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:30.808528+00:00",
+      "last_scanned": "2026-09-08T08:55:22.773031+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9206,7 +9337,38 @@
       "updated_at": "2026-08-10T19:13:29Z",
       "pushed_at": "2026-08-10T18:33:13Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:31.306639+00:00",
+      "last_scanned": "2026-09-08T08:55:23.392571+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.45,
+        "score_reasons": [
+          "+4 strong:veterinary",
+          "+0.5 support:animal"
+        ]
+      }
+    },
+    {
+      "id": "jpabloglez-vetimage",
+      "source": "github",
+      "full_name": "jpabloglez/vetimage",
+      "url": "https://github.com/jpabloglez/vetimage",
+      "description": "Veterinary DICOM imaging platform: DICOMweb storage & APIs (QIDO-RS/WADO-RS), an OHIF/Cornerstone viewer, human-in-the-loop AI decision support, structured PDF reporting, a patient registry, and an owner portal. Django 5 + DRF, React + TypeScript, PostgreSQL, Redis, Celery, and Channels over Docker Compose",
+      "homepage": null,
+      "topics": [],
+      "language": "Python",
+      "license": "GPL-3.0",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-07-21T18:55:48Z",
+      "updated_at": "2026-09-07T21:55:30Z",
+      "pushed_at": "2026-09-07T21:56:25Z",
+      "default_branch": "master",
+      "last_scanned": "2026-09-08T08:55:23.873516+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9234,10 +9396,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-08-02T08:14:57Z",
-      "updated_at": "2026-09-05T18:13:06Z",
-      "pushed_at": "2026-09-05T18:13:02Z",
+      "updated_at": "2026-09-07T18:35:18Z",
+      "pushed_at": "2026-09-07T18:34:03Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:31.794775+00:00",
+      "last_scanned": "2026-09-08T08:55:24.371333+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9268,7 +9430,7 @@
       "updated_at": "2026-01-06T13:20:06Z",
       "pushed_at": "2026-01-06T13:20:01Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:32.215925+00:00",
+      "last_scanned": "2026-09-08T08:55:24.925818+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9299,7 +9461,7 @@
       "updated_at": "2026-07-04T12:03:48Z",
       "pushed_at": "2026-05-04T18:53:11Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:32.754045+00:00",
+      "last_scanned": "2026-09-08T08:55:25.465666+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9336,7 +9498,7 @@
       "updated_at": "2026-08-14T18:42:40Z",
       "pushed_at": "2026-08-14T18:42:16Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:33.254834+00:00",
+      "last_scanned": "2026-09-08T08:55:25.979963+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9367,7 +9529,38 @@
       "updated_at": "2026-08-10T22:10:08Z",
       "pushed_at": "2026-08-10T22:09:51Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:34.014876+00:00",
+      "last_scanned": "2026-09-08T08:55:26.531269+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.45,
+        "score_reasons": [
+          "+4 strong:veterinary",
+          "+0.5 support:animal"
+        ]
+      }
+    },
+    {
+      "id": "paperlyj-bertopic-veterinary-science",
+      "source": "github",
+      "full_name": "paperlyj/BERTopic_Veterinary-science",
+      "url": "https://github.com/paperlyj/BERTopic_Veterinary-science",
+      "description": "Text mining and BERTopic-based analysis of evolving research themes in animal science and veterinary journals from 2010 to 2025.",
+      "homepage": null,
+      "topics": [],
+      "language": "Jupyter Notebook",
+      "license": null,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-06-15T02:42:41Z",
+      "updated_at": "2026-09-08T05:00:43Z",
+      "pushed_at": "2026-09-08T05:00:33Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:55:27.025564+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9398,7 +9591,7 @@
       "updated_at": "2026-05-11T16:56:20Z",
       "pushed_at": "2026-05-11T16:56:14Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:34.469760+00:00",
+      "last_scanned": "2026-09-08T08:55:27.487798+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9441,16 +9634,16 @@
       ],
       "language": "Jupyter Notebook",
       "license": "MIT",
-      "stars": 1,
+      "stars": 2,
       "forks": 0,
       "open_issues": 0,
       "archived": false,
       "fork": false,
       "created_at": "2026-09-01T18:08:49Z",
-      "updated_at": "2026-09-05T05:09:22Z",
+      "updated_at": "2026-09-07T17:27:53Z",
       "pushed_at": "2026-09-05T05:09:18Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:34.847140+00:00",
+      "last_scanned": "2026-09-08T08:55:28.040872+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9474,14 +9667,14 @@
       "license": "NOASSERTION",
       "stars": 1,
       "forks": 0,
-      "open_issues": 11,
+      "open_issues": 12,
       "archived": false,
       "fork": false,
       "created_at": "2023-11-04T14:06:30Z",
       "updated_at": "2026-09-07T08:33:43Z",
-      "pushed_at": "2026-09-07T08:33:41Z",
+      "pushed_at": "2026-09-08T00:18:28Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:35.335847+00:00",
+      "last_scanned": "2026-09-08T08:55:28.696132+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9509,10 +9702,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-09-01T13:15:22Z",
-      "updated_at": "2026-09-07T09:19:20Z",
-      "pushed_at": "2026-09-07T09:18:41Z",
+      "updated_at": "2026-09-07T15:19:30Z",
+      "pushed_at": "2026-09-07T15:18:52Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:35.705663+00:00",
+      "last_scanned": "2026-09-08T08:55:29.427782+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9560,7 +9753,7 @@
       "updated_at": "2026-08-19T02:52:05Z",
       "pushed_at": "2026-08-19T02:51:51Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:36.226942+00:00",
+      "last_scanned": "2026-09-08T08:55:30.023685+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9623,7 +9816,7 @@
       "updated_at": "2026-09-06T06:36:06Z",
       "pushed_at": "2026-09-06T06:36:01Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:23:36.952114+00:00",
+      "last_scanned": "2026-09-08T08:55:30.709234+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9654,7 +9847,7 @@
       "updated_at": "2026-09-03T06:23:12Z",
       "pushed_at": "2026-09-03T03:18:58Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:37.391853+00:00",
+      "last_scanned": "2026-09-08T08:55:31.162534+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9698,6 +9891,37 @@
       "refresh_error": "404 Client Error: Not Found for url: https://api.github.com/repos/0742-saravana/Cattle-Breed-Identifier-AI"
     },
     {
+      "id": "240408489-odoo19-minik-patiler",
+      "source": "github",
+      "full_name": "240408489/odoo19-minik-patiler",
+      "url": "https://github.com/240408489/odoo19-minik-patiler",
+      "description": "Custom Odoo 19 website module for animal welfare, volunteering and application management.",
+      "homepage": null,
+      "topics": [],
+      "language": "CSS",
+      "license": null,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-09-07T13:08:52Z",
+      "updated_at": "2026-09-07T13:18:05Z",
+      "pushed_at": "2026-09-07T13:09:17Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:55:32.072794+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.4,
+        "score_reasons": [
+          "+3.5 strong:animal welfare",
+          "+0.5 support:animal"
+        ]
+      }
+    },
+    {
       "id": "abudiatahmed15-ux-animal-health-surveillance",
       "source": "github",
       "full_name": "abudiatahmed15-ux/animal-health-surveillance",
@@ -9716,7 +9940,7 @@
       "updated_at": "2026-09-03T08:07:08Z",
       "pushed_at": "2026-09-03T08:05:49Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:37.965562+00:00",
+      "last_scanned": "2026-09-08T08:55:32.559210+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9747,7 +9971,7 @@
       "updated_at": "2025-05-27T15:14:15Z",
       "pushed_at": "2025-05-27T15:14:11Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:38.410179+00:00",
+      "last_scanned": "2026-09-08T08:55:33.081362+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9777,7 +10001,7 @@
       "updated_at": "2026-09-06T02:39:19Z",
       "pushed_at": "2026-09-06T02:39:15Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:38.860806+00:00",
+      "last_scanned": "2026-09-08T08:55:33.572472+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9816,7 +10040,7 @@
       "updated_at": "2026-09-05T00:51:00Z",
       "pushed_at": "2026-09-04T23:03:28Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:39.454327+00:00",
+      "last_scanned": "2026-09-08T08:55:34.121771+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9846,7 +10070,7 @@
       "updated_at": "2026-08-01T17:04:16Z",
       "pushed_at": "2026-08-01T17:06:59Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:40.413666+00:00",
+      "last_scanned": "2026-09-08T08:55:34.627532+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9913,7 +10137,7 @@
       "updated_at": "2026-09-03T19:00:53Z",
       "pushed_at": "2026-09-03T05:20:24Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:23:41.057602+00:00",
+      "last_scanned": "2026-09-08T08:55:35.357676+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9943,7 +10167,7 @@
       "updated_at": "2026-09-06T01:09:08Z",
       "pushed_at": "2026-09-06T01:09:04Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:41.469638+00:00",
+      "last_scanned": "2026-09-08T08:55:35.954740+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -9973,7 +10197,7 @@
       "updated_at": "2026-09-05T07:33:28Z",
       "pushed_at": "2026-09-05T07:33:22Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:41.969544+00:00",
+      "last_scanned": "2026-09-08T08:55:36.480939+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10003,7 +10227,7 @@
       "updated_at": "2026-09-03T04:32:00Z",
       "pushed_at": "2026-09-03T04:30:41Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:42.474887+00:00",
+      "last_scanned": "2026-09-08T08:55:36.979086+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10033,7 +10257,7 @@
       "updated_at": "2026-09-05T07:51:23Z",
       "pushed_at": "2026-09-05T07:51:15Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:42.949148+00:00",
+      "last_scanned": "2026-09-08T08:55:37.466175+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10084,7 +10308,7 @@
       "updated_at": "2026-09-04T03:37:44Z",
       "pushed_at": "2026-09-04T00:26:16Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:23:43.346260+00:00",
+      "last_scanned": "2026-09-08T08:55:37.992869+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10114,7 +10338,7 @@
       "updated_at": "2026-08-16T20:49:13Z",
       "pushed_at": "2026-08-16T20:49:05Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:43.745997+00:00",
+      "last_scanned": "2026-09-08T08:55:38.563559+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10144,7 +10368,7 @@
       "updated_at": "2026-08-05T03:56:34Z",
       "pushed_at": "2026-08-05T03:56:25Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:44.206066+00:00",
+      "last_scanned": "2026-09-08T08:55:39.018260+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10186,10 +10410,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2025-12-19T12:43:48Z",
-      "updated_at": "2026-09-07T08:13:27Z",
-      "pushed_at": "2026-09-07T08:13:23Z",
+      "updated_at": "2026-09-08T05:49:41Z",
+      "pushed_at": "2026-09-08T05:49:29Z",
       "default_branch": "PetLand-Software_Website_Main-dev",
-      "last_scanned": "2026-09-07T09:23:44.815785+00:00",
+      "last_scanned": "2026-09-08T08:55:39.540982+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10220,7 +10444,7 @@
       "updated_at": "2026-08-26T20:09:10Z",
       "pushed_at": "2026-08-26T19:25:41Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:45.234017+00:00",
+      "last_scanned": "2026-09-08T08:55:40.132140+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10251,7 +10475,7 @@
       "updated_at": "2026-08-26T20:07:02Z",
       "pushed_at": "2026-08-26T19:25:28Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:45.788820+00:00",
+      "last_scanned": "2026-09-08T08:55:40.707736+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10284,7 +10508,7 @@
       "updated_at": "2026-09-04T19:06:59Z",
       "pushed_at": "2026-09-04T19:06:55Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:46.292681+00:00",
+      "last_scanned": "2026-09-08T08:55:41.304681+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10324,7 +10548,7 @@
       "updated_at": "2026-09-04T19:11:07Z",
       "pushed_at": "2026-09-04T19:10:55Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:46.883527+00:00",
+      "last_scanned": "2026-09-08T08:55:41.823412+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10365,7 +10589,7 @@
       "updated_at": "2026-09-04T19:50:57Z",
       "pushed_at": "2026-09-04T19:50:52Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:47.418869+00:00",
+      "last_scanned": "2026-09-08T08:55:42.364765+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10404,7 +10628,7 @@
       "updated_at": "2026-09-04T19:51:12Z",
       "pushed_at": "2026-09-04T19:51:08Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:47.815581+00:00",
+      "last_scanned": "2026-09-08T08:55:43.048572+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10444,7 +10668,7 @@
       "updated_at": "2026-09-04T19:54:45Z",
       "pushed_at": "2026-09-04T19:54:42Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:48.246831+00:00",
+      "last_scanned": "2026-09-08T08:55:43.674667+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10484,7 +10708,7 @@
       "updated_at": "2026-09-04T19:56:00Z",
       "pushed_at": "2026-09-04T19:55:55Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:48.726716+00:00",
+      "last_scanned": "2026-09-08T08:55:44.215331+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10523,7 +10747,7 @@
       "updated_at": "2026-09-04T19:57:52Z",
       "pushed_at": "2026-09-04T19:57:48Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:49.216754+00:00",
+      "last_scanned": "2026-09-08T08:55:44.819549+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10564,7 +10788,7 @@
       "updated_at": "2026-09-04T20:04:16Z",
       "pushed_at": "2026-09-04T20:03:52Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:49.674200+00:00",
+      "last_scanned": "2026-09-08T08:55:45.333554+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10604,7 +10828,7 @@
       "updated_at": "2026-09-04T20:06:55Z",
       "pushed_at": "2026-09-04T20:06:42Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:50.189997+00:00",
+      "last_scanned": "2026-09-08T08:55:45.840184+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10643,7 +10867,7 @@
       "updated_at": "2026-09-04T20:08:38Z",
       "pushed_at": "2026-09-04T20:08:33Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:50.649073+00:00",
+      "last_scanned": "2026-09-08T08:55:46.378922+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10689,7 +10913,7 @@
       "updated_at": "2026-09-04T20:12:20Z",
       "pushed_at": "2026-09-04T20:12:15Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:51.138852+00:00",
+      "last_scanned": "2026-09-08T08:55:47.095141+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10727,7 +10951,7 @@
       "updated_at": "2026-09-04T20:19:15Z",
       "pushed_at": "2026-09-04T20:19:11Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:51.591815+00:00",
+      "last_scanned": "2026-09-08T08:55:47.657178+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10766,7 +10990,7 @@
       "updated_at": "2026-09-04T20:21:37Z",
       "pushed_at": "2026-09-04T20:21:32Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:51.979543+00:00",
+      "last_scanned": "2026-09-08T08:55:48.211588+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10806,7 +11030,7 @@
       "updated_at": "2026-09-04T20:23:36Z",
       "pushed_at": "2026-09-04T20:23:32Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:52.514057+00:00",
+      "last_scanned": "2026-09-08T08:55:48.760532+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10846,7 +11070,7 @@
       "updated_at": "2026-09-04T20:23:36Z",
       "pushed_at": "2026-09-04T20:23:32Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:53.033751+00:00",
+      "last_scanned": "2026-09-08T08:55:49.322916+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10885,7 +11109,7 @@
       "updated_at": "2026-09-04T20:24:59Z",
       "pushed_at": "2026-09-04T20:24:55Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:53.542622+00:00",
+      "last_scanned": "2026-09-08T08:55:49.928801+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10929,7 +11153,7 @@
       "updated_at": "2026-09-04T20:25:32Z",
       "pushed_at": "2026-09-04T20:25:28Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:53.997182+00:00",
+      "last_scanned": "2026-09-08T08:55:50.605246+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -10971,7 +11195,7 @@
       "updated_at": "2026-08-14T21:17:56Z",
       "pushed_at": "2026-08-13T00:11:34Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:54.576046+00:00",
+      "last_scanned": "2026-09-08T08:55:51.178279+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11010,7 +11234,7 @@
       "updated_at": "2026-09-04T20:26:39Z",
       "pushed_at": "2026-09-04T20:26:35Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:55.037706+00:00",
+      "last_scanned": "2026-09-08T08:55:51.767327+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11040,7 +11264,7 @@
       "updated_at": "2026-04-18T07:37:39Z",
       "pushed_at": "2026-04-01T21:50:44Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:55.443054+00:00",
+      "last_scanned": "2026-09-08T08:55:52.355468+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11070,7 +11294,7 @@
       "updated_at": "2026-08-23T02:56:52Z",
       "pushed_at": "2026-08-23T02:56:27Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:55.826659+00:00",
+      "last_scanned": "2026-09-08T08:55:52.914268+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11101,7 +11325,7 @@
       "updated_at": "2026-09-01T18:51:09Z",
       "pushed_at": "2026-09-01T18:44:13Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:56.274849+00:00",
+      "last_scanned": "2026-09-08T08:55:53.377692+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11129,10 +11353,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-09-03T11:44:27Z",
-      "updated_at": "2026-09-07T07:05:36Z",
-      "pushed_at": "2026-09-07T07:05:29Z",
+      "updated_at": "2026-09-08T04:19:57Z",
+      "pushed_at": "2026-09-08T04:19:52Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:56.838606+00:00",
+      "last_scanned": "2026-09-08T08:55:53.954531+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11159,10 +11383,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-09-05T09:04:18Z",
-      "updated_at": "2026-09-07T07:28:24Z",
-      "pushed_at": "2026-09-07T07:28:20Z",
+      "updated_at": "2026-09-08T03:20:19Z",
+      "pushed_at": "2026-09-08T03:20:16Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:57.265536+00:00",
+      "last_scanned": "2026-09-08T08:55:54.499150+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11189,10 +11413,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-09-01T22:35:32Z",
-      "updated_at": "2026-09-05T05:14:20Z",
-      "pushed_at": "2026-09-05T05:14:15Z",
+      "updated_at": "2026-09-07T19:04:00Z",
+      "pushed_at": "2026-09-07T19:03:29Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:57.732639+00:00",
+      "last_scanned": "2026-09-08T08:55:54.986960+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11219,10 +11443,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-09-06T05:53:45Z",
-      "updated_at": "2026-09-07T07:52:19Z",
-      "pushed_at": "2026-09-07T07:51:52Z",
+      "updated_at": "2026-09-07T15:42:29Z",
+      "pushed_at": "2026-09-07T15:42:20Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:58.192933+00:00",
+      "last_scanned": "2026-09-08T08:55:55.575912+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11250,10 +11474,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-08-31T20:12:15Z",
-      "updated_at": "2026-09-05T22:27:27Z",
-      "pushed_at": "2026-09-05T22:27:23Z",
+      "updated_at": "2026-09-07T10:43:24Z",
+      "pushed_at": "2026-09-07T10:43:19Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:58.605106+00:00",
+      "last_scanned": "2026-09-08T08:55:56.128429+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11284,7 +11508,7 @@
       "updated_at": "2026-08-18T13:36:52Z",
       "pushed_at": "2026-08-18T13:32:21Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:59.081105+00:00",
+      "last_scanned": "2026-09-08T08:55:56.639375+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11311,10 +11535,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-09-04T21:37:02Z",
-      "updated_at": "2026-09-06T19:34:13Z",
-      "pushed_at": "2026-09-06T19:34:09Z",
+      "updated_at": "2026-09-08T08:47:57Z",
+      "pushed_at": "2026-09-08T08:47:10Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:23:59.537828+00:00",
+      "last_scanned": "2026-09-08T08:55:57.127812+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11348,14 +11572,14 @@
       "license": "Apache-2.0",
       "stars": 2,
       "forks": 0,
-      "open_issues": 11,
+      "open_issues": 12,
       "archived": false,
       "fork": false,
       "created_at": "2026-07-27T20:42:54Z",
-      "updated_at": "2026-08-12T06:11:23Z",
-      "pushed_at": "2026-09-06T04:34:25Z",
+      "updated_at": "2026-09-07T14:21:40Z",
+      "pushed_at": "2026-09-07T14:25:00Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:00.023087+00:00",
+      "last_scanned": "2026-09-08T08:55:57.726274+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11386,7 +11610,7 @@
       "updated_at": "2026-08-09T23:25:31Z",
       "pushed_at": "2026-09-07T06:18:44Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:00.574650+00:00",
+      "last_scanned": "2026-09-08T08:55:58.286317+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11416,7 +11640,7 @@
       "updated_at": "2026-09-03T06:32:00Z",
       "pushed_at": "2026-09-03T06:32:00Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:01.015539+00:00",
+      "last_scanned": "2026-09-08T08:55:58.752034+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11451,7 +11675,7 @@
       "updated_at": "2026-09-07T07:02:21Z",
       "pushed_at": "2026-09-07T07:02:12Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:01.461713+00:00",
+      "last_scanned": "2026-09-08T08:55:59.305474+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11481,7 +11705,7 @@
       "updated_at": "2026-08-16T21:46:46Z",
       "pushed_at": "2026-08-16T21:46:42Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:02.022802+00:00",
+      "last_scanned": "2026-09-08T08:55:59.833562+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11511,7 +11735,7 @@
       "updated_at": "2026-08-25T07:25:52Z",
       "pushed_at": "2026-08-25T07:25:29Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:02.479934+00:00",
+      "last_scanned": "2026-09-08T08:56:00.363190+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11542,7 +11766,7 @@
       "updated_at": "2026-08-24T12:26:08Z",
       "pushed_at": "2026-08-24T12:21:48Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:02.944032+00:00",
+      "last_scanned": "2026-09-08T08:56:00.884506+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11581,7 +11805,7 @@
       "updated_at": "2026-09-04T08:19:50Z",
       "pushed_at": "2026-09-04T08:19:20Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:03.467121+00:00",
+      "last_scanned": "2026-09-08T08:56:01.454176+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11611,7 +11835,7 @@
       "updated_at": "2026-09-04T18:13:32Z",
       "pushed_at": "2026-09-04T18:13:10Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:03.838575+00:00",
+      "last_scanned": "2026-09-08T08:56:01.989298+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11639,10 +11863,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-09-05T04:36:02Z",
-      "updated_at": "2026-09-07T02:29:31Z",
-      "pushed_at": "2026-09-07T02:29:28Z",
+      "updated_at": "2026-09-07T17:18:52Z",
+      "pushed_at": "2026-09-07T17:18:28Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:04.283862+00:00",
+      "last_scanned": "2026-09-08T08:56:02.534868+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11682,6 +11906,38 @@
           "+3.5 strong:animal welfare",
           "+0.5 support:animal"
         ]
+      },
+      "refresh_error": "404 Client Error: Not Found for url: https://api.github.com/repos/clementduncan/shetlandanimalwelfare"
+    },
+    {
+      "id": "clementduncan-shetlandanimalwelfare-placeholder",
+      "source": "github",
+      "full_name": "clementduncan/shetlandanimalwelfare-placeholder",
+      "url": "https://github.com/clementduncan/shetlandanimalwelfare-placeholder",
+      "description": "Website for Shetland Animal Welfare",
+      "homepage": "https://shetlandanimalwelfare.co.uk/",
+      "topics": [],
+      "language": "HTML",
+      "license": null,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-09-02T10:03:46Z",
+      "updated_at": "2026-09-07T14:04:29Z",
+      "pushed_at": "2026-09-02T14:33:23Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:56:03.198824+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.4,
+        "score_reasons": [
+          "+3.5 strong:animal welfare",
+          "+0.5 support:animal"
+        ]
       }
     },
     {
@@ -11700,10 +11956,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-05-30T13:55:53Z",
-      "updated_at": "2026-09-06T12:10:11Z",
-      "pushed_at": "2026-09-06T12:10:06Z",
+      "updated_at": "2026-09-07T17:02:42Z",
+      "pushed_at": "2026-09-07T17:02:20Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:05.266147+00:00",
+      "last_scanned": "2026-09-08T08:56:03.809477+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11733,7 +11989,7 @@
       "updated_at": "2026-08-15T01:54:33Z",
       "pushed_at": "2026-08-14T23:14:06Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:05.748501+00:00",
+      "last_scanned": "2026-09-08T08:56:04.558007+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11763,7 +12019,7 @@
       "updated_at": "2026-08-19T09:54:51Z",
       "pushed_at": "2026-08-19T09:52:47Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:06.205414+00:00",
+      "last_scanned": "2026-09-08T08:56:05.144638+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11793,7 +12049,7 @@
       "updated_at": "2026-09-02T19:57:36Z",
       "pushed_at": "2026-09-02T19:47:37Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:06.707167+00:00",
+      "last_scanned": "2026-09-08T08:56:05.659601+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11823,7 +12079,7 @@
         "veterinary",
         "veterinary-software"
       ],
-      "language": "Rust",
+      "language": "TypeScript",
       "license": "NOASSERTION",
       "stars": 0,
       "forks": 0,
@@ -11831,10 +12087,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-08-03T21:47:03Z",
-      "updated_at": "2026-09-04T03:30:38Z",
-      "pushed_at": "2026-09-04T03:30:27Z",
+      "updated_at": "2026-09-08T04:02:13Z",
+      "pushed_at": "2026-09-08T04:02:03Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:24:07.169497+00:00",
+      "last_scanned": "2026-09-08T08:56:06.183152+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11895,7 +12151,7 @@
       "updated_at": "2024-09-23T18:01:32Z",
       "pushed_at": "2024-09-23T18:01:29Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:07.798757+00:00",
+      "last_scanned": "2026-09-08T08:56:06.892878+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11925,7 +12181,7 @@
       "updated_at": "2026-09-02T01:47:00Z",
       "pushed_at": "2026-09-02T01:46:42Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:08.338781+00:00",
+      "last_scanned": "2026-09-08T08:56:07.454753+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11956,7 +12212,7 @@
       "updated_at": "2026-09-06T03:34:58Z",
       "pushed_at": "2026-09-06T03:34:53Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:08.755251+00:00",
+      "last_scanned": "2026-09-08T08:56:07.936469+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -11986,7 +12242,7 @@
       "updated_at": "2026-09-05T19:31:12Z",
       "pushed_at": "2026-09-05T19:31:08Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:09.168807+00:00",
+      "last_scanned": "2026-09-08T08:56:08.466372+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12017,7 +12273,7 @@
       "updated_at": "2026-09-07T04:52:02Z",
       "pushed_at": "2026-09-07T04:51:58Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:09.686550+00:00",
+      "last_scanned": "2026-09-08T08:56:08.960312+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12047,7 +12303,7 @@
       "updated_at": "2026-07-31T14:39:54Z",
       "pushed_at": "2026-07-31T14:39:05Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:10.228799+00:00",
+      "last_scanned": "2026-09-08T08:56:09.525644+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12078,7 +12334,37 @@
       "updated_at": "2026-08-30T06:47:14Z",
       "pushed_at": "2026-08-30T06:46:46Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:10.678839+00:00",
+      "last_scanned": "2026-09-08T08:56:10.064433+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.4,
+        "score_reasons": [
+          "+4 strong:veterinary"
+        ]
+      }
+    },
+    {
+      "id": "ebus99-canvet-veterinary-website",
+      "source": "github",
+      "full_name": "ebus99/canvet-veterinary-website",
+      "url": "https://github.com/ebus99/canvet-veterinary-website",
+      "description": "Modern veterinary clinic website built with React and TypeScript, featuring clinic information, services, blog content, case updates, and campaigns.",
+      "homepage": null,
+      "topics": [],
+      "language": "TypeScript",
+      "license": null,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-09-02T13:32:10Z",
+      "updated_at": "2026-09-07T22:00:56Z",
+      "pushed_at": "2026-09-07T22:00:30Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:56:10.772271+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12108,7 +12394,7 @@
       "updated_at": "2026-08-14T20:25:35Z",
       "pushed_at": "2026-08-14T20:25:17Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:11.122766+00:00",
+      "last_scanned": "2026-09-08T08:56:11.298750+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12138,7 +12424,7 @@
       "updated_at": "2026-09-07T04:31:57Z",
       "pushed_at": "2026-09-07T04:31:53Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:11.572654+00:00",
+      "last_scanned": "2026-09-08T08:56:11.959476+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12168,7 +12454,7 @@
       "updated_at": "2026-08-09T22:19:04Z",
       "pushed_at": "2026-08-09T22:18:51Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:11.977504+00:00",
+      "last_scanned": "2026-09-08T08:56:12.473227+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12198,7 +12484,7 @@
       "updated_at": "2026-09-07T08:41:27Z",
       "pushed_at": "2026-09-07T08:41:23Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:12.627845+00:00",
+      "last_scanned": "2026-09-08T08:56:13.005897+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12228,7 +12514,7 @@
       "updated_at": "2026-08-14T05:30:49Z",
       "pushed_at": "2026-08-14T05:30:45Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:13.144389+00:00",
+      "last_scanned": "2026-09-08T08:56:13.675309+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12258,7 +12544,7 @@
       "updated_at": "2026-08-18T13:43:29Z",
       "pushed_at": "2026-08-18T13:21:01Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:13.658318+00:00",
+      "last_scanned": "2026-09-08T08:56:14.259635+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12288,7 +12574,7 @@
       "updated_at": "2026-09-06T13:26:52Z",
       "pushed_at": "2026-09-06T13:26:49Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:14.043611+00:00",
+      "last_scanned": "2026-09-08T08:56:14.758377+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12297,6 +12583,49 @@
         "score_reasons": [
           "+3.5 strong:animal health",
           "+0.5 support:animal"
+        ]
+      }
+    },
+    {
+      "id": "federico-aguirre-veterinaria-laravel",
+      "source": "github",
+      "full_name": "Federico-Aguirre/Veterinaria_Laravel",
+      "url": "https://github.com/Federico-Aguirre/Veterinaria_Laravel",
+      "description": "Veterinary management system built with Laravel, Livewire & Alpine.js. Features pet & appointment CRUDs, product catalog with shopping cart, social auth, and PostgreSQL (Neon) integration. Optimized with 100% Google PageSpeed scores.",
+      "homepage": "https://veterinaria-laravel.onrender.com/",
+      "topics": [
+        "alpinejs",
+        "laravel",
+        "livewire",
+        "neon-postgres",
+        "pagespeed-insights",
+        "php",
+        "postgresql",
+        "render-deployment",
+        "tailwindcss",
+        "veterinary-management",
+        "vite",
+        "web3forms"
+      ],
+      "language": "PHP",
+      "license": null,
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2025-07-08T21:06:12Z",
+      "updated_at": "2026-09-08T04:58:29Z",
+      "pushed_at": "2026-09-08T04:58:25Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:56:15.460571+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.4,
+        "score_reasons": [
+          "+4 strong:veterinary"
         ]
       }
     },
@@ -12319,7 +12648,7 @@
       "updated_at": "2026-08-09T19:37:04Z",
       "pushed_at": "2026-08-09T19:34:52Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:14.452601+00:00",
+      "last_scanned": "2026-09-08T08:56:15.990458+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12349,7 +12678,7 @@
       "updated_at": "2026-08-15T10:01:41Z",
       "pushed_at": "2026-08-15T10:00:34Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:24:14.839361+00:00",
+      "last_scanned": "2026-09-08T08:56:16.513913+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12390,7 +12719,7 @@
       "updated_at": "2026-08-10T01:40:21Z",
       "pushed_at": "2026-08-10T01:40:09Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:15.255145+00:00",
+      "last_scanned": "2026-09-08T08:56:17.070473+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12420,7 +12749,7 @@
       "updated_at": "2026-09-03T20:56:34Z",
       "pushed_at": "2026-09-03T20:55:49Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:15.792719+00:00",
+      "last_scanned": "2026-09-08T08:56:17.704807+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12450,7 +12779,67 @@
       "updated_at": "2026-08-24T04:24:30Z",
       "pushed_at": "2026-09-05T22:54:23Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:16.209931+00:00",
+      "last_scanned": "2026-09-08T08:56:18.265361+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.4,
+        "score_reasons": [
+          "+4 strong:veterinary"
+        ]
+      }
+    },
+    {
+      "id": "glenix2025-grange-veterinary-surgery-chatbot",
+      "source": "github",
+      "full_name": "Glenix2025/Grange-Veterinary-Surgery-Chatbot",
+      "url": "https://github.com/Glenix2025/Grange-Veterinary-Surgery-Chatbot",
+      "description": null,
+      "homepage": null,
+      "topics": [],
+      "language": "HTML",
+      "license": null,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-09-07T23:35:53Z",
+      "updated_at": "2026-09-08T01:24:08Z",
+      "pushed_at": "2026-09-08T01:24:03Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:56:18.767314+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.4,
+        "score_reasons": [
+          "+4 strong:veterinary"
+        ]
+      }
+    },
+    {
+      "id": "glenix2025-maroochydore-road-veterinary-surgery-chatbot",
+      "source": "github",
+      "full_name": "Glenix2025/Maroochydore-Road-Veterinary-Surgery-Chatbot",
+      "url": "https://github.com/Glenix2025/Maroochydore-Road-Veterinary-Surgery-Chatbot",
+      "description": null,
+      "homepage": null,
+      "topics": [],
+      "language": "HTML",
+      "license": null,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-09-08T03:48:11Z",
+      "updated_at": "2026-09-08T04:25:42Z",
+      "pushed_at": "2026-09-08T04:25:35Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:56:19.296647+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12480,7 +12869,7 @@
       "updated_at": "2026-08-10T08:34:17Z",
       "pushed_at": "2026-08-10T08:33:49Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:16.692943+00:00",
+      "last_scanned": "2026-09-08T08:56:19.869155+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12523,7 +12912,7 @@
       "updated_at": "2018-01-24T13:04:40Z",
       "pushed_at": "2018-01-24T13:10:30Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:24:17.198854+00:00",
+      "last_scanned": "2026-09-08T08:56:20.378204+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12553,7 +12942,7 @@
       "updated_at": "2026-08-13T11:51:20Z",
       "pushed_at": "2026-08-13T11:50:46Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:17.757016+00:00",
+      "last_scanned": "2026-09-08T08:56:21.032506+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12584,7 +12973,7 @@
       "updated_at": "2026-07-31T07:27:34Z",
       "pushed_at": "2026-07-31T07:26:45Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:18.152325+00:00",
+      "last_scanned": "2026-09-08T08:56:21.533918+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12644,10 +13033,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-02-28T04:24:53Z",
-      "updated_at": "2026-09-07T00:06:06Z",
-      "pushed_at": "2026-09-07T05:11:20Z",
+      "updated_at": "2026-09-08T02:09:28Z",
+      "pushed_at": "2026-09-08T02:09:06Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:18.754972+00:00",
+      "last_scanned": "2026-09-08T08:56:22.412704+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12670,14 +13059,14 @@
       "license": null,
       "stars": 0,
       "forks": 0,
-      "open_issues": 16,
+      "open_issues": 17,
       "archived": false,
       "fork": false,
       "created_at": "2026-06-17T11:55:45Z",
       "updated_at": "2026-09-05T05:50:47Z",
       "pushed_at": "2026-09-05T07:54:51Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:19.201622+00:00",
+      "last_scanned": "2026-09-08T08:56:23.043206+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12707,7 +13096,7 @@
       "updated_at": "2026-08-12T17:03:26Z",
       "pushed_at": "2026-08-12T17:10:58Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:24:19.655462+00:00",
+      "last_scanned": "2026-09-08T08:56:23.562339+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12746,7 +13135,7 @@
       "updated_at": "2026-08-13T09:10:38Z",
       "pushed_at": "2026-08-13T09:09:29Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:20.129171+00:00",
+      "last_scanned": "2026-09-08T08:56:24.107459+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12777,7 +13166,7 @@
       "updated_at": "2026-08-10T03:41:07Z",
       "pushed_at": "2026-08-10T03:40:56Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:20.623596+00:00",
+      "last_scanned": "2026-09-08T08:56:24.577864+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12812,7 +13201,67 @@
       "updated_at": "2026-09-07T08:14:39Z",
       "pushed_at": "2026-09-07T08:14:28Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:21.003960+00:00",
+      "last_scanned": "2026-09-08T08:56:25.121483+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.4,
+        "score_reasons": [
+          "+4 strong:veterinary"
+        ]
+      }
+    },
+    {
+      "id": "jairaj777-pune-pet-hospital",
+      "source": "github",
+      "full_name": "JAIRAJ777/Pune-pet-hospital",
+      "url": "https://github.com/JAIRAJ777/Pune-pet-hospital",
+      "description": "Veterinary hospital website with patient booking and doctor dashboard portals",
+      "homepage": null,
+      "topics": [],
+      "language": "HTML",
+      "license": null,
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-08-31T13:04:44Z",
+      "updated_at": "2026-09-08T06:57:58Z",
+      "pushed_at": "2026-09-08T06:57:33Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:56:25.717716+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.4,
+        "score_reasons": [
+          "+4 strong:veterinary"
+        ]
+      }
+    },
+    {
+      "id": "jakefr7-sparki-preview",
+      "source": "github",
+      "full_name": "jakefr7/sparki-preview",
+      "url": "https://github.com/jakefr7/sparki-preview",
+      "description": "Public preview of Sparki — a veterinary operations platform built around real clinic workflows.",
+      "homepage": null,
+      "topics": [],
+      "language": null,
+      "license": null,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-09-07T20:39:52Z",
+      "updated_at": "2026-09-07T20:51:44Z",
+      "pushed_at": "2026-09-07T20:51:34Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:56:26.198670+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12842,7 +13291,7 @@
       "updated_at": "2026-08-26T17:11:06Z",
       "pushed_at": "2026-08-26T16:55:02Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:21.426630+00:00",
+      "last_scanned": "2026-09-08T08:56:26.698312+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12870,9 +13319,9 @@
       "fork": false,
       "created_at": "2026-04-25T07:39:56Z",
       "updated_at": "2026-09-06T02:26:11Z",
-      "pushed_at": "2026-09-07T03:56:43Z",
+      "pushed_at": "2026-09-07T15:08:48Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:24:21.893481+00:00",
+      "last_scanned": "2026-09-08T08:56:27.248238+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12902,7 +13351,7 @@
       "updated_at": "2026-08-31T01:29:09Z",
       "pushed_at": "2026-08-31T01:29:04Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:22.329877+00:00",
+      "last_scanned": "2026-09-08T08:56:27.748829+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12946,7 +13395,7 @@
       "updated_at": "2026-08-10T17:26:36Z",
       "pushed_at": "2026-08-10T17:24:00Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:22.830953+00:00",
+      "last_scanned": "2026-09-08T08:56:28.294614+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -12976,7 +13425,7 @@
       "updated_at": "2026-08-18T13:07:06Z",
       "pushed_at": "2026-08-18T13:04:53Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:23.256003+00:00",
+      "last_scanned": "2026-09-08T08:56:28.821409+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13006,7 +13455,7 @@
       "updated_at": "2026-08-18T13:58:48Z",
       "pushed_at": "2026-08-18T13:53:50Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:23.669538+00:00",
+      "last_scanned": "2026-09-08T08:56:29.314495+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13036,7 +13485,7 @@
       "updated_at": "2026-09-05T07:17:25Z",
       "pushed_at": "2026-09-05T08:52:41Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:24.202140+00:00",
+      "last_scanned": "2026-09-08T08:56:29.870981+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13066,7 +13515,7 @@
       "updated_at": "2026-09-03T06:49:14Z",
       "pushed_at": "2026-09-03T06:49:09Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:24.654884+00:00",
+      "last_scanned": "2026-09-08T08:56:30.399148+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13096,7 +13545,7 @@
       "updated_at": "2026-09-04T07:10:06Z",
       "pushed_at": "2026-09-04T07:09:57Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:25.199699+00:00",
+      "last_scanned": "2026-09-08T08:56:30.919434+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13126,7 +13575,7 @@
       "updated_at": "2026-08-24T08:28:08Z",
       "pushed_at": "2026-08-24T08:27:02Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:25.600297+00:00",
+      "last_scanned": "2026-09-08T08:56:31.528978+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13154,10 +13603,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-09-04T02:28:42Z",
-      "updated_at": "2026-09-06T02:36:26Z",
-      "pushed_at": "2026-09-06T02:31:52Z",
+      "updated_at": "2026-09-07T18:14:21Z",
+      "pushed_at": "2026-09-07T18:13:21Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:26.092263+00:00",
+      "last_scanned": "2026-09-08T08:56:32.039321+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13187,7 +13636,7 @@
       "updated_at": "2026-08-13T16:24:52Z",
       "pushed_at": "2026-08-13T16:24:47Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:26.525682+00:00",
+      "last_scanned": "2026-09-08T08:56:32.610606+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13218,7 +13667,7 @@
       "updated_at": "2026-09-04T13:48:09Z",
       "pushed_at": "2026-09-04T13:45:39Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:26.923078+00:00",
+      "last_scanned": "2026-09-08T08:56:33.107923+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13248,7 +13697,7 @@
       "updated_at": "2026-09-04T07:18:00Z",
       "pushed_at": "2026-09-04T07:16:18Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:27.414760+00:00",
+      "last_scanned": "2026-09-08T08:56:33.576952+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13279,7 +13728,7 @@
       "updated_at": "2026-08-11T13:43:35Z",
       "pushed_at": "2026-08-11T13:41:04Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:27.820715+00:00",
+      "last_scanned": "2026-09-08T08:56:34.104774+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13309,7 +13758,7 @@
       "updated_at": "2026-08-20T06:45:33Z",
       "pushed_at": "2026-08-20T06:44:09Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:28.346470+00:00",
+      "last_scanned": "2026-09-08T08:56:34.659036+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13350,7 +13799,7 @@
       "updated_at": "2026-09-06T09:51:18Z",
       "pushed_at": "2026-09-06T09:51:14Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:28.757757+00:00",
+      "last_scanned": "2026-09-08T08:56:35.194916+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13380,7 +13829,7 @@
       "updated_at": "2026-08-24T03:51:34Z",
       "pushed_at": "2026-08-24T03:51:21Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:29.184784+00:00",
+      "last_scanned": "2026-09-08T08:56:35.675142+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13417,7 +13866,7 @@
       "updated_at": "2026-09-04T15:50:05Z",
       "pushed_at": "2026-09-04T15:50:01Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:29.667926+00:00",
+      "last_scanned": "2026-09-08T08:56:36.249194+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13452,7 +13901,7 @@
       "updated_at": "2026-09-07T08:00:23Z",
       "pushed_at": "2026-09-07T08:00:18Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:30.120775+00:00",
+      "last_scanned": "2026-09-08T08:56:36.821525+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13482,7 +13931,7 @@
       "updated_at": "2026-08-10T23:34:37Z",
       "pushed_at": "2026-08-10T23:33:57Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:30.569267+00:00",
+      "last_scanned": "2026-09-08T08:56:37.348704+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13512,7 +13961,7 @@
       "updated_at": "2026-08-17T13:33:45Z",
       "pushed_at": "2026-08-17T13:30:36Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:31.008050+00:00",
+      "last_scanned": "2026-09-08T08:56:37.885314+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13543,7 +13992,7 @@
       "updated_at": "2026-09-05T17:33:04Z",
       "pushed_at": "2026-09-05T17:33:00Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:31.446953+00:00",
+      "last_scanned": "2026-09-08T08:56:38.446838+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13574,7 +14023,7 @@
       "updated_at": "2026-09-06T13:19:33Z",
       "pushed_at": "2026-09-06T13:19:29Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:31.895151+00:00",
+      "last_scanned": "2026-09-08T08:56:38.984554+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13605,7 +14054,7 @@
       "updated_at": "2026-08-25T18:53:04Z",
       "pushed_at": "2026-08-25T18:53:00Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:32.365688+00:00",
+      "last_scanned": "2026-09-08T08:56:39.573417+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13635,7 +14084,7 @@
       "updated_at": "2026-09-04T23:47:32Z",
       "pushed_at": "2026-09-04T23:47:30Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:32.824519+00:00",
+      "last_scanned": "2026-09-08T08:56:40.128081+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13665,7 +14114,7 @@
       "updated_at": "2026-06-16T02:34:49Z",
       "pushed_at": "2026-06-16T02:34:45Z",
       "default_branch": "claude/clever-rubin-jk5abo",
-      "last_scanned": "2026-09-07T09:24:33.236929+00:00",
+      "last_scanned": "2026-09-08T08:56:40.712724+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13695,7 +14144,7 @@
       "updated_at": "2026-09-07T02:37:36Z",
       "pushed_at": "2026-09-07T02:37:32Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:33.695770+00:00",
+      "last_scanned": "2026-09-08T08:56:41.357724+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13725,7 +14174,7 @@
       "updated_at": "2025-04-12T01:11:26Z",
       "pushed_at": "2025-04-12T01:11:22Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:34.206492+00:00",
+      "last_scanned": "2026-09-08T08:56:41.882569+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13748,14 +14197,14 @@
       "license": "MIT",
       "stars": 1,
       "forks": 1,
-      "open_issues": 13,
+      "open_issues": 14,
       "archived": false,
       "fork": false,
       "created_at": "2026-04-17T22:17:14Z",
       "updated_at": "2026-08-25T19:04:04Z",
-      "pushed_at": "2026-09-07T09:09:58Z",
+      "pushed_at": "2026-09-07T19:49:24Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:34.707654+00:00",
+      "last_scanned": "2026-09-08T08:56:42.395310+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13785,7 +14234,7 @@
       "updated_at": "2026-08-25T03:47:25Z",
       "pushed_at": "2026-08-25T03:42:46Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:35.155507+00:00",
+      "last_scanned": "2026-09-08T08:56:43.028935+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13819,10 +14268,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-02-27T19:15:00Z",
-      "updated_at": "2026-09-06T22:40:19Z",
-      "pushed_at": "2026-09-06T22:40:15Z",
+      "updated_at": "2026-09-08T08:01:44Z",
+      "pushed_at": "2026-09-08T08:00:35Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:35.640721+00:00",
+      "last_scanned": "2026-09-08T08:56:43.554917+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13852,7 +14301,7 @@
       "updated_at": "2026-08-07T03:20:09Z",
       "pushed_at": "2026-08-07T03:20:09Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:36.058839+00:00",
+      "last_scanned": "2026-09-08T08:56:44.075143+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13883,7 +14332,7 @@
       "updated_at": "2026-07-31T18:44:22Z",
       "pushed_at": "2026-07-31T18:42:34Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:36.584522+00:00",
+      "last_scanned": "2026-09-08T08:56:44.630136+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13914,7 +14363,7 @@
       "updated_at": "2026-09-04T08:15:12Z",
       "pushed_at": "2026-09-04T08:15:00Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:37.017022+00:00",
+      "last_scanned": "2026-09-08T08:56:45.135046+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13941,10 +14390,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-09-07T07:22:15Z",
-      "updated_at": "2026-09-07T08:31:51Z",
-      "pushed_at": "2026-09-07T08:31:35Z",
+      "updated_at": "2026-09-07T10:32:48Z",
+      "pushed_at": "2026-09-07T10:32:44Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:37.474896+00:00",
+      "last_scanned": "2026-09-08T08:56:45.621164+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -13974,7 +14423,7 @@
       "updated_at": "2026-09-04T19:17:30Z",
       "pushed_at": "2026-09-04T19:17:23Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:37.926463+00:00",
+      "last_scanned": "2026-09-08T08:56:46.138588+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14005,7 +14454,7 @@
       "updated_at": "2026-08-31T20:30:42Z",
       "pushed_at": "2026-08-31T20:20:57Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:38.364380+00:00",
+      "last_scanned": "2026-09-08T08:56:46.762160+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14036,7 +14485,7 @@
       "updated_at": "2026-08-10T18:11:42Z",
       "pushed_at": "2026-08-10T18:10:26Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:38.874330+00:00",
+      "last_scanned": "2026-09-08T08:56:47.230547+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14067,7 +14516,7 @@
       "updated_at": "2026-09-03T17:53:24Z",
       "pushed_at": "2026-09-03T17:53:24Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:39.291406+00:00",
+      "last_scanned": "2026-09-08T08:56:47.795369+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14098,7 +14547,7 @@
       "updated_at": "2026-07-15T12:01:16Z",
       "pushed_at": "2026-07-15T12:00:55Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:24:39.781462+00:00",
+      "last_scanned": "2026-09-08T08:56:48.297953+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14128,7 +14577,7 @@
       "updated_at": "2026-04-15T00:18:22Z",
       "pushed_at": "2026-04-15T00:18:19Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:40.261459+00:00",
+      "last_scanned": "2026-09-08T08:56:48.770357+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14158,7 +14607,7 @@
       "updated_at": "2026-08-19T15:39:08Z",
       "pushed_at": "2026-08-19T15:25:31Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:40.720499+00:00",
+      "last_scanned": "2026-09-08T08:56:49.342724+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14188,7 +14637,7 @@
       "updated_at": "2026-09-03T02:31:39Z",
       "pushed_at": "2026-09-03T02:31:39Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:41.127544+00:00",
+      "last_scanned": "2026-09-08T08:56:49.881215+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14218,7 +14667,7 @@
       "updated_at": "2026-08-14T16:51:42Z",
       "pushed_at": "2026-08-14T16:51:27Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:41.630953+00:00",
+      "last_scanned": "2026-09-08T08:56:50.443616+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14248,7 +14697,7 @@
       "updated_at": "2026-09-03T07:44:02Z",
       "pushed_at": "2026-09-03T07:38:30Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:42.173606+00:00",
+      "last_scanned": "2026-09-08T08:56:51.042496+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14286,7 +14735,7 @@
       "updated_at": "2026-09-06T21:06:57Z",
       "pushed_at": "2026-09-06T21:06:54Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:42.671985+00:00",
+      "last_scanned": "2026-09-08T08:56:51.580745+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14316,7 +14765,7 @@
       "updated_at": "2026-08-31T08:04:05Z",
       "pushed_at": "2026-08-31T08:02:12Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:43.144129+00:00",
+      "last_scanned": "2026-09-08T08:56:52.234068+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14347,7 +14796,7 @@
       "updated_at": "2026-08-14T20:59:48Z",
       "pushed_at": "2026-08-14T20:59:44Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:43.686870+00:00",
+      "last_scanned": "2026-09-08T08:56:52.834786+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14378,7 +14827,7 @@
       "updated_at": "2026-08-14T21:47:07Z",
       "pushed_at": "2026-08-14T21:45:38Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:44.131424+00:00",
+      "last_scanned": "2026-09-08T08:56:53.310426+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14408,7 +14857,7 @@
       "updated_at": "2026-08-15T20:21:57Z",
       "pushed_at": "2026-08-15T20:21:50Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:44.542076+00:00",
+      "last_scanned": "2026-09-08T08:56:53.909919+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14446,7 +14895,7 @@
       "updated_at": "2026-09-04T00:32:54Z",
       "pushed_at": "2026-09-04T00:32:50Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:44.975142+00:00",
+      "last_scanned": "2026-09-08T08:56:54.477886+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14483,7 +14932,7 @@
       "updated_at": "2026-08-31T03:39:48Z",
       "pushed_at": "2026-08-21T00:54:50Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:45.445760+00:00",
+      "last_scanned": "2026-09-08T08:56:55.116046+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14514,7 +14963,7 @@
       "updated_at": "2026-09-07T04:03:20Z",
       "pushed_at": "2026-09-07T04:03:16Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:45.973626+00:00",
+      "last_scanned": "2026-09-08T08:56:55.685774+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14558,7 +15007,7 @@
       "updated_at": "2026-06-20T21:26:22Z",
       "pushed_at": "2026-08-10T00:30:56Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:46.430873+00:00",
+      "last_scanned": "2026-09-08T08:56:56.183162+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14598,10 +15047,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-09-06T14:51:02Z",
-      "updated_at": "2026-09-07T08:20:28Z",
-      "pushed_at": "2026-09-07T08:20:14Z",
+      "updated_at": "2026-09-08T08:08:40Z",
+      "pushed_at": "2026-09-08T08:06:33Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:46.985029+00:00",
+      "last_scanned": "2026-09-08T08:56:56.701682+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14631,7 +15080,7 @@
       "updated_at": "2026-09-06T16:12:24Z",
       "pushed_at": "2026-09-06T16:12:18Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:47.473534+00:00",
+      "last_scanned": "2026-09-08T08:56:57.309693+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14659,10 +15108,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-05-10T16:31:13Z",
-      "updated_at": "2026-09-07T07:23:12Z",
-      "pushed_at": "2026-09-07T07:23:10Z",
+      "updated_at": "2026-09-07T16:51:54Z",
+      "pushed_at": "2026-09-07T16:51:37Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:47.875617+00:00",
+      "last_scanned": "2026-09-08T08:56:57.963935+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14690,10 +15139,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-02-16T04:33:19Z",
-      "updated_at": "2026-09-06T15:52:56Z",
-      "pushed_at": "2026-09-06T15:52:52Z",
+      "updated_at": "2026-09-07T15:53:07Z",
+      "pushed_at": "2026-09-07T15:52:16Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:48.327827+00:00",
+      "last_scanned": "2026-09-08T08:56:58.456322+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14701,6 +15150,37 @@
         "veterinary_relevance_score": 0.4,
         "score_reasons": [
           "+4 strong:veterinary"
+        ]
+      }
+    },
+    {
+      "id": "suniteej-stray-animal-welfare-data-pipeline",
+      "source": "github",
+      "full_name": "suniteej/Stray-Animal-Welfare-Data-Pipeline",
+      "url": "https://github.com/suniteej/Stray-Animal-Welfare-Data-Pipeline",
+      "description": null,
+      "homepage": null,
+      "topics": [],
+      "language": "Python",
+      "license": null,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-07-03T05:57:08Z",
+      "updated_at": "2026-09-07T16:34:52Z",
+      "pushed_at": "2026-09-07T16:34:18Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:56:58.923974+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.4,
+        "score_reasons": [
+          "+3.5 strong:animal welfare",
+          "+0.5 support:animal"
         ]
       }
     },
@@ -14723,7 +15203,7 @@
       "updated_at": "2026-08-19T05:05:11Z",
       "pushed_at": "2026-08-19T05:04:38Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:48.730894+00:00",
+      "last_scanned": "2026-09-08T08:56:59.424936+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14731,6 +15211,37 @@
         "veterinary_relevance_score": 0.4,
         "score_reasons": [
           "+4 strong:veterinary"
+        ]
+      }
+    },
+    {
+      "id": "techcwbldr26-modal-gemma4-emergent-alignment-animal-welfare-sft-spd-app",
+      "source": "github",
+      "full_name": "techcwbldr26/modal-gemma4-emergent-alignment-animal-welfare-sft-spd-app",
+      "url": "https://github.com/techcwbldr26/modal-gemma4-emergent-alignment-animal-welfare-sft-spd-app",
+      "description": null,
+      "homepage": null,
+      "topics": [],
+      "language": "Python",
+      "license": null,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-09-07T12:51:44Z",
+      "updated_at": "2026-09-08T08:25:59Z",
+      "pushed_at": "2026-09-08T08:26:00Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:56:59.895761+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.4,
+        "score_reasons": [
+          "+3.5 strong:animal welfare",
+          "+0.5 support:animal"
         ]
       }
     },
@@ -14759,7 +15270,7 @@
       "updated_at": "2026-09-02T04:50:31Z",
       "pushed_at": "2026-09-02T04:50:06Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:49.193372+00:00",
+      "last_scanned": "2026-09-08T08:57:00.461166+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14790,7 +15301,7 @@
       "updated_at": "2026-09-07T08:26:41Z",
       "pushed_at": "2026-09-07T08:26:19Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:49.688374+00:00",
+      "last_scanned": "2026-09-08T08:57:00.982671+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14820,7 +15331,7 @@
       "updated_at": "2026-09-04T16:37:33Z",
       "pushed_at": "2026-09-04T16:37:30Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:50.106073+00:00",
+      "last_scanned": "2026-09-08T08:57:01.450731+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14850,7 +15361,7 @@
       "updated_at": "2026-05-29T08:13:17Z",
       "pushed_at": "2026-05-29T07:37:35Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:50.535003+00:00",
+      "last_scanned": "2026-09-08T08:57:01.982984+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14877,10 +15388,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-08-02T19:29:56Z",
-      "updated_at": "2026-09-06T20:09:29Z",
-      "pushed_at": "2026-09-06T20:13:33Z",
+      "updated_at": "2026-09-07T13:29:23Z",
+      "pushed_at": "2026-09-07T13:28:04Z",
       "default_branch": "master",
-      "last_scanned": "2026-09-07T09:24:50.986658+00:00",
+      "last_scanned": "2026-09-08T08:57:02.517783+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14917,7 +15428,7 @@
       "updated_at": "2026-09-02T16:05:02Z",
       "pushed_at": "2026-09-07T06:56:16Z",
       "default_branch": "dev",
-      "last_scanned": "2026-09-07T09:24:51.464475+00:00",
+      "last_scanned": "2026-09-08T08:57:03.062338+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14947,7 +15458,7 @@
       "updated_at": "2026-08-02T01:27:49Z",
       "pushed_at": "2026-08-02T01:27:45Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:51.956034+00:00",
+      "last_scanned": "2026-09-08T08:57:03.568671+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -14978,7 +15489,7 @@
       "updated_at": "2026-08-09T18:17:25Z",
       "pushed_at": "2026-08-09T18:16:39Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:52.349611+00:00",
+      "last_scanned": "2026-09-08T08:57:04.133885+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15008,7 +15519,7 @@
       "updated_at": "2026-09-05T19:31:10Z",
       "pushed_at": "2026-09-05T19:31:06Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:52.760738+00:00",
+      "last_scanned": "2026-09-08T08:57:04.653316+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15039,7 +15550,7 @@
       "updated_at": "2026-07-22T17:16:50Z",
       "pushed_at": "2026-08-30T05:33:47Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:53.193984+00:00",
+      "last_scanned": "2026-09-08T08:57:05.239615+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15070,7 +15581,7 @@
       "updated_at": "2026-09-06T06:08:37Z",
       "pushed_at": "2026-09-06T06:08:33Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:53.627836+00:00",
+      "last_scanned": "2026-09-08T08:57:05.770355+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15100,7 +15611,7 @@
       "updated_at": "2026-08-05T07:44:29Z",
       "pushed_at": "2026-08-05T07:43:43Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:54.082428+00:00",
+      "last_scanned": "2026-09-08T08:57:06.306620+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15127,10 +15638,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-08-26T08:30:51Z",
-      "updated_at": "2026-09-06T04:09:01Z",
-      "pushed_at": "2026-09-06T04:08:36Z",
+      "updated_at": "2026-09-07T19:55:44Z",
+      "pushed_at": "2026-09-07T19:55:32Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:54.516090+00:00",
+      "last_scanned": "2026-09-08T08:57:06.783356+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15160,7 +15671,7 @@
       "updated_at": "2026-08-09T17:43:33Z",
       "pushed_at": "2026-08-09T17:42:28Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:54.915642+00:00",
+      "last_scanned": "2026-09-08T08:57:07.328672+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15190,7 +15701,7 @@
       "updated_at": "2026-08-12T10:06:16Z",
       "pushed_at": "2026-08-12T08:23:00Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:55.353603+00:00",
+      "last_scanned": "2026-09-08T08:57:07.800211+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15221,7 +15732,7 @@
       "updated_at": "2026-07-13T08:04:32Z",
       "pushed_at": "2026-07-13T08:04:26Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:55.809330+00:00",
+      "last_scanned": "2026-09-08T08:57:08.334615+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15230,6 +15741,36 @@
         "score_reasons": [
           "+3.5 strong:animal health",
           "+0.5 support:animal"
+        ]
+      }
+    },
+    {
+      "id": "wajasaab-onyxdigital-point-loma-veterinary-clinic-san-diego",
+      "source": "github",
+      "full_name": "WajaSaab/onyxdigital-point-loma-veterinary-clinic-san-diego",
+      "url": "https://github.com/WajaSaab/onyxdigital-point-loma-veterinary-clinic-san-diego",
+      "description": "Preview for Point Loma Veterinary Clinic - Veterinary in San Diego",
+      "homepage": null,
+      "topics": [],
+      "language": "HTML",
+      "license": null,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "archived": false,
+      "fork": false,
+      "created_at": "2026-09-07T21:33:54Z",
+      "updated_at": "2026-09-07T21:37:36Z",
+      "pushed_at": "2026-09-07T21:36:38Z",
+      "default_branch": "main",
+      "last_scanned": "2026-09-08T08:57:08.868595+00:00",
+      "curation": {
+        "status": "candidate",
+        "source": "automated-discovery",
+        "verified": false,
+        "veterinary_relevance_score": 0.4,
+        "score_reasons": [
+          "+4 strong:veterinary"
         ]
       }
     },
@@ -15252,7 +15793,7 @@
       "updated_at": "2026-09-05T02:01:27Z",
       "pushed_at": "2026-09-05T02:01:23Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:56.268279+00:00",
+      "last_scanned": "2026-09-08T08:57:09.366788+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15282,7 +15823,7 @@
       "updated_at": "2026-09-05T22:45:22Z",
       "pushed_at": "2026-09-05T22:45:22Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:56.654599+00:00",
+      "last_scanned": "2026-09-08T08:57:09.927993+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15305,14 +15846,14 @@
       "license": null,
       "stars": 0,
       "forks": 0,
-      "open_issues": 2,
+      "open_issues": 1,
       "archived": false,
       "fork": false,
       "created_at": "2026-08-17T23:29:18Z",
       "updated_at": "2026-09-04T03:30:47Z",
       "pushed_at": "2026-09-04T03:30:38Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:57.023363+00:00",
+      "last_scanned": "2026-09-08T08:57:10.421517+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15343,7 +15884,7 @@
       "updated_at": "2026-08-12T15:45:45Z",
       "pushed_at": "2026-08-12T15:43:19Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:57.524736+00:00",
+      "last_scanned": "2026-09-08T08:57:11.232416+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15382,7 +15923,7 @@
       "updated_at": "2026-09-04T01:58:45Z",
       "pushed_at": "2026-09-04T01:58:41Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:58.055720+00:00",
+      "last_scanned": "2026-09-08T08:57:11.778958+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15456,7 +15997,7 @@
       "updated_at": "2026-09-03T05:43:48Z",
       "pushed_at": "2026-09-02T16:05:19Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:58.667043+00:00",
+      "last_scanned": "2026-09-08T08:57:12.470567+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15487,7 +16028,7 @@
       "updated_at": "2026-09-04T11:52:19Z",
       "pushed_at": "2026-09-04T11:51:45Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:59.237774+00:00",
+      "last_scanned": "2026-09-08T08:57:13.172335+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15518,7 +16059,7 @@
       "updated_at": "2026-08-10T03:01:01Z",
       "pushed_at": "2026-08-10T02:58:58Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:24:59.626803+00:00",
+      "last_scanned": "2026-09-08T08:57:13.770552+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15545,10 +16086,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-08-03T04:01:13Z",
-      "updated_at": "2026-09-07T00:56:04Z",
-      "pushed_at": "2026-09-07T00:36:21Z",
+      "updated_at": "2026-09-08T01:07:50Z",
+      "pushed_at": "2026-09-08T01:07:45Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:25:00.096873+00:00",
+      "last_scanned": "2026-09-08T08:57:14.309128+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15578,7 +16119,7 @@
       "updated_at": "2026-08-12T01:53:51Z",
       "pushed_at": "2026-08-12T23:55:32Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:25:00.468623+00:00",
+      "last_scanned": "2026-09-08T08:57:14.843214+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15608,7 +16149,7 @@
       "updated_at": "2026-08-03T13:50:30Z",
       "pushed_at": "2026-08-03T13:44:19Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:25:00.908321+00:00",
+      "last_scanned": "2026-09-08T08:57:15.423077+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15636,10 +16177,10 @@
       "archived": false,
       "fork": false,
       "created_at": "2026-01-09T08:22:05Z",
-      "updated_at": "2026-09-07T08:07:45Z",
-      "pushed_at": "2026-09-07T08:07:41Z",
+      "updated_at": "2026-09-07T17:04:13Z",
+      "pushed_at": "2026-09-07T17:03:57Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:25:01.443357+00:00",
+      "last_scanned": "2026-09-08T08:57:15.936085+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15669,7 +16210,7 @@
       "updated_at": "2026-08-12T23:07:47Z",
       "pushed_at": "2026-08-12T23:07:43Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:25:01.934776+00:00",
+      "last_scanned": "2026-09-08T08:57:16.389891+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
@@ -15706,7 +16247,7 @@
       "updated_at": "2026-09-01T03:19:14Z",
       "pushed_at": "2026-09-01T03:12:34Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-07T09:25:02.392710+00:00",
+      "last_scanned": "2026-09-08T08:57:16.943576+00:00",
       "curation": {
         "status": "candidate",
         "source": "automated-discovery",
