@@ -21,7 +21,7 @@ resources:
   updated_at: '2025-10-28T21:29:49Z'
   pushed_at: '2025-10-28T21:29:46Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:38.127124+00:00'
+  last_scanned: '2026-09-12T08:38:44.633263+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -51,7 +51,7 @@ resources:
   updated_at: '2026-08-27T02:38:15Z'
   pushed_at: '2026-08-06T04:56:40Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:38.522322+00:00'
+  last_scanned: '2026-09-12T08:38:45.106090+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -79,7 +79,7 @@ resources:
   updated_at: '2026-08-27T14:16:53Z'
   pushed_at: '2026-08-27T13:52:24Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:38.924881+00:00'
+  last_scanned: '2026-09-12T08:38:45.638089+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -112,7 +112,7 @@ resources:
   updated_at: '2026-08-04T16:46:44Z'
   pushed_at: '2026-08-04T16:45:11Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:39.329377+00:00'
+  last_scanned: '2026-09-12T08:38:46.171514+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -142,7 +142,7 @@ resources:
   updated_at: '2026-04-01T17:17:36Z'
   pushed_at: '2026-04-01T17:10:08Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:39.817430+00:00'
+  last_scanned: '2026-09-12T08:38:46.605474+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -182,7 +182,7 @@ resources:
   updated_at: '2026-09-04T19:07:32Z'
   pushed_at: '2026-09-04T19:07:27Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:40.234164+00:00'
+  last_scanned: '2026-09-12T08:38:47.045282+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -213,7 +213,7 @@ resources:
   updated_at: '2026-07-19T06:38:24Z'
   pushed_at: '2026-07-19T06:38:20Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:40.662717+00:00'
+  last_scanned: '2026-09-12T08:38:47.469096+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -238,14 +238,14 @@ resources:
   license: NOASSERTION
   stars: 1
   forks: 0
-  open_issues: 3
+  open_issues: 4
   archived: false
   fork: false
   created_at: '2026-08-24T05:38:10Z'
-  updated_at: '2026-09-11T07:52:28Z'
-  pushed_at: '2026-09-11T07:52:24Z'
+  updated_at: '2026-09-12T02:36:20Z'
+  pushed_at: '2026-09-12T02:37:22Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:41.188726+00:00'
+  last_scanned: '2026-09-12T08:38:47.960439+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -275,7 +275,7 @@ resources:
   updated_at: '2026-09-06T11:39:03Z'
   pushed_at: '2026-09-06T11:54:48Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:41.613480+00:00'
+  last_scanned: '2026-09-12T08:38:48.364338+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -306,7 +306,7 @@ resources:
   updated_at: '2024-09-27T10:11:30Z'
   pushed_at: '2024-09-27T10:11:26Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:42.015772+00:00'
+  last_scanned: '2026-09-12T08:38:48.786585+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -335,7 +335,7 @@ resources:
   updated_at: '2026-08-24T12:18:10Z'
   pushed_at: '2026-08-24T12:13:10Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:42.392382+00:00'
+  last_scanned: '2026-09-12T08:38:49.200533+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -364,7 +364,7 @@ resources:
   updated_at: '2026-08-07T20:15:06Z'
   pushed_at: '2026-08-07T20:15:02Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:42.814733+00:00'
+  last_scanned: '2026-09-12T08:38:49.658653+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -395,7 +395,7 @@ resources:
   updated_at: '2026-07-30T15:21:30Z'
   pushed_at: '2026-07-30T15:16:27Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:43.194267+00:00'
+  last_scanned: '2026-09-12T08:38:50.081384+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -425,7 +425,7 @@ resources:
   updated_at: '2026-09-10T10:27:15Z'
   pushed_at: '2026-09-10T10:25:54Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:43.580677+00:00'
+  last_scanned: '2026-09-12T08:38:50.516523+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -461,7 +461,7 @@ resources:
   updated_at: '2026-06-20T23:32:45Z'
   pushed_at: '2026-07-24T02:12:50Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:43.989813+00:00'
+  last_scanned: '2026-09-12T08:38:50.928739+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -491,7 +491,7 @@ resources:
   updated_at: '2026-03-07T07:44:25Z'
   pushed_at: '2025-09-07T21:33:41Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:44.449394+00:00'
+  last_scanned: '2026-09-12T08:38:51.343459+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -555,7 +555,7 @@ resources:
   updated_at: '2026-08-29T13:09:35Z'
   pushed_at: '2026-08-29T13:09:12Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:45.016474+00:00'
+  last_scanned: '2026-09-12T08:38:51.991327+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -582,10 +582,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-09-07T17:06:33Z'
-  updated_at: '2026-09-10T14:49:53Z'
-  pushed_at: '2026-09-10T14:42:24Z'
+  updated_at: '2026-09-11T19:11:14Z'
+  pushed_at: '2026-09-11T19:11:10Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:45.466917+00:00'
+  last_scanned: '2026-09-12T08:38:52.472107+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -617,7 +617,7 @@ resources:
   updated_at: '2026-08-10T12:07:39Z'
   pushed_at: '2026-08-10T12:07:14Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:45.875824+00:00'
+  last_scanned: '2026-09-12T08:38:52.935873+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -648,7 +648,7 @@ resources:
   updated_at: '2022-11-13T11:12:34Z'
   pushed_at: '2023-02-09T14:30:11Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:46.262592+00:00'
+  last_scanned: '2026-09-12T08:38:53.361188+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -676,7 +676,7 @@ resources:
   updated_at: '2026-08-17T20:10:34Z'
   pushed_at: '2026-08-17T20:07:10Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:46.656159+00:00'
+  last_scanned: '2026-09-12T08:38:53.767328+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -707,7 +707,7 @@ resources:
   updated_at: '2026-08-26T15:23:18Z'
   pushed_at: '2026-08-26T14:48:01Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:47.118542+00:00'
+  last_scanned: '2026-09-12T08:38:54.221810+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -739,7 +739,7 @@ resources:
   updated_at: '2026-04-04T00:49:01Z'
   pushed_at: '2026-04-04T00:48:58Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:47.501175+00:00'
+  last_scanned: '2026-09-12T08:38:54.647695+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -772,7 +772,7 @@ resources:
   updated_at: '2026-09-07T18:58:38Z'
   pushed_at: '2026-08-03T21:15:48Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:47.933876+00:00'
+  last_scanned: '2026-09-12T08:38:55.071622+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -801,7 +801,7 @@ resources:
   updated_at: '2026-09-09T10:47:48Z'
   pushed_at: '2026-09-09T10:45:14Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:48.303927+00:00'
+  last_scanned: '2026-09-12T08:38:55.506076+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -832,7 +832,7 @@ resources:
   updated_at: '2025-08-06T20:31:28Z'
   pushed_at: '2025-08-06T20:31:24Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:48.721886+00:00'
+  last_scanned: '2026-09-12T08:38:55.930801+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -866,7 +866,7 @@ resources:
   updated_at: '2026-08-12T23:43:51Z'
   pushed_at: '2026-08-19T12:25:48Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:49.120274+00:00'
+  last_scanned: '2026-09-12T08:38:56.439837+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -898,10 +898,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-09-04T21:46:36Z'
-  updated_at: '2026-09-06T00:44:33Z'
-  pushed_at: '2026-09-04T21:46:40Z'
+  updated_at: '2026-09-11T22:52:20Z'
+  pushed_at: '2026-09-11T22:52:12Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:49.511309+00:00'
+  last_scanned: '2026-09-12T08:38:56.928327+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -933,7 +933,7 @@ resources:
   updated_at: '2022-03-21T15:53:22Z'
   pushed_at: '2021-08-06T09:40:15Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:49.869163+00:00'
+  last_scanned: '2026-09-12T08:38:57.346485+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -962,7 +962,7 @@ resources:
   updated_at: '2026-09-05T14:18:55Z'
   pushed_at: '2026-08-31T14:06:50Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:50.289395+00:00'
+  last_scanned: '2026-09-12T08:38:57.764435+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -992,7 +992,7 @@ resources:
   updated_at: '2026-08-11T11:28:02Z'
   pushed_at: '2026-08-11T11:27:31Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:50.710851+00:00'
+  last_scanned: '2026-09-12T08:38:58.202528+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1022,7 +1022,7 @@ resources:
   updated_at: '2026-08-17T18:16:35Z'
   pushed_at: '2026-08-17T18:15:21Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:55:51.096737+00:00'
+  last_scanned: '2026-09-12T08:38:58.670515+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1060,7 +1060,7 @@ resources:
   updated_at: '2026-01-29T11:41:27Z'
   pushed_at: '2026-01-21T22:57:16Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:51.583541+00:00'
+  last_scanned: '2026-09-12T08:38:59.098512+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1089,7 +1089,7 @@ resources:
   updated_at: '2026-09-10T17:49:17Z'
   pushed_at: '2026-09-10T17:49:12Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:51.985436+00:00'
+  last_scanned: '2026-09-12T08:38:59.589553+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1119,7 +1119,7 @@ resources:
   updated_at: '2026-04-01T18:16:27Z'
   pushed_at: '2025-08-15T15:19:34Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:52.460520+00:00'
+  last_scanned: '2026-09-12T08:39:00.041297+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1131,6 +1131,36 @@ resources:
     - +3.5 strong:animal health
     - +1.5 support:canine
     - +1.5 support:feline
+    - +0.5 support:animal
+- id: swapnilmali1609-sy-animal-health-management-system56
+  source: github
+  full_name: swapnilmali1609-sy/animal-health-management-system56
+  url: https://github.com/swapnilmali1609-sy/animal-health-management-system56
+  description: null
+  homepage: null
+  topics: []
+  language: JavaScript
+  license: null
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  fork: false
+  created_at: '2026-09-11T16:53:59Z'
+  updated_at: '2026-09-11T17:02:17Z'
+  pushed_at: '2026-09-11T17:02:11Z'
+  default_branch: main
+  last_scanned: '2026-09-12T08:39:00.430696+00:00'
+  curation:
+    status: candidate
+    source: automated-discovery
+    verified: false
+    veterinary_relevance_score: 1.0
+    score_reasons:
+    - +4 strong:veterinary
+    - +4 strong:veterinary pathology
+    - +1 support:poultry
+    - +1.5 support:livestock
     - +0.5 support:animal
 - id: syedaaneesa-flarevet
   source: github
@@ -1150,7 +1180,7 @@ resources:
   updated_at: '2026-08-05T19:04:57Z'
   pushed_at: '2026-08-05T19:03:56Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:52.882170+00:00'
+  last_scanned: '2026-09-12T08:39:00.870707+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1179,7 +1209,7 @@ resources:
   updated_at: '2026-08-09T12:36:16Z'
   pushed_at: '2026-08-09T12:36:11Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:53.276930+00:00'
+  last_scanned: '2026-09-12T08:39:01.337955+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1208,7 +1238,7 @@ resources:
   updated_at: '2026-08-23T14:03:21Z'
   pushed_at: '2026-08-23T14:02:09Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:53.682277+00:00'
+  last_scanned: '2026-09-12T08:39:01.790819+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1239,7 +1269,7 @@ resources:
   updated_at: '2026-08-31T18:27:39Z'
   pushed_at: '2026-08-31T18:16:48Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:54.132693+00:00'
+  last_scanned: '2026-09-12T08:39:02.276656+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1271,7 +1301,7 @@ resources:
   updated_at: '2025-11-25T05:19:24Z'
   pushed_at: '2025-11-25T05:19:20Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:54.500530+00:00'
+  last_scanned: '2026-09-12T08:39:02.686545+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1301,7 +1331,7 @@ resources:
   updated_at: '2026-09-02T16:38:53Z'
   pushed_at: '2026-09-02T16:14:16Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:54.932994+00:00'
+  last_scanned: '2026-09-12T08:39:03.153599+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1331,7 +1361,7 @@ resources:
   updated_at: '2026-07-01T11:59:46Z'
   pushed_at: '2026-07-01T11:59:42Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:55.302237+00:00'
+  last_scanned: '2026-09-12T08:39:03.638781+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1371,7 +1401,7 @@ resources:
   updated_at: '2026-09-04T18:39:49Z'
   pushed_at: '2026-09-04T18:39:46Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:55.719409+00:00'
+  last_scanned: '2026-09-12T08:39:04.181025+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1412,7 +1442,7 @@ resources:
   updated_at: '2026-09-04T19:34:53Z'
   pushed_at: '2026-09-04T19:34:30Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:56.131440+00:00'
+  last_scanned: '2026-09-12T08:39:04.652740+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1427,7 +1457,7 @@ resources:
   full_name: bhavyakumawat94-blip/Pashu-Shield
   url: https://github.com/bhavyakumawat94-blip/Pashu-Shield
   description: PASHU SHIELD – Livestock Health Surveillance and Early Warning System
-  homepage: null
+  homepage: https://pashu-shield.vercel.app
   topics: []
   language: JavaScript
   license: null
@@ -1437,10 +1467,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-09-10T16:20:25Z'
-  updated_at: '2026-09-10T16:57:38Z'
-  pushed_at: '2026-09-10T16:57:34Z'
+  updated_at: '2026-09-11T16:20:34Z'
+  pushed_at: '2026-09-11T16:20:30Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:56.473398+00:00'
+  last_scanned: '2026-09-12T08:39:05.085066+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1472,10 +1502,10 @@ resources:
   archived: false
   fork: false
   created_at: '2024-05-29T11:55:34Z'
-  updated_at: '2026-09-11T08:32:54Z'
-  pushed_at: '2026-09-11T08:32:51Z'
+  updated_at: '2026-09-12T08:21:54Z'
+  pushed_at: '2026-09-12T08:21:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:56.881595+00:00'
+  last_scanned: '2026-09-12T08:39:05.567071+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1505,7 +1535,7 @@ resources:
   updated_at: '2026-09-06T21:29:14Z'
   pushed_at: '2026-09-06T21:29:07Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:57.358214+00:00'
+  last_scanned: '2026-09-12T08:39:06.003983+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1537,7 +1567,7 @@ resources:
   updated_at: '2026-08-15T14:19:14Z'
   pushed_at: '2026-08-15T14:19:09Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:57.779866+00:00'
+  last_scanned: '2026-09-12T08:39:06.720461+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1565,7 +1595,7 @@ resources:
   updated_at: '2026-06-24T14:07:38Z'
   pushed_at: '2026-06-24T14:06:35Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:58.187930+00:00'
+  last_scanned: '2026-09-12T08:39:07.208384+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1626,7 +1656,7 @@ resources:
   updated_at: '2026-08-29T10:09:28Z'
   pushed_at: '2026-08-13T02:04:23Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:58.764881+00:00'
+  last_scanned: '2026-09-12T08:39:07.819844+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1656,7 +1686,7 @@ resources:
   updated_at: '2026-09-08T18:01:23Z'
   pushed_at: '2026-09-08T18:00:02Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:59.184774+00:00'
+  last_scanned: '2026-09-12T08:39:08.227740+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1687,7 +1717,7 @@ resources:
   updated_at: '2026-08-31T20:06:17Z'
   pushed_at: '2026-08-31T20:06:05Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:55:59.614283+00:00'
+  last_scanned: '2026-09-12T08:39:08.805152+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1713,10 +1743,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-09-01T22:33:14Z'
-  updated_at: '2026-09-11T06:48:42Z'
-  pushed_at: '2026-09-11T06:48:38Z'
+  updated_at: '2026-09-12T00:57:14Z'
+  pushed_at: '2026-09-12T05:01:28Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:00.040441+00:00'
+  last_scanned: '2026-09-12T08:39:09.220857+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1745,7 +1775,7 @@ resources:
   updated_at: '2026-07-05T12:32:28Z'
   pushed_at: '2026-07-05T12:32:24Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:00.420797+00:00'
+  last_scanned: '2026-09-12T08:39:09.677079+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1776,7 +1806,7 @@ resources:
   updated_at: '2026-07-15T11:01:09Z'
   pushed_at: '2026-07-15T11:00:57Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:00.916479+00:00'
+  last_scanned: '2026-09-12T08:39:10.141335+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1805,7 +1835,7 @@ resources:
   updated_at: '2026-08-01T19:49:21Z'
   pushed_at: '2026-08-01T19:49:17Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:01.347118+00:00'
+  last_scanned: '2026-09-12T08:39:10.575653+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1835,7 +1865,7 @@ resources:
   updated_at: '2026-06-08T10:37:40Z'
   pushed_at: '2026-06-08T10:37:36Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:01.770299+00:00'
+  last_scanned: '2026-09-12T08:39:11.099985+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1863,7 +1893,7 @@ resources:
   updated_at: '2026-03-26T10:31:33Z'
   pushed_at: '2026-03-26T10:31:29Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:02.228943+00:00'
+  last_scanned: '2026-09-12T08:39:11.540861+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1928,7 +1958,7 @@ resources:
   updated_at: '2026-08-15T00:08:13Z'
   pushed_at: '2026-08-15T00:08:04Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:02.825933+00:00'
+  last_scanned: '2026-09-12T08:39:12.151634+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1957,7 +1987,7 @@ resources:
   updated_at: '2026-07-06T18:27:05Z'
   pushed_at: '2026-07-06T18:27:00Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:03.220459+00:00'
+  last_scanned: '2026-09-12T08:39:12.611497+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -1985,7 +2015,38 @@ resources:
   updated_at: '2026-09-06T16:59:45Z'
   pushed_at: '2026-09-06T16:59:41Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:03.627395+00:00'
+  last_scanned: '2026-09-12T08:39:13.056906+00:00'
+  curation:
+    status: candidate
+    source: automated-discovery
+    verified: false
+    veterinary_relevance_score: 0.95
+    score_reasons:
+    - +4 strong:veterinary
+    - +3.5 strong:animal health
+    - +1.5 support:livestock
+    - +0.5 support:animal
+- id: prathvi321-dehatarogya
+  source: github
+  full_name: Prathvi321/DehatArogya
+  url: https://github.com/Prathvi321/DehatArogya
+  description: AI-powered livestock health surveillance system featuring QR-based animal health ledgers, vernacular
+    symptom triage (Gemini), offline-first field sync, and real-time PostGIS 5km geospatial outbreak containment
+    alerts. Built for Smart India Hackathon (SIH).
+  homepage: null
+  topics: []
+  language: JavaScript
+  license: null
+  stars: 0
+  forks: 0
+  open_issues: 1
+  archived: false
+  fork: false
+  created_at: '2026-09-11T15:41:32Z'
+  updated_at: '2026-09-11T23:44:21Z'
+  pushed_at: '2026-09-11T23:44:17Z'
+  default_branch: main
+  last_scanned: '2026-09-12T08:39:13.519347+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2014,7 +2075,7 @@ resources:
   updated_at: '2026-08-11T15:58:24Z'
   pushed_at: '2026-08-11T15:57:28Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:04.059231+00:00'
+  last_scanned: '2026-09-12T08:39:13.964625+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2045,7 +2106,7 @@ resources:
   updated_at: '2026-08-25T08:47:26Z'
   pushed_at: '2026-08-26T14:30:38Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:04.507548+00:00'
+  last_scanned: '2026-09-12T08:39:14.370136+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2084,7 +2145,7 @@ resources:
   updated_at: '2026-07-06T06:29:55Z'
   pushed_at: '2026-07-06T06:29:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:04.929540+00:00'
+  last_scanned: '2026-09-12T08:39:14.817981+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2114,7 +2175,7 @@ resources:
   updated_at: '2026-08-14T05:51:10Z'
   pushed_at: '2026-08-14T05:46:55Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:05.360535+00:00'
+  last_scanned: '2026-09-12T08:39:15.293896+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2143,7 +2204,7 @@ resources:
   updated_at: '2026-09-04T12:30:15Z'
   pushed_at: '2026-09-04T12:30:07Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:05.733828+00:00'
+  last_scanned: '2026-09-12T08:39:15.746785+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2173,7 +2234,7 @@ resources:
   updated_at: '2026-08-02T15:38:23Z'
   pushed_at: '2026-08-02T15:38:10Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:06.189882+00:00'
+  last_scanned: '2026-09-12T08:39:16.208162+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2207,7 +2268,7 @@ resources:
   updated_at: '2026-08-23T20:33:49Z'
   pushed_at: '2026-08-23T20:33:25Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:56:06.716143+00:00'
+  last_scanned: '2026-09-12T08:39:16.695814+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2237,7 +2298,7 @@ resources:
   updated_at: '2026-01-28T05:32:19Z'
   pushed_at: '2026-01-28T05:04:21Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:07.082803+00:00'
+  last_scanned: '2026-09-12T08:39:17.196107+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2265,7 +2326,7 @@ resources:
   updated_at: '2026-07-31T10:52:31Z'
   pushed_at: '2026-07-31T10:52:28Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:07.498859+00:00'
+  last_scanned: '2026-09-12T08:39:17.618140+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2294,7 +2355,7 @@ resources:
   updated_at: '2026-08-25T14:48:34Z'
   pushed_at: '2026-08-25T14:40:15Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:07.868194+00:00'
+  last_scanned: '2026-09-12T08:39:18.062523+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2321,7 +2382,7 @@ resources:
   updated_at: '2026-08-26T17:49:23Z'
   pushed_at: '2026-08-26T17:42:47Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:08.258188+00:00'
+  last_scanned: '2026-09-12T08:39:18.555070+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2376,7 +2437,7 @@ resources:
   updated_at: '2026-09-04T21:32:14Z'
   pushed_at: '2026-09-04T21:32:10Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:08.821593+00:00'
+  last_scanned: '2026-09-12T08:39:19.237836+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2405,7 +2466,7 @@ resources:
   updated_at: '2026-09-07T06:40:18Z'
   pushed_at: '2026-09-07T06:40:15Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:09.214741+00:00'
+  last_scanned: '2026-09-12T08:39:19.673764+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2447,7 +2508,7 @@ resources:
   updated_at: '2026-06-08T11:26:43Z'
   pushed_at: '2026-06-08T11:26:39Z'
   default_branch: develop
-  last_scanned: '2026-09-11T08:56:09.600512+00:00'
+  last_scanned: '2026-09-12T08:39:20.124103+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2475,7 +2536,7 @@ resources:
   updated_at: '2026-06-06T13:05:19Z'
   pushed_at: '2026-06-06T13:05:15Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:10.006829+00:00'
+  last_scanned: '2026-09-12T08:39:20.557450+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2502,7 +2563,7 @@ resources:
   updated_at: '2020-06-25T05:49:52Z'
   pushed_at: '2020-06-25T05:49:50Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:56:10.402629+00:00'
+  last_scanned: '2026-09-12T08:39:21.000690+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2529,7 +2590,7 @@ resources:
   updated_at: '2026-07-26T16:51:06Z'
   pushed_at: '2026-07-26T16:50:59Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:10.862299+00:00'
+  last_scanned: '2026-09-12T08:39:21.427302+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2557,7 +2618,7 @@ resources:
   updated_at: '2026-06-24T21:54:25Z'
   pushed_at: '2026-06-24T21:54:14Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:11.285020+00:00'
+  last_scanned: '2026-09-12T08:39:21.837369+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2584,7 +2645,7 @@ resources:
   updated_at: '2026-08-11T06:22:24Z'
   pushed_at: '2026-08-11T06:10:43Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:11.741095+00:00'
+  last_scanned: '2026-09-12T08:39:22.282058+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2615,7 +2676,7 @@ resources:
   updated_at: '2026-06-22T14:34:11Z'
   pushed_at: '2026-06-22T14:31:59Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:12.087567+00:00'
+  last_scanned: '2026-09-12T08:39:22.684820+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2642,7 +2703,7 @@ resources:
   updated_at: '2026-07-02T09:45:43Z'
   pushed_at: '2026-07-02T09:45:38Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:12.452420+00:00'
+  last_scanned: '2026-09-12T08:39:23.080873+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2674,7 +2735,7 @@ resources:
   updated_at: '2023-08-18T08:52:14Z'
   pushed_at: '2022-12-20T01:42:17Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:12.909181+00:00'
+  last_scanned: '2026-09-12T08:39:23.546054+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2703,7 +2764,7 @@ resources:
   updated_at: '2026-07-11T16:55:04Z'
   pushed_at: '2026-07-11T16:54:59Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:13.339910+00:00'
+  last_scanned: '2026-09-12T08:39:23.962416+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2733,7 +2794,7 @@ resources:
   updated_at: '2026-07-23T13:20:41Z'
   pushed_at: '2026-07-23T12:52:42Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:13.742028+00:00'
+  last_scanned: '2026-09-12T08:39:24.448141+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2753,14 +2814,14 @@ resources:
   license: null
   stars: 2
   forks: 0
-  open_issues: 8
+  open_issues: 7
   archived: false
   fork: false
   created_at: '2023-05-23T16:59:10Z'
-  updated_at: '2026-09-09T21:01:45Z'
-  pushed_at: '2026-09-11T04:08:32Z'
+  updated_at: '2026-09-11T21:23:24Z'
+  pushed_at: '2026-09-11T21:23:21Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:14.167186+00:00'
+  last_scanned: '2026-09-12T08:39:24.966622+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2787,7 +2848,7 @@ resources:
   updated_at: '2026-08-05T07:44:44Z'
   pushed_at: '2026-08-05T07:43:34Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:14.559319+00:00'
+  last_scanned: '2026-09-12T08:39:25.413002+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2811,10 +2872,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-08-05T07:43:30Z'
-  updated_at: '2026-09-09T09:04:06Z'
-  pushed_at: '2026-09-09T09:03:05Z'
+  updated_at: '2026-09-11T08:59:21Z'
+  pushed_at: '2026-09-11T08:59:17Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:14.963813+00:00'
+  last_scanned: '2026-09-12T08:39:25.970915+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2844,7 +2905,7 @@ resources:
   updated_at: '2026-02-08T04:24:53Z'
   pushed_at: '2026-02-01T09:48:03Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:15.346299+00:00'
+  last_scanned: '2026-09-12T08:39:26.474509+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2872,7 +2933,7 @@ resources:
   updated_at: '2025-03-23T02:31:20Z'
   pushed_at: '2025-03-23T02:31:17Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:15.980181+00:00'
+  last_scanned: '2026-09-12T08:39:26.884035+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2901,7 +2962,7 @@ resources:
   updated_at: '2026-06-02T11:22:08Z'
   pushed_at: '2026-06-02T11:22:04Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:16.340998+00:00'
+  last_scanned: '2026-09-12T08:39:27.310132+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2930,7 +2991,7 @@ resources:
   updated_at: '2026-05-13T09:41:34Z'
   pushed_at: '2026-05-13T09:40:47Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:16.733345+00:00'
+  last_scanned: '2026-09-12T08:39:27.784288+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2959,7 +3020,7 @@ resources:
   updated_at: '2026-08-22T10:13:53Z'
   pushed_at: '2026-08-22T10:13:12Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:17.241282+00:00'
+  last_scanned: '2026-09-12T08:39:28.213274+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -2988,7 +3049,7 @@ resources:
   updated_at: '2026-09-03T11:59:45Z'
   pushed_at: '2026-09-03T11:58:53Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:17.627075+00:00'
+  last_scanned: '2026-09-12T08:39:28.638331+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3016,7 +3077,7 @@ resources:
   updated_at: '2026-09-07T05:25:26Z'
   pushed_at: '2026-09-07T05:25:21Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:18.007475+00:00'
+  last_scanned: '2026-09-12T08:39:29.105519+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3049,7 +3110,7 @@ resources:
   updated_at: '2026-07-21T07:52:05Z'
   pushed_at: '2026-07-21T07:51:38Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:18.395743+00:00'
+  last_scanned: '2026-09-12T08:39:29.556060+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3086,7 +3147,7 @@ resources:
   updated_at: '2024-09-27T06:35:08Z'
   pushed_at: '2024-09-27T06:35:02Z'
   default_branch: gh-pages
-  last_scanned: '2026-09-11T08:56:18.770627+00:00'
+  last_scanned: '2026-09-12T08:39:29.974153+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3114,7 +3175,7 @@ resources:
   updated_at: '2026-08-07T09:58:35Z'
   pushed_at: '2026-08-07T09:58:06Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:19.169262+00:00'
+  last_scanned: '2026-09-12T08:39:30.440492+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3142,7 +3203,7 @@ resources:
   updated_at: '2026-08-06T12:20:35Z'
   pushed_at: '2026-08-06T12:20:08Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:56:19.566026+00:00'
+  last_scanned: '2026-09-12T08:39:30.854183+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3170,7 +3231,7 @@ resources:
   updated_at: '2026-08-16T16:48:17Z'
   pushed_at: '2026-08-16T16:47:42Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:19.909219+00:00'
+  last_scanned: '2026-09-12T08:39:31.287241+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3198,7 +3259,7 @@ resources:
   updated_at: '2026-05-10T16:14:35Z'
   pushed_at: '2026-05-10T16:14:35Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:20.313168+00:00'
+  last_scanned: '2026-09-12T08:39:31.691009+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3234,7 +3295,7 @@ resources:
   updated_at: '2026-09-04T19:41:54Z'
   pushed_at: '2026-09-04T19:41:49Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:20.764916+00:00'
+  last_scanned: '2026-09-12T08:39:32.195297+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3269,7 +3330,7 @@ resources:
   updated_at: '2026-09-04T19:50:52Z'
   pushed_at: '2026-09-04T19:50:49Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:21.169853+00:00'
+  last_scanned: '2026-09-12T08:39:32.623840+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3309,7 +3370,7 @@ resources:
   updated_at: '2026-09-04T19:56:01Z'
   pushed_at: '2026-09-04T19:55:55Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:21.659320+00:00'
+  last_scanned: '2026-09-12T08:39:33.106207+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3344,7 +3405,7 @@ resources:
   updated_at: '2026-09-04T20:29:16Z'
   pushed_at: '2026-09-04T20:29:11Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:22.070872+00:00'
+  last_scanned: '2026-09-12T08:39:33.638505+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3365,14 +3426,14 @@ resources:
   license: null
   stars: 0
   forks: 0
-  open_issues: 1
+  open_issues: 2
   archived: false
   fork: false
   created_at: '2026-09-03T11:44:07Z'
-  updated_at: '2026-09-10T16:46:40Z'
-  pushed_at: '2026-09-10T20:38:38Z'
+  updated_at: '2026-09-12T02:16:56Z'
+  pushed_at: '2026-09-12T02:24:54Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:22.454518+00:00'
+  last_scanned: '2026-09-12T08:39:34.078362+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3401,7 +3462,7 @@ resources:
   updated_at: '2026-03-12T21:25:48Z'
   pushed_at: '2026-03-12T21:25:44Z'
   default_branch: feat/dynamic-detail-pages
-  last_scanned: '2026-09-11T08:56:22.887017+00:00'
+  last_scanned: '2026-09-12T08:39:34.517725+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3430,7 +3491,7 @@ resources:
   updated_at: '2024-10-11T16:45:20Z'
   pushed_at: '2024-09-04T18:41:54Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:23.258110+00:00'
+  last_scanned: '2026-09-12T08:39:34.931606+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3465,7 +3526,7 @@ resources:
   updated_at: '2025-03-31T19:44:22Z'
   pushed_at: '2025-03-31T19:42:51Z'
   default_branch: develop
-  last_scanned: '2026-09-11T08:56:23.616106+00:00'
+  last_scanned: '2026-09-12T08:39:35.344891+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3493,7 +3554,7 @@ resources:
   updated_at: '2026-04-03T08:48:16Z'
   pushed_at: '2026-04-03T08:48:13Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:24.061527+00:00'
+  last_scanned: '2026-09-12T08:39:35.804682+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3521,7 +3582,7 @@ resources:
   updated_at: '2026-05-29T12:05:27Z'
   pushed_at: '2026-05-29T12:05:21Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:24.399777+00:00'
+  last_scanned: '2026-09-12T08:39:36.207875+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3550,7 +3611,7 @@ resources:
   updated_at: '2026-08-14T14:10:30Z'
   pushed_at: '2026-08-14T14:08:46Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:24.872308+00:00'
+  last_scanned: '2026-09-12T08:39:36.692398+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3592,7 +3653,7 @@ resources:
   updated_at: '2026-09-11T01:13:45Z'
   pushed_at: '2026-09-11T01:03:37Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:25.252831+00:00'
+  last_scanned: '2026-09-12T08:39:37.092657+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3631,7 +3692,7 @@ resources:
   updated_at: '2026-08-08T13:00:04Z'
   pushed_at: '2026-08-08T12:59:56Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:25.744740+00:00'
+  last_scanned: '2026-09-12T08:39:37.566681+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3659,7 +3720,7 @@ resources:
   updated_at: '2025-07-09T09:41:50Z'
   pushed_at: '2025-07-09T09:41:48Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:26.151631+00:00'
+  last_scanned: '2026-09-12T08:39:38.051216+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3686,7 +3747,7 @@ resources:
   updated_at: '2026-05-14T05:10:14Z'
   pushed_at: '2026-05-13T09:36:33Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:26.558259+00:00'
+  last_scanned: '2026-09-12T08:39:38.519206+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3713,7 +3774,7 @@ resources:
   updated_at: '2026-08-06T02:52:09Z'
   pushed_at: '2026-08-06T02:51:57Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:26.892238+00:00'
+  last_scanned: '2026-09-12T08:39:39.024056+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3740,7 +3801,7 @@ resources:
   updated_at: '2026-06-21T14:49:38Z'
   pushed_at: '2026-06-21T14:49:34Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:27.303629+00:00'
+  last_scanned: '2026-09-12T08:39:39.459280+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3767,7 +3828,7 @@ resources:
   updated_at: '2026-09-05T17:10:36Z'
   pushed_at: '2026-09-05T17:10:33Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:27.825608+00:00'
+  last_scanned: '2026-09-12T08:39:39.893058+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3794,7 +3855,7 @@ resources:
   updated_at: '2023-06-08T15:49:26Z'
   pushed_at: '2021-05-24T22:00:29Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:56:28.260471+00:00'
+  last_scanned: '2026-09-12T08:39:40.367215+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3822,7 +3883,7 @@ resources:
   updated_at: '2025-11-17T19:48:00Z'
   pushed_at: '2025-11-03T09:56:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:28.642503+00:00'
+  last_scanned: '2026-09-12T08:39:40.787149+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3845,14 +3906,14 @@ resources:
   license: null
   stars: 0
   forks: 0
-  open_issues: 6
+  open_issues: 5
   archived: false
   fork: false
   created_at: '2026-04-23T00:23:20Z'
-  updated_at: '2026-09-11T00:52:48Z'
-  pushed_at: '2026-09-11T00:52:39Z'
+  updated_at: '2026-09-11T23:38:48Z'
+  pushed_at: '2026-09-11T23:38:44Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:29.093426+00:00'
+  last_scanned: '2026-09-12T08:39:41.273068+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3880,7 +3941,7 @@ resources:
   updated_at: '2026-08-13T22:29:34Z'
   pushed_at: '2026-08-13T22:29:29Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:29.450282+00:00'
+  last_scanned: '2026-09-12T08:39:41.671557+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3908,7 +3969,7 @@ resources:
   updated_at: '2026-09-08T07:47:11Z'
   pushed_at: '2026-09-08T07:44:32Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:29.834971+00:00'
+  last_scanned: '2026-09-12T08:39:42.123336+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3937,7 +3998,7 @@ resources:
   updated_at: '2026-04-10T19:40:53Z'
   pushed_at: '2026-04-10T19:40:48Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:30.328635+00:00'
+  last_scanned: '2026-09-12T08:39:42.560475+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3964,7 +4025,7 @@ resources:
   updated_at: '2026-08-29T15:40:30Z'
   pushed_at: '2026-08-29T15:40:21Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:30.782046+00:00'
+  last_scanned: '2026-09-12T08:39:42.958982+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -3992,7 +4053,7 @@ resources:
   updated_at: '2026-05-18T16:13:34Z'
   pushed_at: '2026-05-18T16:13:30Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:31.183536+00:00'
+  last_scanned: '2026-09-12T08:39:43.349543+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4019,7 +4080,7 @@ resources:
   updated_at: '2026-06-30T00:12:29Z'
   pushed_at: '2026-06-30T00:12:25Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:56:31.591704+00:00'
+  last_scanned: '2026-09-12T08:39:43.788542+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4046,7 +4107,7 @@ resources:
   updated_at: '2026-03-26T16:52:34Z'
   pushed_at: '2026-03-26T16:52:34Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:31.954091+00:00'
+  last_scanned: '2026-09-12T08:39:44.216049+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4073,7 +4134,7 @@ resources:
   updated_at: '2021-11-29T13:50:34Z'
   pushed_at: '2021-11-29T13:50:32Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:32.403958+00:00'
+  last_scanned: '2026-09-12T08:39:44.669602+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4101,7 +4162,7 @@ resources:
   updated_at: '2024-05-25T14:29:39Z'
   pushed_at: '2023-02-03T15:33:27Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:32.845225+00:00'
+  last_scanned: '2026-09-12T08:39:45.107870+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4128,7 +4189,7 @@ resources:
   updated_at: '2026-08-06T14:56:42Z'
   pushed_at: '2026-08-06T21:01:46Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:33.201981+00:00'
+  last_scanned: '2026-09-12T08:39:45.545805+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4156,7 +4217,7 @@ resources:
   updated_at: '2024-07-14T04:55:48Z'
   pushed_at: '2024-07-14T04:55:45Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:33.665503+00:00'
+  last_scanned: '2026-09-12T08:39:45.998461+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4184,7 +4245,7 @@ resources:
   updated_at: '2026-06-15T22:32:42Z'
   pushed_at: '2026-06-15T22:32:39Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:34.090838+00:00'
+  last_scanned: '2026-09-12T08:39:46.402222+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4211,7 +4272,7 @@ resources:
   updated_at: '2026-06-22T14:52:33Z'
   pushed_at: '2026-06-22T14:50:27Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:34.501720+00:00'
+  last_scanned: '2026-09-12T08:39:46.829680+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4238,7 +4299,7 @@ resources:
   updated_at: '2026-09-04T21:25:31Z'
   pushed_at: '2026-09-04T21:26:09Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:34.863349+00:00'
+  last_scanned: '2026-09-12T08:39:47.275159+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4247,6 +4308,35 @@ resources:
     score_reasons:
     - +4 strong:veterinary
     - +3.5 strong:animal health
+    - +0.5 support:animal
+- id: suraj9509-pashu-mitra
+  source: github
+  full_name: Suraj9509/Pashu--mitra
+  url: https://github.com/Suraj9509/Pashu--mitra
+  description: 🐾 Pashu Mitra — A veterinary-led animal welfare initiative for rescue, treatment, rehabilitation
+    and awareness.
+  homepage: null
+  topics: []
+  language: HTML
+  license: null
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  fork: false
+  created_at: '2026-09-11T12:54:49Z'
+  updated_at: '2026-09-11T13:24:33Z'
+  pushed_at: '2026-09-11T13:24:29Z'
+  default_branch: main
+  last_scanned: '2026-09-12T08:39:47.680673+00:00'
+  curation:
+    status: candidate
+    source: automated-discovery
+    verified: false
+    veterinary_relevance_score: 0.8
+    score_reasons:
+    - +4 strong:veterinary
+    - +3.5 strong:animal welfare
     - +0.5 support:animal
 - id: syedaaneesa-flexedge
   source: github
@@ -4266,7 +4356,7 @@ resources:
   updated_at: '2026-08-14T14:02:55Z'
   pushed_at: '2026-08-14T14:01:32Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:35.280931+00:00'
+  last_scanned: '2026-09-12T08:39:48.133666+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4294,7 +4384,7 @@ resources:
   updated_at: '2026-03-09T22:48:47Z'
   pushed_at: '2026-03-09T22:48:44Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:35.710234+00:00'
+  last_scanned: '2026-09-12T08:39:48.594413+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4322,7 +4412,7 @@ resources:
   updated_at: '2026-08-04T11:37:23Z'
   pushed_at: '2026-08-04T11:36:24Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:36.090947+00:00'
+  last_scanned: '2026-09-12T08:39:49.015886+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4350,7 +4440,7 @@ resources:
   updated_at: '2026-08-05T07:43:57Z'
   pushed_at: '2026-08-05T07:43:40Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:36.497389+00:00'
+  last_scanned: '2026-09-12T08:39:49.502225+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4378,7 +4468,7 @@ resources:
   updated_at: '2026-04-03T07:50:44Z'
   pushed_at: '2026-04-03T07:50:41Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:36.920881+00:00'
+  last_scanned: '2026-09-12T08:39:49.954349+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4411,14 +4501,14 @@ resources:
   license: NOASSERTION
   stars: 2021
   forks: 82
-  open_issues: 73
+  open_issues: 76
   archived: false
   fork: false
   created_at: '2025-01-21T11:26:05Z'
   updated_at: '2026-09-10T07:42:24Z'
-  pushed_at: '2026-09-11T08:23:13Z'
+  pushed_at: '2026-09-12T08:37:27Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:37.317238+00:00'
+  last_scanned: '2026-09-12T08:39:50.396786+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4508,7 +4598,7 @@ resources:
   updated_at: '2023-10-11T04:55:50Z'
   pushed_at: '2022-03-29T09:33:13Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:37.750399+00:00'
+  last_scanned: '2026-09-12T08:39:50.929519+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4538,7 +4628,7 @@ resources:
   updated_at: '2026-03-19T02:20:13Z'
   pushed_at: '2026-03-19T00:58:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:38.147126+00:00'
+  last_scanned: '2026-09-12T08:39:51.363840+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4568,7 +4658,7 @@ resources:
   updated_at: '2026-07-07T08:01:30Z'
   pushed_at: '2026-07-07T08:01:08Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:39.587771+00:00'
+  last_scanned: '2026-09-12T08:39:51.795592+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4599,7 +4689,7 @@ resources:
   updated_at: '2024-01-27T15:47:54Z'
   pushed_at: '2024-01-27T15:48:16Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:40.044739+00:00'
+  last_scanned: '2026-09-12T08:39:52.181281+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4633,7 +4723,7 @@ resources:
   updated_at: '2026-03-25T19:54:46Z'
   pushed_at: '2025-02-18T21:19:45Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:40.414363+00:00'
+  last_scanned: '2026-09-12T08:39:52.670453+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4666,7 +4756,7 @@ resources:
   updated_at: '2026-07-17T14:17:09Z'
   pushed_at: '2026-07-13T15:34:39Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:40.870831+00:00'
+  last_scanned: '2026-09-12T08:39:53.116192+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4696,7 +4786,7 @@ resources:
   updated_at: '2026-09-04T13:20:06Z'
   pushed_at: '2026-09-04T13:19:11Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:41.327735+00:00'
+  last_scanned: '2026-09-12T08:39:53.543664+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4727,7 +4817,7 @@ resources:
   updated_at: '2026-07-27T07:09:06Z'
   pushed_at: '2026-07-27T07:08:41Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:41.738892+00:00'
+  last_scanned: '2026-09-12T08:39:54.015688+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4757,7 +4847,7 @@ resources:
   updated_at: '2026-08-19T14:30:14Z'
   pushed_at: '2026-08-19T14:25:25Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:42.177974+00:00'
+  last_scanned: '2026-09-12T08:39:54.459504+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4786,7 +4876,7 @@ resources:
   updated_at: '2026-06-12T08:56:13Z'
   pushed_at: '2026-06-09T17:11:33Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:42.525070+00:00'
+  last_scanned: '2026-09-12T08:39:54.922485+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4823,7 +4913,7 @@ resources:
   updated_at: '2026-04-15T04:14:08Z'
   pushed_at: '2026-04-15T04:11:12Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:42.885739+00:00'
+  last_scanned: '2026-09-12T08:39:55.332251+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4853,7 +4943,7 @@ resources:
   updated_at: '2024-06-26T19:17:03Z'
   pushed_at: '2021-09-14T17:11:07Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:43.257405+00:00'
+  last_scanned: '2026-09-12T08:39:55.742626+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4883,7 +4973,7 @@ resources:
   updated_at: '2026-09-05T04:30:21Z'
   pushed_at: '2026-09-05T04:30:17Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:43.662099+00:00'
+  last_scanned: '2026-09-12T08:39:56.147320+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4914,7 +5004,7 @@ resources:
   updated_at: '2026-09-01T09:38:44Z'
   pushed_at: '2026-09-01T09:32:55Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:44.091381+00:00'
+  last_scanned: '2026-09-12T08:39:56.609664+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4943,7 +5033,7 @@ resources:
   updated_at: '2026-08-25T17:55:57Z'
   pushed_at: '2026-08-25T17:50:19Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:44.505409+00:00'
+  last_scanned: '2026-09-12T08:39:57.044241+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -4973,7 +5063,7 @@ resources:
   updated_at: '2026-01-18T08:52:57Z'
   pushed_at: '2026-01-18T08:52:54Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:44.887033+00:00'
+  last_scanned: '2026-09-12T08:39:57.521712+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5001,7 +5091,7 @@ resources:
   updated_at: '2026-07-31T09:45:32Z'
   pushed_at: '2026-07-31T09:45:12Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:45.311614+00:00'
+  last_scanned: '2026-09-12T08:39:57.968905+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5040,7 +5130,7 @@ resources:
   updated_at: '2026-07-04T06:20:57Z'
   pushed_at: '2026-07-04T06:20:54Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:45.750906+00:00'
+  last_scanned: '2026-09-12T08:39:58.413817+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5080,7 +5170,7 @@ resources:
   updated_at: '2026-09-04T19:11:29Z'
   pushed_at: '2026-09-04T19:11:25Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:46.165821+00:00'
+  last_scanned: '2026-09-12T08:39:58.878127+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5109,7 +5199,7 @@ resources:
   updated_at: '2026-01-13T10:21:21Z'
   pushed_at: '2026-01-13T10:20:47Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:46.566983+00:00'
+  last_scanned: '2026-09-12T08:39:59.305090+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5136,10 +5226,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-07-18T17:25:14Z'
-  updated_at: '2026-09-11T07:22:08Z'
-  pushed_at: '2026-09-11T07:22:04Z'
+  updated_at: '2026-09-12T07:14:33Z'
+  pushed_at: '2026-09-12T07:14:29Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:46.949832+00:00'
+  last_scanned: '2026-09-12T08:39:59.742562+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5150,6 +5240,34 @@ resources:
     - +1 support:poultry
     - +1.5 support:livestock
     - +0.5 support:animal
+- id: yahyalawanishaq-dev-agrovoice-diagnostic-ai
+  source: github
+  full_name: yahyalawanishaq-dev/agrovoice-diagnostic-ai
+  url: https://github.com/yahyalawanishaq-dev/agrovoice-diagnostic-ai
+  description: AI diagnostic advisory tool for fish and livestock health condition assessment.
+  homepage: null
+  topics: []
+  language: Python
+  license: null
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  fork: false
+  created_at: '2026-09-11T18:43:29Z'
+  updated_at: '2026-09-11T22:23:45Z'
+  pushed_at: '2026-09-11T22:23:42Z'
+  default_branch: main
+  last_scanned: '2026-09-12T08:40:00.156789+00:00'
+  curation:
+    status: candidate
+    source: automated-discovery
+    verified: false
+    veterinary_relevance_score: 0.65
+    score_reasons:
+    - +4 strong:veterinary
+    - +1 support:poultry
+    - +1.5 support:livestock
 - id: angelica-28-veterinary-diagnoses-for-breeding
   source: github
   full_name: Angelica-28/veterinary-diagnoses-for-breeding
@@ -5170,7 +5288,7 @@ resources:
   updated_at: '2026-01-08T11:48:16Z'
   pushed_at: '2026-01-08T11:48:12Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:47.344234+00:00'
+  last_scanned: '2026-09-12T08:40:00.575481+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5210,7 +5328,7 @@ resources:
   updated_at: '2026-09-04T19:07:34Z'
   pushed_at: '2026-09-04T19:07:26Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:47.719101+00:00'
+  last_scanned: '2026-09-12T08:40:01.053599+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5278,7 +5396,7 @@ resources:
   updated_at: '2026-08-24T02:06:48Z'
   pushed_at: '2026-07-01T08:51:58Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:48.297143+00:00'
+  last_scanned: '2026-09-12T08:40:01.687687+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5306,7 +5424,7 @@ resources:
   updated_at: '2026-09-06T16:16:06Z'
   pushed_at: '2026-09-06T16:15:52Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:48.674435+00:00'
+  last_scanned: '2026-09-12T08:40:02.149558+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5331,10 +5449,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-09-08T14:09:34Z'
-  updated_at: '2026-09-09T16:31:36Z'
-  pushed_at: '2026-09-09T16:25:10Z'
+  updated_at: '2026-09-11T17:25:09Z'
+  pushed_at: '2026-09-11T17:25:05Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:56:49.022925+00:00'
+  last_scanned: '2026-09-12T08:40:02.570698+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5375,7 +5493,7 @@ resources:
   updated_at: '2026-09-10T18:57:43Z'
   pushed_at: '2026-09-10T18:57:39Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:49.432260+00:00'
+  last_scanned: '2026-09-12T08:40:03.051107+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5395,7 +5513,7 @@ resources:
     productivity.
   homepage: null
   topics: []
-  language: null
+  language: Python
   license: null
   stars: 0
   forks: 0
@@ -5403,10 +5521,39 @@ resources:
   archived: false
   fork: false
   created_at: '2026-09-10T16:54:15Z'
-  updated_at: '2026-09-10T17:09:33Z'
-  pushed_at: '2026-09-10T17:09:29Z'
+  updated_at: '2026-09-12T04:58:51Z'
+  pushed_at: '2026-09-12T04:58:47Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:49.799425+00:00'
+  last_scanned: '2026-09-12T08:40:03.473495+00:00'
+  curation:
+    status: candidate
+    source: automated-discovery
+    verified: false
+    veterinary_relevance_score: 0.6
+    score_reasons:
+    - +4 strong:veterinary
+    - +1.5 support:livestock
+    - +0.5 support:animal
+- id: hiteshmankare31-stack-livestock-animal-health-prediction
+  source: github
+  full_name: hiteshmankare31-stack/livestock-animal-health-prediction
+  url: https://github.com/hiteshmankare31-stack/livestock-animal-health-prediction
+  description: AI-powered livestock health monitoring and disease prediction system for early detection of animal
+    diseases using image-based analysis.
+  homepage: https://livestock-animal-health-prediction.vercel.app
+  topics: []
+  language: JavaScript
+  license: null
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  fork: false
+  created_at: '2026-09-11T09:15:42Z'
+  updated_at: '2026-09-11T10:12:17Z'
+  pushed_at: '2026-09-11T10:02:44Z'
+  default_branch: main
+  last_scanned: '2026-09-12T08:40:03.975178+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5455,6 +5602,7 @@ resources:
     - +4 strong:veterinary
     - +1.5 support:canine
     - +0.5 support:animal
+  refresh_error: '404 Client Error: Not Found for url: https://api.github.com/repos/ImL1s/dogneo'
 - id: janookgenomics-janook
   source: github
   full_name: janookgenomics/janook
@@ -5481,7 +5629,7 @@ resources:
   updated_at: '2026-08-24T13:51:06Z'
   pushed_at: '2026-08-24T13:47:42Z'
   default_branch: develop
-  last_scanned: '2026-09-11T08:56:50.682471+00:00'
+  last_scanned: '2026-09-12T08:40:04.609882+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5510,7 +5658,7 @@ resources:
   updated_at: '2026-08-01T11:18:03Z'
   pushed_at: '2026-08-01T11:17:40Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:51.092161+00:00'
+  last_scanned: '2026-09-12T08:40:05.038988+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5540,7 +5688,7 @@ resources:
   updated_at: '2026-08-08T09:04:03Z'
   pushed_at: '2026-08-08T08:52:47Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:51.465095+00:00'
+  last_scanned: '2026-09-12T08:40:05.534231+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5586,7 +5734,7 @@ resources:
   updated_at: '2026-09-10T18:32:29Z'
   pushed_at: '2026-09-10T18:32:25Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:51.916868+00:00'
+  last_scanned: '2026-09-12T08:40:05.943269+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5615,7 +5763,7 @@ resources:
   updated_at: '2026-08-25T08:08:43Z'
   pushed_at: '2026-08-25T08:06:56Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:52.357987+00:00'
+  last_scanned: '2026-09-12T08:40:06.409553+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5644,7 +5792,7 @@ resources:
   updated_at: '2026-09-08T08:48:48Z'
   pushed_at: '2026-09-08T08:47:01Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:52.757591+00:00'
+  last_scanned: '2026-09-12T08:40:06.879118+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5673,7 +5821,7 @@ resources:
   updated_at: '2026-09-10T14:16:12Z'
   pushed_at: '2026-09-05T20:09:14Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:53.222759+00:00'
+  last_scanned: '2026-09-12T08:40:07.306633+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5703,7 +5851,7 @@ resources:
   updated_at: '2026-01-05T18:06:01Z'
   pushed_at: '2026-01-05T18:05:57Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:53.632376+00:00'
+  last_scanned: '2026-09-12T08:40:07.742264+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5731,7 +5879,7 @@ resources:
   updated_at: '2026-09-03T14:37:59Z'
   pushed_at: '2026-08-27T16:58:07Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:54.041640+00:00'
+  last_scanned: '2026-09-12T08:40:08.187521+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5772,7 +5920,7 @@ resources:
   updated_at: '2026-04-08T18:01:35Z'
   pushed_at: '2026-04-08T18:01:30Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:54.486086+00:00'
+  last_scanned: '2026-09-12T08:40:08.644780+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5800,7 +5948,7 @@ resources:
   updated_at: '2026-09-04T10:01:02Z'
   pushed_at: '2026-09-02T20:36:40Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:54.847189+00:00'
+  last_scanned: '2026-09-12T08:40:09.072077+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5830,7 +5978,7 @@ resources:
   updated_at: '2026-09-08T16:50:09Z'
   pushed_at: '2026-09-08T16:48:14Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:55.209449+00:00'
+  last_scanned: '2026-09-12T08:40:09.501105+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5858,7 +6006,7 @@ resources:
   updated_at: '2026-09-04T09:47:17Z'
   pushed_at: '2026-09-04T09:44:21Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:55.596772+00:00'
+  last_scanned: '2026-09-12T08:40:09.969154+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5887,7 +6035,7 @@ resources:
   updated_at: '2026-09-05T06:29:58Z'
   pushed_at: '2026-09-05T06:32:13Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:56.000210+00:00'
+  last_scanned: '2026-09-12T08:40:10.418380+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5915,7 +6063,7 @@ resources:
   updated_at: '2023-03-29T13:58:58Z'
   pushed_at: '2023-03-29T13:58:59Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:56.411021+00:00'
+  last_scanned: '2026-09-12T08:40:10.865614+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5943,7 +6091,7 @@ resources:
   updated_at: '2026-09-09T09:50:27Z'
   pushed_at: '2026-09-09T09:49:29Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:56.789206+00:00'
+  last_scanned: '2026-09-12T08:40:11.291127+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5971,7 +6119,7 @@ resources:
   updated_at: '2026-05-27T19:54:11Z'
   pushed_at: '2026-05-27T19:54:05Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:57.295342+00:00'
+  last_scanned: '2026-09-12T08:40:11.727083+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -5998,7 +6146,7 @@ resources:
   updated_at: '2026-09-06T18:27:56Z'
   pushed_at: '2026-09-06T18:27:52Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:57.703150+00:00'
+  last_scanned: '2026-09-12T08:40:12.150685+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6026,7 +6174,7 @@ resources:
   updated_at: '2026-06-25T04:18:14Z'
   pushed_at: '2026-06-25T04:18:10Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:58.101962+00:00'
+  last_scanned: '2026-09-12T08:40:12.594045+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6054,7 +6202,7 @@ resources:
   updated_at: '2026-08-09T22:01:54Z'
   pushed_at: '2026-08-09T22:01:45Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:58.486117+00:00'
+  last_scanned: '2026-09-12T08:40:13.134300+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6083,7 +6231,7 @@ resources:
   updated_at: '2026-05-25T23:07:33Z'
   pushed_at: '2026-05-25T23:07:30Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:58.887462+00:00'
+  last_scanned: '2026-09-12T08:40:13.596894+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6110,7 +6258,7 @@ resources:
   updated_at: '2026-07-21T01:13:31Z'
   pushed_at: '2026-07-21T01:13:26Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:59.248199+00:00'
+  last_scanned: '2026-09-12T08:40:14.023897+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6140,7 +6288,7 @@ resources:
   updated_at: '2026-09-03T12:12:25Z'
   pushed_at: '2026-09-03T12:12:24Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:56:59.624386+00:00'
+  last_scanned: '2026-09-12T08:40:14.504587+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6180,7 +6328,7 @@ resources:
   updated_at: '2026-09-04T19:46:56Z'
   pushed_at: '2026-09-04T19:46:52Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:00.100998+00:00'
+  last_scanned: '2026-09-12T08:40:14.989128+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6208,7 +6356,7 @@ resources:
   updated_at: '2026-08-21T18:42:23Z'
   pushed_at: '2026-08-21T18:42:10Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:00.505852+00:00'
+  last_scanned: '2026-09-12T08:40:15.429553+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6243,7 +6391,7 @@ resources:
   updated_at: '2024-05-09T20:59:35Z'
   pushed_at: '2024-04-30T09:37:44Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:00.939153+00:00'
+  last_scanned: '2026-09-12T08:40:15.837706+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6272,7 +6420,7 @@ resources:
   updated_at: '2026-06-10T12:25:29Z'
   pushed_at: '2026-06-10T12:25:25Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:01.354936+00:00'
+  last_scanned: '2026-09-12T08:40:16.241450+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6300,7 +6448,7 @@ resources:
   updated_at: '2026-06-02T22:32:17Z'
   pushed_at: '2026-06-02T22:32:13Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:01.728239+00:00'
+  last_scanned: '2026-09-12T08:40:16.698310+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6329,7 +6477,7 @@ resources:
   updated_at: '2025-12-22T06:37:45Z'
   pushed_at: '2025-12-22T06:37:42Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:02.155637+00:00'
+  last_scanned: '2026-09-12T08:40:17.127173+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6357,7 +6505,7 @@ resources:
   updated_at: '2025-10-08T20:52:08Z'
   pushed_at: '2025-10-08T20:52:26Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:02.547938+00:00'
+  last_scanned: '2026-09-12T08:40:17.543085+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6386,7 +6534,7 @@ resources:
   updated_at: '2026-02-12T14:26:49Z'
   pushed_at: '2026-07-02T12:08:02Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:02.936778+00:00'
+  last_scanned: '2026-09-12T08:40:17.994472+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6415,7 +6563,7 @@ resources:
   updated_at: '2026-08-09T18:14:29Z'
   pushed_at: '2026-08-09T18:14:16Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:03.385301+00:00'
+  last_scanned: '2026-09-12T08:40:18.422236+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6443,7 +6591,7 @@ resources:
   updated_at: '2026-08-06T21:10:08Z'
   pushed_at: '2026-08-06T21:09:58Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:03.847999+00:00'
+  last_scanned: '2026-09-12T08:40:18.926228+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6475,7 +6623,7 @@ resources:
   updated_at: '2025-06-24T19:36:38Z'
   pushed_at: '2025-06-24T19:36:34Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:04.251590+00:00'
+  last_scanned: '2026-09-12T08:40:19.345182+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6503,7 +6651,7 @@ resources:
   updated_at: '2024-01-08T01:44:15Z'
   pushed_at: '2024-01-08T01:44:11Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:04.714239+00:00'
+  last_scanned: '2026-09-12T08:40:19.818211+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6533,7 +6681,7 @@ resources:
   updated_at: '2026-07-03T09:05:12Z'
   pushed_at: '2026-07-03T09:05:08Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:05.104338+00:00'
+  last_scanned: '2026-09-12T08:40:20.251498+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6558,10 +6706,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-04-09T15:43:03Z'
-  updated_at: '2026-09-10T08:08:58Z'
-  pushed_at: '2026-09-10T08:09:47Z'
+  updated_at: '2026-09-12T06:59:55Z'
+  pushed_at: '2026-09-12T07:55:46Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:57:05.535569+00:00'
+  last_scanned: '2026-09-12T08:40:20.727019+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6593,7 +6741,7 @@ resources:
   updated_at: '2023-05-14T09:25:45Z'
   pushed_at: '2023-03-01T12:04:35Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:05.956292+00:00'
+  last_scanned: '2026-09-12T08:40:21.231961+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6621,7 +6769,7 @@ resources:
   updated_at: '2026-07-28T15:04:09Z'
   pushed_at: '2026-07-28T14:57:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:06.366534+00:00'
+  last_scanned: '2026-09-12T08:40:21.679414+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6655,7 +6803,7 @@ resources:
   updated_at: '2026-08-15T20:20:03Z'
   pushed_at: '2026-08-15T20:20:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:06.722253+00:00'
+  last_scanned: '2026-09-12T08:40:22.147372+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6683,7 +6831,7 @@ resources:
   updated_at: '2026-09-08T16:36:52Z'
   pushed_at: '2026-09-08T16:34:22Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:07.142943+00:00'
+  last_scanned: '2026-09-12T08:40:22.577447+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6714,7 +6862,7 @@ resources:
   updated_at: '2025-09-19T18:08:48Z'
   pushed_at: '2025-09-19T18:08:44Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:07.601267+00:00'
+  last_scanned: '2026-09-12T08:40:23.035027+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6743,7 +6891,7 @@ resources:
   updated_at: '2025-10-26T03:45:52Z'
   pushed_at: '2025-10-25T22:42:14Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:08.018544+00:00'
+  last_scanned: '2026-09-12T08:40:23.445378+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6770,7 +6918,7 @@ resources:
   updated_at: '2024-07-15T14:39:42Z'
   pushed_at: '2024-06-04T19:19:48Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:08.450477+00:00'
+  last_scanned: '2026-09-12T08:40:23.873607+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6798,7 +6946,7 @@ resources:
   updated_at: '2023-04-15T14:25:34Z'
   pushed_at: '2023-04-15T14:31:33Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:08.916016+00:00'
+  last_scanned: '2026-09-12T08:40:24.364273+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6826,7 +6974,7 @@ resources:
   updated_at: '2026-07-13T06:43:22Z'
   pushed_at: '2026-07-13T06:43:18Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:09.348776+00:00'
+  last_scanned: '2026-09-12T08:40:24.882457+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6860,7 +7008,7 @@ resources:
   updated_at: '2026-02-02T11:41:29Z'
   pushed_at: '2026-02-02T11:41:25Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:57:09.785995+00:00'
+  last_scanned: '2026-09-12T08:40:25.463768+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6906,7 +7054,7 @@ resources:
   updated_at: '2026-09-05T23:25:47Z'
   pushed_at: '2026-09-05T23:25:43Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:10.198323+00:00'
+  last_scanned: '2026-09-12T08:40:25.955143+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6934,7 +7082,7 @@ resources:
   updated_at: '2026-07-10T13:20:37Z'
   pushed_at: '2026-07-10T13:19:53Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:10.594705+00:00'
+  last_scanned: '2026-09-12T08:40:26.439730+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6970,7 +7118,7 @@ resources:
   updated_at: '2023-07-11T03:07:42Z'
   pushed_at: '2023-07-14T15:40:59Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:57:11.008269+00:00'
+  last_scanned: '2026-09-12T08:40:26.883171+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -6998,7 +7146,7 @@ resources:
   updated_at: '2026-05-09T15:01:55Z'
   pushed_at: '2026-05-09T15:01:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:11.390287+00:00'
+  last_scanned: '2026-09-12T08:40:27.288387+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7025,7 +7173,7 @@ resources:
   updated_at: '2026-09-08T10:56:52Z'
   pushed_at: '2026-09-08T10:56:52Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:11.810608+00:00'
+  last_scanned: '2026-09-12T08:40:27.785848+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7056,7 +7204,7 @@ resources:
   updated_at: '2026-04-23T13:01:16Z'
   pushed_at: '2026-04-23T12:49:59Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:12.189267+00:00'
+  last_scanned: '2026-09-12T08:40:28.221389+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7083,7 +7231,7 @@ resources:
   updated_at: '2026-03-16T20:23:51Z'
   pushed_at: '2026-03-16T20:23:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:12.588326+00:00'
+  last_scanned: '2026-09-12T08:40:28.616308+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7112,7 +7260,7 @@ resources:
   updated_at: '2026-09-06T08:57:26Z'
   pushed_at: '2026-09-06T08:57:15Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:12.992397+00:00'
+  last_scanned: '2026-09-12T08:40:29.030904+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7148,7 +7296,7 @@ resources:
   updated_at: '2025-07-14T03:50:56Z'
   pushed_at: '2025-07-14T03:50:53Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:13.403784+00:00'
+  last_scanned: '2026-09-12T08:40:29.497156+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7176,7 +7324,7 @@ resources:
   updated_at: '2026-08-25T05:20:46Z'
   pushed_at: '2026-08-25T05:20:46Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:13.854848+00:00'
+  last_scanned: '2026-09-12T08:40:29.970247+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7204,7 +7352,7 @@ resources:
   updated_at: '2026-08-11T05:51:14Z'
   pushed_at: '2026-08-11T05:50:30Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:57:14.333123+00:00'
+  last_scanned: '2026-09-12T08:40:30.465297+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7234,7 +7382,7 @@ resources:
   updated_at: '2026-08-03T08:58:08Z'
   pushed_at: '2026-08-03T08:57:50Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:15.136608+00:00'
+  last_scanned: '2026-09-12T08:40:30.950610+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7262,7 +7410,7 @@ resources:
   updated_at: '2026-08-08T17:43:46Z'
   pushed_at: '2026-08-08T17:43:36Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:57:15.515017+00:00'
+  last_scanned: '2026-09-12T08:40:31.380504+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7290,7 +7438,7 @@ resources:
   updated_at: '2026-08-27T17:01:50Z'
   pushed_at: '2026-08-27T16:46:40Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:15.895502+00:00'
+  last_scanned: '2026-09-12T08:40:31.803163+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7317,7 +7465,7 @@ resources:
   updated_at: '2026-08-06T06:47:46Z'
   pushed_at: '2026-08-06T06:47:40Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:16.340402+00:00'
+  last_scanned: '2026-09-12T08:40:32.267490+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7345,7 +7493,7 @@ resources:
   updated_at: '2026-09-05T06:32:52Z'
   pushed_at: '2026-09-05T09:25:10Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:16.816444+00:00'
+  last_scanned: '2026-09-12T08:40:32.697666+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7383,7 +7531,7 @@ resources:
   updated_at: '2026-07-13T11:24:09Z'
   pushed_at: '2026-07-13T11:23:57Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:17.188553+00:00'
+  last_scanned: '2026-09-12T08:40:33.186371+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7413,7 +7561,7 @@ resources:
   updated_at: '2026-09-06T18:01:22Z'
   pushed_at: '2026-09-06T18:01:14Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:17.705596+00:00'
+  last_scanned: '2026-09-12T08:40:33.602547+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7441,7 +7589,7 @@ resources:
   updated_at: '2026-06-29T18:22:35Z'
   pushed_at: '2026-06-29T18:20:53Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:18.163253+00:00'
+  last_scanned: '2026-09-12T08:40:34.029660+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7470,7 +7618,7 @@ resources:
   updated_at: '2025-07-18T05:02:46Z'
   pushed_at: '2025-07-18T05:02:43Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:18.575390+00:00'
+  last_scanned: '2026-09-12T08:40:34.455803+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7499,7 +7647,7 @@ resources:
   updated_at: '2024-12-23T13:41:48Z'
   pushed_at: '2024-12-23T13:41:45Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:19.007169+00:00'
+  last_scanned: '2026-09-12T08:40:34.915358+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7526,7 +7674,7 @@ resources:
   updated_at: '2026-07-06T23:03:16Z'
   pushed_at: '2026-07-06T23:03:11Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:19.434370+00:00'
+  last_scanned: '2026-09-12T08:40:35.313157+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7553,7 +7701,7 @@ resources:
   updated_at: '2026-09-09T20:57:55Z'
   pushed_at: '2026-09-09T20:57:49Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:19.852436+00:00'
+  last_scanned: '2026-09-12T08:40:35.727309+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7580,7 +7728,7 @@ resources:
   updated_at: '2018-09-29T23:12:36Z'
   pushed_at: '2018-09-29T23:12:35Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:57:20.261246+00:00'
+  last_scanned: '2026-09-12T08:40:36.175060+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7638,7 +7786,7 @@ resources:
   updated_at: '2026-08-13T15:42:32Z'
   pushed_at: '2026-08-13T15:42:22Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:20.838797+00:00'
+  last_scanned: '2026-09-12T08:40:36.791441+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7667,7 +7815,7 @@ resources:
   updated_at: '2026-04-15T18:45:57Z'
   pushed_at: '2026-04-15T18:45:53Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:21.200286+00:00'
+  last_scanned: '2026-09-12T08:40:37.214674+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7696,7 +7844,7 @@ resources:
   updated_at: '2026-09-10T05:21:44Z'
   pushed_at: '2026-09-10T05:37:17Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:21.939901+00:00'
+  last_scanned: '2026-09-12T08:40:37.647807+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7726,7 +7874,7 @@ resources:
   updated_at: '2026-09-09T12:10:10Z'
   pushed_at: '2026-09-09T12:07:36Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:22.316257+00:00'
+  last_scanned: '2026-09-12T08:40:38.059343+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7766,7 +7914,7 @@ resources:
   updated_at: '2026-09-04T19:34:47Z'
   pushed_at: '2026-09-04T19:34:43Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:22.776333+00:00'
+  last_scanned: '2026-09-12T08:40:38.586871+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7796,7 +7944,7 @@ resources:
   updated_at: '2026-08-09T15:57:20Z'
   pushed_at: '2026-08-09T15:57:05Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:23.159778+00:00'
+  last_scanned: '2026-09-12T08:40:39.037426+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7827,7 +7975,7 @@ resources:
   updated_at: '2026-03-30T18:20:55Z'
   pushed_at: '2026-03-30T18:20:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:23.511794+00:00'
+  last_scanned: '2026-09-12T08:40:39.453014+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7856,7 +8004,7 @@ resources:
   updated_at: '2026-09-03T06:33:21Z'
   pushed_at: '2026-09-03T06:31:46Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:23.873477+00:00'
+  last_scanned: '2026-09-12T08:40:39.860529+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7885,7 +8033,7 @@ resources:
   updated_at: '2026-01-22T19:38:20Z'
   pushed_at: '2026-01-22T19:38:16Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:24.255986+00:00'
+  last_scanned: '2026-09-12T08:40:40.318668+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7918,10 +8066,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-09-03T00:34:57Z'
-  updated_at: '2026-09-11T07:28:04Z'
-  pushed_at: '2026-09-11T07:28:01Z'
+  updated_at: '2026-09-11T13:10:05Z'
+  pushed_at: '2026-09-11T13:10:04Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:24.669873+00:00'
+  last_scanned: '2026-09-12T08:40:40.738765+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7948,7 +8096,7 @@ resources:
   updated_at: '2026-03-23T17:42:13Z'
   pushed_at: '2026-03-23T17:42:09Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:25.056002+00:00'
+  last_scanned: '2026-09-12T08:40:41.170199+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -7976,7 +8124,7 @@ resources:
   updated_at: '2026-08-31T21:31:49Z'
   pushed_at: '2026-08-31T21:31:14Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:25.426529+00:00'
+  last_scanned: '2026-09-12T08:40:41.579329+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8004,7 +8152,7 @@ resources:
   updated_at: '2026-07-17T08:08:24Z'
   pushed_at: '2026-07-17T08:07:56Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:57:25.766473+00:00'
+  last_scanned: '2026-09-12T08:40:41.986758+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8031,7 +8179,7 @@ resources:
   updated_at: '2026-09-09T06:07:30Z'
   pushed_at: '2026-09-09T06:07:25Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:26.245423+00:00'
+  last_scanned: '2026-09-12T08:40:42.459775+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8060,7 +8208,7 @@ resources:
   updated_at: '2026-08-15T18:30:17Z'
   pushed_at: '2026-08-15T18:30:04Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:26.636179+00:00'
+  last_scanned: '2026-09-12T08:40:42.939536+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8122,7 +8270,7 @@ resources:
   updated_at: '2026-09-08T02:30:41Z'
   pushed_at: '2026-09-08T02:30:35Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:27.197008+00:00'
+  last_scanned: '2026-09-12T08:40:43.586693+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8149,7 +8297,7 @@ resources:
   updated_at: '2024-01-11T07:00:55Z'
   pushed_at: '2024-01-11T07:05:17Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:27.543273+00:00'
+  last_scanned: '2026-09-12T08:40:44.006109+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8187,7 +8335,7 @@ resources:
   updated_at: '2026-09-04T19:26:55Z'
   pushed_at: '2026-09-04T19:26:10Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:27.999002+00:00'
+  last_scanned: '2026-09-12T08:40:44.470129+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8220,7 +8368,7 @@ resources:
   updated_at: '2026-09-04T19:51:59Z'
   pushed_at: '2026-09-04T19:51:55Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:28.399982+00:00'
+  last_scanned: '2026-09-12T08:40:44.900235+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8265,7 +8413,7 @@ resources:
   updated_at: '2026-09-04T19:52:00Z'
   pushed_at: '2026-09-04T19:51:56Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:28.826405+00:00'
+  last_scanned: '2026-09-12T08:40:45.396317+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8304,7 +8452,7 @@ resources:
   updated_at: '2026-09-04T19:52:02Z'
   pushed_at: '2026-09-04T19:51:57Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:29.257329+00:00'
+  last_scanned: '2026-09-12T08:40:45.863533+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8343,7 +8491,7 @@ resources:
   updated_at: '2026-09-04T20:23:35Z'
   pushed_at: '2026-09-04T20:23:31Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:29.651782+00:00'
+  last_scanned: '2026-09-12T08:40:46.431259+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8384,7 +8532,7 @@ resources:
   updated_at: '2026-09-04T20:23:35Z'
   pushed_at: '2026-09-04T20:23:31Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:30.145984+00:00'
+  last_scanned: '2026-09-12T08:40:46.971014+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8421,7 +8569,7 @@ resources:
   updated_at: '2026-09-04T20:23:36Z'
   pushed_at: '2026-09-04T20:23:32Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:30.652396+00:00'
+  last_scanned: '2026-09-12T08:40:47.492708+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8451,7 +8599,7 @@ resources:
   updated_at: '2025-05-18T04:28:17Z'
   pushed_at: '2025-05-18T04:28:13Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:31.092569+00:00'
+  last_scanned: '2026-09-12T08:40:47.958230+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8492,7 +8640,7 @@ resources:
   updated_at: '2026-09-05T23:01:23Z'
   pushed_at: '2026-09-05T23:01:18Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:31.576929+00:00'
+  last_scanned: '2026-09-12T08:40:48.423412+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8520,7 +8668,7 @@ resources:
   updated_at: '2026-09-06T01:21:50Z'
   pushed_at: '2026-09-06T04:11:21Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:31.952977+00:00'
+  last_scanned: '2026-09-12T08:40:48.857044+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8548,7 +8696,7 @@ resources:
   updated_at: '2026-09-11T08:39:21Z'
   pushed_at: '2026-09-11T08:39:17Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:32.337450+00:00'
+  last_scanned: '2026-09-12T08:40:49.349377+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8575,7 +8723,7 @@ resources:
   updated_at: '2026-08-14T14:55:23Z'
   pushed_at: '2026-08-14T14:54:15Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:32.782365+00:00'
+  last_scanned: '2026-09-12T08:40:49.793225+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8603,7 +8751,7 @@ resources:
   updated_at: '2026-09-03T03:17:14Z'
   pushed_at: '2026-09-03T03:15:04Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:33.163334+00:00'
+  last_scanned: '2026-09-12T08:40:50.254146+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8631,7 +8779,7 @@ resources:
   updated_at: '2026-09-06T03:18:57Z'
   pushed_at: '2026-09-06T03:18:54Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:33.605040+00:00'
+  last_scanned: '2026-09-12T08:40:50.668713+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8659,7 +8807,7 @@ resources:
   updated_at: '2026-09-07T03:18:00Z'
   pushed_at: '2026-09-07T03:17:57Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:34.042444+00:00'
+  last_scanned: '2026-09-12T08:40:51.123808+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8687,7 +8835,7 @@ resources:
   updated_at: '2026-09-08T03:16:24Z'
   pushed_at: '2026-09-08T03:16:20Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:34.598372+00:00'
+  last_scanned: '2026-09-12T08:40:51.589470+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8744,7 +8892,7 @@ resources:
   updated_at: '2026-09-06T06:45:25Z'
   pushed_at: '2026-09-06T06:45:21Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:35.600727+00:00'
+  last_scanned: '2026-09-12T08:40:52.240520+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8785,7 +8933,7 @@ resources:
   updated_at: '2026-08-10T19:13:29Z'
   pushed_at: '2026-08-10T18:33:13Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:35.990881+00:00'
+  last_scanned: '2026-09-12T08:40:52.694113+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8814,7 +8962,7 @@ resources:
   updated_at: '2026-09-07T21:55:30Z'
   pushed_at: '2026-09-07T21:56:25Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:57:36.432051+00:00'
+  last_scanned: '2026-09-12T08:40:53.137479+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8839,10 +8987,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-08-02T08:14:57Z'
-  updated_at: '2026-09-10T15:06:25Z'
-  pushed_at: '2026-09-10T15:00:48Z'
+  updated_at: '2026-09-11T19:03:14Z'
+  pushed_at: '2026-09-11T19:03:10Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:36.949359+00:00'
+  last_scanned: '2026-09-12T08:40:53.611951+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8870,7 +9018,7 @@ resources:
   updated_at: '2026-01-06T13:20:06Z'
   pushed_at: '2026-01-06T13:20:01Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:37.358563+00:00'
+  last_scanned: '2026-09-12T08:40:54.057524+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8895,10 +9043,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-09-10T13:26:00Z'
-  updated_at: '2026-09-11T08:56:26Z'
-  pushed_at: '2026-09-11T08:56:22Z'
+  updated_at: '2026-09-11T13:14:59Z'
+  pushed_at: '2026-09-11T13:14:55Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:37.744602+00:00'
+  last_scanned: '2026-09-12T08:40:54.544034+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8926,7 +9074,7 @@ resources:
   updated_at: '2026-07-04T12:03:48Z'
   pushed_at: '2026-05-04T18:53:11Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:38.123008+00:00'
+  last_scanned: '2026-09-12T08:40:54.985380+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8959,7 +9107,7 @@ resources:
   updated_at: '2026-08-14T18:42:40Z'
   pushed_at: '2026-08-14T18:42:16Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:38.623847+00:00'
+  last_scanned: '2026-09-12T08:40:55.436446+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -8989,7 +9137,7 @@ resources:
   updated_at: '2026-08-10T22:10:08Z'
   pushed_at: '2026-08-10T22:09:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:39.060735+00:00'
+  last_scanned: '2026-09-12T08:40:55.960798+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9019,7 +9167,7 @@ resources:
   updated_at: '2026-09-08T23:19:24Z'
   pushed_at: '2026-09-08T23:18:47Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:39.460304+00:00'
+  last_scanned: '2026-09-12T08:40:56.388053+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9049,7 +9197,7 @@ resources:
   updated_at: '2026-09-08T23:19:11Z'
   pushed_at: '2026-09-08T23:19:08Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:39.869169+00:00'
+  last_scanned: '2026-09-12T08:40:56.837141+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9079,7 +9227,7 @@ resources:
   updated_at: '2026-09-08T23:19:49Z'
   pushed_at: '2026-09-08T23:19:38Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:40.385720+00:00'
+  last_scanned: '2026-09-12T08:40:57.260347+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9109,7 +9257,7 @@ resources:
   updated_at: '2026-09-08T23:19:40Z'
   pushed_at: '2026-09-08T23:19:31Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:40.807516+00:00'
+  last_scanned: '2026-09-12T08:40:57.725144+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9137,7 +9285,7 @@ resources:
   updated_at: '2026-09-08T05:00:43Z'
   pushed_at: '2026-09-08T05:00:33Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:41.253037+00:00'
+  last_scanned: '2026-09-12T08:40:58.192518+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9165,7 +9313,7 @@ resources:
   updated_at: '2026-05-11T16:56:20Z'
   pushed_at: '2026-05-11T16:56:14Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:41.897279+00:00'
+  last_scanned: '2026-09-12T08:40:58.642847+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9212,7 +9360,7 @@ resources:
   updated_at: '2026-09-07T17:27:53Z'
   pushed_at: '2026-09-05T05:09:18Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:42.310392+00:00'
+  last_scanned: '2026-09-12T08:40:59.097786+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9232,14 +9380,14 @@ resources:
   license: NOASSERTION
   stars: 1
   forks: 0
-  open_issues: 5
+  open_issues: 6
   archived: false
   fork: false
   created_at: '2023-11-04T14:06:30Z'
   updated_at: '2026-09-11T08:22:15Z'
-  pushed_at: '2026-09-11T08:22:12Z'
+  pushed_at: '2026-09-11T22:49:05Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:42.708958+00:00'
+  last_scanned: '2026-09-12T08:40:59.565614+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9266,7 +9414,7 @@ resources:
   updated_at: '2026-09-09T10:02:04Z'
   pushed_at: '2026-09-09T10:01:44Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:43.133976+00:00'
+  last_scanned: '2026-09-12T08:41:00.012054+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9309,7 +9457,7 @@ resources:
   updated_at: '2026-08-19T02:52:05Z'
   pushed_at: '2026-08-19T02:51:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:43.542934+00:00'
+  last_scanned: '2026-09-12T08:41:00.437650+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9365,7 +9513,7 @@ resources:
   updated_at: '2026-09-06T06:36:06Z'
   pushed_at: '2026-09-06T06:36:01Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:57:44.092362+00:00'
+  last_scanned: '2026-09-12T08:41:01.023385+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9392,7 +9540,7 @@ resources:
   updated_at: '2026-09-03T06:23:12Z'
   pushed_at: '2026-09-03T03:18:58Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:44.468772+00:00'
+  last_scanned: '2026-09-12T08:41:01.518907+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9448,7 +9596,7 @@ resources:
   updated_at: '2026-09-07T13:18:05Z'
   pushed_at: '2026-09-07T13:09:17Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:45.033956+00:00'
+  last_scanned: '2026-09-12T08:41:02.154204+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9475,7 +9623,7 @@ resources:
   updated_at: '2026-09-08T15:22:53Z'
   pushed_at: '2026-09-08T15:22:52Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:45.393392+00:00'
+  last_scanned: '2026-09-12T08:41:02.578354+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9502,7 +9650,7 @@ resources:
   updated_at: '2026-09-03T08:07:08Z'
   pushed_at: '2026-09-03T08:05:49Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:45.745773+00:00'
+  last_scanned: '2026-09-12T08:41:03.013560+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9530,7 +9678,7 @@ resources:
   updated_at: '2025-05-27T15:14:15Z'
   pushed_at: '2025-05-27T15:14:11Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:46.173567+00:00'
+  last_scanned: '2026-09-12T08:41:03.433482+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9556,7 +9704,7 @@ resources:
   updated_at: '2026-09-09T05:57:59Z'
   pushed_at: '2026-09-09T05:57:39Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:46.577816+00:00'
+  last_scanned: '2026-09-12T08:41:03.910100+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9582,7 +9730,7 @@ resources:
   updated_at: '2026-09-09T18:46:24Z'
   pushed_at: '2026-09-09T18:45:50Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:47.074145+00:00'
+  last_scanned: '2026-09-12T08:41:04.372094+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9613,10 +9761,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-09-04T15:06:56Z'
-  updated_at: '2026-09-05T00:51:00Z'
-  pushed_at: '2026-09-04T23:03:28Z'
+  updated_at: '2026-09-12T06:16:14Z'
+  pushed_at: '2026-09-12T06:16:10Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:47.588496+00:00'
+  last_scanned: '2026-09-12T08:41:04.891976+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9642,7 +9790,7 @@ resources:
   updated_at: '2026-08-01T17:04:16Z'
   pushed_at: '2026-08-01T17:06:59Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:47.966596+00:00'
+  last_scanned: '2026-09-12T08:41:05.314681+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9701,7 +9849,7 @@ resources:
   updated_at: '2026-09-03T19:00:53Z'
   pushed_at: '2026-09-03T05:20:24Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:57:48.517162+00:00'
+  last_scanned: '2026-09-12T08:41:05.988578+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9727,7 +9875,7 @@ resources:
   updated_at: '2026-09-06T01:09:08Z'
   pushed_at: '2026-09-06T01:09:04Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:49.002909+00:00'
+  last_scanned: '2026-09-12T08:41:06.402428+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9753,7 +9901,7 @@ resources:
   updated_at: '2026-09-05T07:33:28Z'
   pushed_at: '2026-09-05T07:33:22Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:49.456543+00:00'
+  last_scanned: '2026-09-12T08:41:06.846711+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9779,7 +9927,7 @@ resources:
   updated_at: '2026-09-03T04:32:00Z'
   pushed_at: '2026-09-03T04:30:41Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:49.811385+00:00'
+  last_scanned: '2026-09-12T08:41:07.251278+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9805,7 +9953,7 @@ resources:
   updated_at: '2026-09-05T07:51:23Z'
   pushed_at: '2026-09-05T07:51:15Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:50.201984+00:00'
+  last_scanned: '2026-09-12T08:41:07.748647+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9852,7 +10000,7 @@ resources:
   updated_at: '2026-09-08T12:25:39Z'
   pushed_at: '2026-09-10T23:27:18Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:57:50.588824+00:00'
+  last_scanned: '2026-09-12T08:41:08.271098+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9879,7 +10027,7 @@ resources:
   updated_at: '2026-09-10T23:08:39Z'
   pushed_at: '2026-09-10T23:14:42Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:57:50.988976+00:00'
+  last_scanned: '2026-09-12T08:41:08.729219+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9905,7 +10053,7 @@ resources:
   updated_at: '2026-09-08T09:05:02Z'
   pushed_at: '2026-09-08T09:02:10Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:51.407173+00:00'
+  last_scanned: '2026-09-12T08:41:09.176034+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9932,7 +10080,7 @@ resources:
   updated_at: '2026-08-16T20:49:13Z'
   pushed_at: '2026-08-16T20:49:05Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:51.861373+00:00'
+  last_scanned: '2026-09-12T08:41:09.635867+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9958,7 +10106,7 @@ resources:
   updated_at: '2026-08-05T03:56:34Z'
   pushed_at: '2026-08-05T03:56:25Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:52.313761+00:00'
+  last_scanned: '2026-09-12T08:41:10.120086+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -9999,7 +10147,7 @@ resources:
   updated_at: '2026-09-11T07:04:37Z'
   pushed_at: '2026-09-11T07:04:33Z'
   default_branch: PetLand-Software_Website_Main-dev
-  last_scanned: '2026-09-11T08:57:52.725382+00:00'
+  last_scanned: '2026-09-12T08:41:10.592864+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10026,7 +10174,7 @@ resources:
   updated_at: '2026-08-26T20:09:10Z'
   pushed_at: '2026-08-26T19:25:41Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:53.174363+00:00'
+  last_scanned: '2026-09-12T08:41:11.034402+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10053,7 +10201,7 @@ resources:
   updated_at: '2026-08-26T20:07:02Z'
   pushed_at: '2026-08-26T19:25:28Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:53.576891+00:00'
+  last_scanned: '2026-09-12T08:41:11.512609+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10082,7 +10230,7 @@ resources:
   updated_at: '2026-09-04T19:06:59Z'
   pushed_at: '2026-09-04T19:06:55Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:54.010420+00:00'
+  last_scanned: '2026-09-12T08:41:12.025347+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10120,7 +10268,7 @@ resources:
   updated_at: '2026-09-04T19:11:07Z'
   pushed_at: '2026-09-04T19:10:55Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:54.477088+00:00'
+  last_scanned: '2026-09-12T08:41:12.537993+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10159,7 +10307,7 @@ resources:
   updated_at: '2026-09-04T19:50:57Z'
   pushed_at: '2026-09-04T19:50:52Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:54.918399+00:00'
+  last_scanned: '2026-09-12T08:41:13.014221+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10196,7 +10344,7 @@ resources:
   updated_at: '2026-09-04T19:51:12Z'
   pushed_at: '2026-09-04T19:51:08Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:55.343299+00:00'
+  last_scanned: '2026-09-12T08:41:13.518397+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10234,7 +10382,7 @@ resources:
   updated_at: '2026-09-04T19:54:45Z'
   pushed_at: '2026-09-04T19:54:42Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:55.765427+00:00'
+  last_scanned: '2026-09-12T08:41:14.036855+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10272,7 +10420,7 @@ resources:
   updated_at: '2026-09-04T19:56:00Z'
   pushed_at: '2026-09-04T19:55:55Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:56.195147+00:00'
+  last_scanned: '2026-09-12T08:41:14.538222+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10309,7 +10457,7 @@ resources:
   updated_at: '2026-09-04T19:57:52Z'
   pushed_at: '2026-09-04T19:57:48Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:56.728784+00:00'
+  last_scanned: '2026-09-12T08:41:15.096055+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10348,7 +10496,7 @@ resources:
   updated_at: '2026-09-04T20:04:16Z'
   pushed_at: '2026-09-04T20:03:52Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:57.185426+00:00'
+  last_scanned: '2026-09-12T08:41:15.561715+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10385,7 +10533,7 @@ resources:
   updated_at: '2026-09-04T20:06:55Z'
   pushed_at: '2026-09-04T20:06:42Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:57.644951+00:00'
+  last_scanned: '2026-09-12T08:41:16.043379+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10421,7 +10569,7 @@ resources:
   updated_at: '2026-09-04T20:08:38Z'
   pushed_at: '2026-09-04T20:08:33Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:58.114519+00:00'
+  last_scanned: '2026-09-12T08:41:16.510866+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10465,7 +10613,7 @@ resources:
   updated_at: '2026-09-04T20:12:20Z'
   pushed_at: '2026-09-04T20:12:15Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:58.619709+00:00'
+  last_scanned: '2026-09-12T08:41:16.980513+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10500,7 +10648,7 @@ resources:
   updated_at: '2026-09-04T20:19:15Z'
   pushed_at: '2026-09-04T20:19:11Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:59.111728+00:00'
+  last_scanned: '2026-09-12T08:41:17.458581+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10536,7 +10684,7 @@ resources:
   updated_at: '2026-09-04T20:21:37Z'
   pushed_at: '2026-09-04T20:21:32Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:57:59.557987+00:00'
+  last_scanned: '2026-09-12T08:41:17.965056+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10574,7 +10722,7 @@ resources:
   updated_at: '2026-09-04T20:23:36Z'
   pushed_at: '2026-09-04T20:23:32Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:00.040015+00:00'
+  last_scanned: '2026-09-12T08:41:18.408885+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10612,7 +10760,7 @@ resources:
   updated_at: '2026-09-04T20:23:36Z'
   pushed_at: '2026-09-04T20:23:32Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:00.465924+00:00'
+  last_scanned: '2026-09-12T08:41:18.866967+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10649,7 +10797,7 @@ resources:
   updated_at: '2026-09-04T20:24:59Z'
   pushed_at: '2026-09-04T20:24:55Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:00.896566+00:00'
+  last_scanned: '2026-09-12T08:41:19.380092+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10690,7 +10838,7 @@ resources:
   updated_at: '2026-09-04T20:25:32Z'
   pushed_at: '2026-09-04T20:25:28Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:01.351362+00:00'
+  last_scanned: '2026-09-12T08:41:19.813388+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10728,7 +10876,7 @@ resources:
   updated_at: '2026-08-14T21:17:56Z'
   pushed_at: '2026-08-13T00:11:34Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:01.805266+00:00'
+  last_scanned: '2026-09-12T08:41:20.280589+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10765,7 +10913,7 @@ resources:
   updated_at: '2026-09-04T20:26:39Z'
   pushed_at: '2026-09-04T20:26:35Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:02.217181+00:00'
+  last_scanned: '2026-09-12T08:41:20.742133+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10791,7 +10939,7 @@ resources:
   updated_at: '2026-09-11T08:24:18Z'
   pushed_at: '2026-09-11T08:24:15Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:02.586983+00:00'
+  last_scanned: '2026-09-12T08:41:21.158915+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10818,7 +10966,7 @@ resources:
   updated_at: '2026-04-18T07:37:39Z'
   pushed_at: '2026-04-01T21:50:44Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:02.969403+00:00'
+  last_scanned: '2026-09-12T08:41:21.562866+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10844,7 +10992,7 @@ resources:
   updated_at: '2026-09-10T02:28:00Z'
   pushed_at: '2026-09-10T02:27:57Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:03.353155+00:00'
+  last_scanned: '2026-09-12T08:41:22.000270+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10871,7 +11019,7 @@ resources:
   updated_at: '2026-09-01T18:51:09Z'
   pushed_at: '2026-09-01T18:44:13Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:03.794429+00:00'
+  last_scanned: '2026-09-12T08:41:22.462862+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10892,14 +11040,14 @@ resources:
   license: null
   stars: 0
   forks: 0
-  open_issues: 0
+  open_issues: 1
   archived: false
   fork: false
   created_at: '2026-09-03T11:44:27Z'
-  updated_at: '2026-09-10T11:46:07Z'
-  pushed_at: '2026-09-10T11:45:54Z'
+  updated_at: '2026-09-12T02:32:52Z'
+  pushed_at: '2026-09-12T02:32:48Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:04.199802+00:00'
+  last_scanned: '2026-09-12T08:41:22.875141+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10922,10 +11070,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-09-05T09:04:18Z'
-  updated_at: '2026-09-11T08:17:19Z'
-  pushed_at: '2026-09-11T08:17:15Z'
+  updated_at: '2026-09-12T07:22:13Z'
+  pushed_at: '2026-09-12T08:27:29Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:04.591641+00:00'
+  last_scanned: '2026-09-12T08:41:23.299595+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10951,7 +11099,7 @@ resources:
   updated_at: '2026-09-09T00:42:59Z'
   pushed_at: '2026-09-07T19:03:29Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:04.982364+00:00'
+  last_scanned: '2026-09-12T08:41:23.723967+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -10977,7 +11125,7 @@ resources:
   updated_at: '2026-09-10T15:42:19Z'
   pushed_at: '2026-09-10T15:37:34Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:05.426139+00:00'
+  last_scanned: '2026-09-12T08:41:24.137751+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11004,7 +11152,7 @@ resources:
   updated_at: '2026-09-09T00:49:29Z'
   pushed_at: '2026-09-09T00:49:23Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:05.795787+00:00'
+  last_scanned: '2026-09-12T08:41:24.579302+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11032,7 +11180,7 @@ resources:
   updated_at: '2026-09-07T10:43:24Z'
   pushed_at: '2026-09-07T10:43:19Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:06.154533+00:00'
+  last_scanned: '2026-09-12T08:41:24.967627+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11060,7 +11208,7 @@ resources:
   updated_at: '2026-08-18T13:36:52Z'
   pushed_at: '2026-08-18T13:32:21Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:06.604235+00:00'
+  last_scanned: '2026-09-12T08:41:25.389057+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11083,10 +11231,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-09-04T21:37:02Z'
-  updated_at: '2026-09-09T19:47:51Z'
-  pushed_at: '2026-09-09T19:46:13Z'
+  updated_at: '2026-09-12T05:21:50Z'
+  pushed_at: '2026-09-12T05:21:47Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:07.011971+00:00'
+  last_scanned: '2026-09-12T08:41:25.795145+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11124,7 +11272,7 @@ resources:
   updated_at: '2026-09-07T14:21:40Z'
   pushed_at: '2026-09-07T14:25:00Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:07.445155+00:00'
+  last_scanned: '2026-09-12T08:41:26.229590+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11151,7 +11299,7 @@ resources:
   updated_at: '2026-08-09T23:25:31Z'
   pushed_at: '2026-09-07T06:18:44Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:07.843156+00:00'
+  last_scanned: '2026-09-12T08:41:26.637716+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11177,7 +11325,7 @@ resources:
   updated_at: '2026-09-08T10:18:06Z'
   pushed_at: '2026-09-08T10:14:12Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:08.270605+00:00'
+  last_scanned: '2026-09-12T08:41:27.043342+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11208,7 +11356,7 @@ resources:
   updated_at: '2026-09-07T07:02:21Z'
   pushed_at: '2026-09-07T07:02:12Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:08.696265+00:00'
+  last_scanned: '2026-09-12T08:41:27.512155+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11234,7 +11382,7 @@ resources:
   updated_at: '2026-09-08T16:58:23Z'
   pushed_at: '2026-09-08T16:53:49Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:09.186531+00:00'
+  last_scanned: '2026-09-12T08:41:27.939636+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11261,7 +11409,7 @@ resources:
   updated_at: '2026-08-25T07:25:52Z'
   pushed_at: '2026-08-25T07:25:29Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:09.597587+00:00'
+  last_scanned: '2026-09-12T08:41:28.370347+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11290,7 +11438,7 @@ resources:
   updated_at: '2026-08-24T12:26:08Z'
   pushed_at: '2026-08-24T12:21:48Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:09.993936+00:00'
+  last_scanned: '2026-09-12T08:41:28.825868+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11324,7 +11472,7 @@ resources:
   updated_at: '2026-09-04T08:19:50Z'
   pushed_at: '2026-09-04T08:19:20Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:10.422909+00:00'
+  last_scanned: '2026-09-12T08:41:29.237876+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11350,7 +11498,7 @@ resources:
   updated_at: '2026-09-04T18:13:32Z'
   pushed_at: '2026-09-04T18:13:10Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:10.847179+00:00'
+  last_scanned: '2026-09-12T08:41:29.711665+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11378,7 +11526,7 @@ resources:
   updated_at: '2026-09-07T17:18:52Z'
   pushed_at: '2026-09-07T17:18:28Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:11.310792+00:00'
+  last_scanned: '2026-09-12T08:41:30.162504+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11441,6 +11589,7 @@ resources:
     score_reasons:
     - +3.5 strong:animal welfare
     - +0.5 support:animal
+  refresh_error: '404 Client Error: Not Found for url: https://api.github.com/repos/clementduncan/shetlandanimalwelfare-placeholder'
 - id: cloud-itonami-cloud-itonami-isic-7500
   source: github
   full_name: cloud-itonami/cloud-itonami-isic-7500
@@ -11459,7 +11608,7 @@ resources:
   updated_at: '2026-09-11T08:37:21Z'
   pushed_at: '2026-09-11T08:37:18Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:12.252210+00:00'
+  last_scanned: '2026-09-12T08:41:30.919507+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11482,10 +11631,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-05-30T13:55:53Z'
-  updated_at: '2026-09-10T18:11:32Z'
-  pushed_at: '2026-09-10T18:11:21Z'
+  updated_at: '2026-09-11T18:14:51Z'
+  pushed_at: '2026-09-11T18:14:46Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:12.622016+00:00'
+  last_scanned: '2026-09-12T08:41:31.325647+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11514,7 +11663,7 @@ resources:
   updated_at: '2026-08-15T01:54:33Z'
   pushed_at: '2026-08-14T23:14:06Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:13.136420+00:00'
+  last_scanned: '2026-09-12T08:41:31.793316+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11540,7 +11689,7 @@ resources:
   updated_at: '2026-08-19T09:54:51Z'
   pushed_at: '2026-08-19T09:52:47Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:13.513938+00:00'
+  last_scanned: '2026-09-12T08:41:32.217974+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11566,7 +11715,7 @@ resources:
   updated_at: '2026-09-02T19:57:36Z'
   pushed_at: '2026-09-02T19:47:37Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:13.893850+00:00'
+  last_scanned: '2026-09-12T08:41:32.651510+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11603,7 +11752,7 @@ resources:
   updated_at: '2026-09-10T23:12:58Z'
   pushed_at: '2026-09-10T23:12:53Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:58:14.310164+00:00'
+  last_scanned: '2026-09-12T08:41:33.177414+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11657,7 +11806,7 @@ resources:
   updated_at: '2024-09-23T18:01:32Z'
   pushed_at: '2024-09-23T18:01:29Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:14.842620+00:00'
+  last_scanned: '2026-09-12T08:41:33.767285+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11683,7 +11832,7 @@ resources:
   updated_at: '2026-09-02T01:47:00Z'
   pushed_at: '2026-09-02T01:46:42Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:15.271590+00:00'
+  last_scanned: '2026-09-12T08:41:34.188713+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11712,7 +11861,7 @@ resources:
   updated_at: '2026-09-06T03:34:58Z'
   pushed_at: '2026-09-06T03:34:53Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:15.667047+00:00'
+  last_scanned: '2026-09-12T08:41:34.624677+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11738,7 +11887,7 @@ resources:
   updated_at: '2026-09-11T02:53:54Z'
   pushed_at: '2026-09-11T02:53:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:16.038233+00:00'
+  last_scanned: '2026-09-12T08:41:35.034371+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11747,6 +11896,32 @@ resources:
     score_reasons:
     - +3.5 strong:animal health
     - +0.5 support:animal
+- id: didiernajas-veterinary-web-site-backend
+  source: github
+  full_name: didierNajas/Veterinary_web_site_backend
+  url: https://github.com/didierNajas/Veterinary_web_site_backend
+  description: Sistema Backend Veterinaria en construccion
+  homepage: null
+  topics: []
+  language: Java
+  license: null
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  fork: false
+  created_at: '2026-08-15T22:04:43Z'
+  updated_at: '2026-09-12T06:04:08Z'
+  pushed_at: '2026-09-12T06:04:05Z'
+  default_branch: ramaDidier
+  last_scanned: '2026-09-12T08:41:35.449100+00:00'
+  curation:
+    status: candidate
+    source: automated-discovery
+    verified: false
+    veterinary_relevance_score: 0.4
+    score_reasons:
+    - +4 strong:veterinary
 - id: divya-1922-petcare-and-veterinary-website
   source: github
   full_name: Divya-1922/Petcare-and-veterinary-website
@@ -11765,7 +11940,7 @@ resources:
   updated_at: '2026-09-07T04:52:02Z'
   pushed_at: '2026-09-07T04:51:58Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:16.434831+00:00'
+  last_scanned: '2026-09-12T08:41:35.869132+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11792,7 +11967,7 @@ resources:
   updated_at: '2026-07-31T14:39:54Z'
   pushed_at: '2026-07-31T14:39:05Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:16.901983+00:00'
+  last_scanned: '2026-09-12T08:41:36.354311+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11801,6 +11976,58 @@ resources:
     score_reasons:
     - +3.5 strong:animal welfare
     - +0.5 support:animal
+- id: dogangsn-odivonvet
+  source: github
+  full_name: dogangsn/OdivonVET
+  url: https://github.com/dogangsn/OdivonVET
+  description: Odivon Vet — independent veterinary clinic product with Angular and Supabase
+  homepage: null
+  topics: []
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  fork: false
+  created_at: '2026-09-09T14:04:55Z'
+  updated_at: '2026-09-11T20:43:32Z'
+  pushed_at: '2026-09-11T20:43:27Z'
+  default_branch: master
+  last_scanned: '2026-09-12T08:41:36.754767+00:00'
+  curation:
+    status: candidate
+    source: automated-discovery
+    verified: false
+    veterinary_relevance_score: 0.4
+    score_reasons:
+    - +4 strong:veterinary
+- id: draftpos-veterinary
+  source: github
+  full_name: draftpos/veterinary
+  url: https://github.com/draftpos/veterinary
+  description: veterinary application
+  homepage: null
+  topics: []
+  language: Python
+  license: MIT
+  stars: 0
+  forks: 1
+  open_issues: 0
+  archived: false
+  fork: false
+  created_at: '2025-12-10T10:35:37Z'
+  updated_at: '2026-09-11T18:22:07Z'
+  pushed_at: '2026-09-11T18:22:02Z'
+  default_branch: main
+  last_scanned: '2026-09-12T08:41:37.175086+00:00'
+  curation:
+    status: candidate
+    source: automated-discovery
+    verified: false
+    veterinary_relevance_score: 0.4
+    score_reasons:
+    - +4 strong:veterinary
 - id: dvmhasik-maker-vetapp
   source: github
   full_name: dvmhasik-maker/Vetapp
@@ -11819,7 +12046,7 @@ resources:
   updated_at: '2026-09-08T13:43:36Z'
   pushed_at: '2026-09-08T13:39:55Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:17.406841+00:00'
+  last_scanned: '2026-09-12T08:41:37.611233+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11846,7 +12073,7 @@ resources:
   updated_at: '2026-09-10T09:35:53Z'
   pushed_at: '2026-09-10T09:35:22Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:17.785181+00:00'
+  last_scanned: '2026-09-12T08:41:38.038547+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11870,9 +12097,9 @@ resources:
   fork: false
   created_at: '2026-09-11T01:33:16Z'
   updated_at: '2026-09-11T02:45:58Z'
-  pushed_at: '2026-09-11T03:14:37Z'
+  pushed_at: '2026-09-11T21:51:23Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:18.157904+00:00'
+  last_scanned: '2026-09-12T08:41:38.489897+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11898,7 +12125,7 @@ resources:
   updated_at: '2026-08-14T20:25:35Z'
   pushed_at: '2026-08-14T20:25:17Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:18.527258+00:00'
+  last_scanned: '2026-09-12T08:41:38.937562+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11924,7 +12151,7 @@ resources:
   updated_at: '2026-09-10T22:40:17Z'
   pushed_at: '2026-09-10T22:40:13Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:18.951720+00:00'
+  last_scanned: '2026-09-12T08:41:39.359430+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11950,7 +12177,7 @@ resources:
   updated_at: '2026-08-09T22:19:04Z'
   pushed_at: '2026-08-09T22:18:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:19.369977+00:00'
+  last_scanned: '2026-09-12T08:41:39.800516+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -11976,7 +12203,7 @@ resources:
   updated_at: '2026-09-07T08:41:27Z'
   pushed_at: '2026-09-07T08:41:23Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:19.794856+00:00'
+  last_scanned: '2026-09-12T08:41:40.222506+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12002,7 +12229,7 @@ resources:
   updated_at: '2026-08-14T05:30:49Z'
   pushed_at: '2026-08-14T05:30:45Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:20.290345+00:00'
+  last_scanned: '2026-09-12T08:41:40.670803+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12028,7 +12255,7 @@ resources:
   updated_at: '2026-08-18T13:43:29Z'
   pushed_at: '2026-08-18T13:21:01Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:20.723092+00:00'
+  last_scanned: '2026-09-12T08:41:41.092083+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12062,9 +12289,9 @@ resources:
   fork: false
   created_at: '2026-08-19T13:59:04Z'
   updated_at: '2026-09-11T08:48:32Z'
-  pushed_at: '2026-09-11T08:48:25Z'
+  pushed_at: '2026-09-11T16:41:59Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:21.100106+00:00'
+  last_scanned: '2026-09-12T08:41:41.562403+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12091,7 +12318,7 @@ resources:
   updated_at: '2026-09-06T13:26:52Z'
   pushed_at: '2026-09-06T13:26:49Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:21.519156+00:00'
+  last_scanned: '2026-09-12T08:41:41.995281+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12132,7 +12359,7 @@ resources:
   updated_at: '2026-09-08T04:58:29Z'
   pushed_at: '2026-09-08T04:58:25Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:21.895731+00:00'
+  last_scanned: '2026-09-12T08:41:42.481624+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12158,7 +12385,7 @@ resources:
   updated_at: '2026-08-09T19:37:04Z'
   pushed_at: '2026-08-09T19:34:52Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:22.317377+00:00'
+  last_scanned: '2026-09-12T08:41:42.906190+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12184,7 +12411,7 @@ resources:
   updated_at: '2026-08-15T10:01:41Z'
   pushed_at: '2026-08-15T10:00:34Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:58:22.724817+00:00'
+  last_scanned: '2026-09-12T08:41:43.339599+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12221,7 +12448,7 @@ resources:
   updated_at: '2026-08-10T01:40:21Z'
   pushed_at: '2026-08-10T01:40:09Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:23.131059+00:00'
+  last_scanned: '2026-09-12T08:41:43.780778+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12247,7 +12474,7 @@ resources:
   updated_at: '2026-09-03T20:56:34Z'
   pushed_at: '2026-09-03T20:55:49Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:23.578524+00:00'
+  last_scanned: '2026-09-12T08:41:44.216331+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12273,7 +12500,7 @@ resources:
   updated_at: '2026-08-24T04:24:30Z'
   pushed_at: '2026-09-11T01:45:27Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:24.040766+00:00'
+  last_scanned: '2026-09-12T08:41:44.751337+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12299,7 +12526,7 @@ resources:
   updated_at: '2026-09-08T01:24:08Z'
   pushed_at: '2026-09-08T01:24:03Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:24.431333+00:00'
+  last_scanned: '2026-09-12T08:41:45.195278+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12325,7 +12552,7 @@ resources:
   updated_at: '2026-09-08T04:25:42Z'
   pushed_at: '2026-09-08T04:25:35Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:24.851145+00:00'
+  last_scanned: '2026-09-12T08:41:45.679575+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12351,7 +12578,7 @@ resources:
   updated_at: '2026-08-10T08:34:17Z'
   pushed_at: '2026-08-10T08:33:49Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:25.281477+00:00'
+  last_scanned: '2026-09-12T08:41:46.102579+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12389,7 +12616,7 @@ resources:
   updated_at: '2018-01-24T13:04:40Z'
   pushed_at: '2018-01-24T13:10:30Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:58:25.727885+00:00'
+  last_scanned: '2026-09-12T08:41:46.557399+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12417,7 +12644,7 @@ resources:
   updated_at: '2026-08-13T11:51:20Z'
   pushed_at: '2026-08-13T11:50:46Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:26.146601+00:00'
+  last_scanned: '2026-09-12T08:41:46.960407+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12426,6 +12653,33 @@ resources:
     score_reasons:
     - +3.5 strong:animal health
     - +0.5 support:animal
+- id: hasonasona00-cmyk-mohcen-web-site
+  source: github
+  full_name: hasonasona00-cmyk/MOHCEN-WEB-SITE
+  url: https://github.com/hasonasona00-cmyk/MOHCEN-WEB-SITE
+  description: A modern and professional website for a veterinary clinic, providing information about veterinary
+    services, pet care, and clinic contact details.
+  homepage: null
+  topics: []
+  language: null
+  license: MIT
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  fork: false
+  created_at: '2026-09-11T21:13:20Z'
+  updated_at: '2026-09-11T21:13:25Z'
+  pushed_at: '2026-09-11T21:13:22Z'
+  default_branch: main
+  last_scanned: '2026-09-12T08:41:47.388188+00:00'
+  curation:
+    status: candidate
+    source: automated-discovery
+    verified: false
+    veterinary_relevance_score: 0.4
+    score_reasons:
+    - +4 strong:veterinary
 - id: hassanzohaib12-animal-charity-organazition
   source: github
   full_name: Hassanzohaib12/Animal-Charity-Organazition
@@ -12446,7 +12700,7 @@ resources:
   updated_at: '2026-07-31T07:27:34Z'
   pushed_at: '2026-07-31T07:26:45Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:26.531642+00:00'
+  last_scanned: '2026-09-12T08:41:47.806619+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12503,7 +12757,7 @@ resources:
   updated_at: '2026-09-08T02:09:28Z'
   pushed_at: '2026-09-08T02:09:06Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:27.091319+00:00'
+  last_scanned: '2026-09-12T08:41:48.377022+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12529,7 +12783,7 @@ resources:
   updated_at: '2026-09-05T05:50:47Z'
   pushed_at: '2026-09-05T07:54:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:27.475399+00:00'
+  last_scanned: '2026-09-12T08:41:48.769666+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12558,7 +12812,7 @@ resources:
   updated_at: '2026-08-12T17:03:26Z'
   pushed_at: '2026-08-12T17:10:58Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:58:27.891993+00:00'
+  last_scanned: '2026-09-12T08:41:49.254843+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12593,7 +12847,7 @@ resources:
   updated_at: '2026-08-13T09:10:38Z'
   pushed_at: '2026-08-13T09:09:29Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:28.325120+00:00'
+  last_scanned: '2026-09-12T08:41:49.700324+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12620,7 +12874,7 @@ resources:
   updated_at: '2026-08-10T03:41:07Z'
   pushed_at: '2026-08-10T03:40:56Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:28.726545+00:00'
+  last_scanned: '2026-09-12T08:41:50.135493+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12677,7 +12931,7 @@ resources:
   updated_at: '2026-09-08T06:57:58Z'
   pushed_at: '2026-09-08T06:57:33Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:29.250808+00:00'
+  last_scanned: '2026-09-12T08:41:50.818662+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12703,7 +12957,7 @@ resources:
   updated_at: '2026-09-07T20:51:44Z'
   pushed_at: '2026-09-07T20:51:34Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:29.637791+00:00'
+  last_scanned: '2026-09-12T08:41:51.239500+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12729,7 +12983,7 @@ resources:
   updated_at: '2026-09-09T15:55:12Z'
   pushed_at: '2026-09-09T15:48:03Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:30.057197+00:00'
+  last_scanned: '2026-09-12T08:41:51.734768+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12755,7 +13009,7 @@ resources:
   updated_at: '2026-08-26T17:11:06Z'
   pushed_at: '2026-08-26T16:55:02Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:30.444774+00:00'
+  last_scanned: '2026-09-12T08:41:52.202127+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12781,7 +13035,7 @@ resources:
   updated_at: '2026-09-06T02:26:11Z'
   pushed_at: '2026-09-07T15:08:48Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:58:30.863747+00:00'
+  last_scanned: '2026-09-12T08:41:52.621358+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12807,7 +13061,7 @@ resources:
   updated_at: '2026-08-31T01:29:09Z'
   pushed_at: '2026-08-31T01:29:04Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:31.260419+00:00'
+  last_scanned: '2026-09-12T08:41:53.146014+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12834,7 +13088,7 @@ resources:
   updated_at: '2026-09-11T01:50:48Z'
   pushed_at: '2026-09-11T01:50:44Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:31.683128+00:00'
+  last_scanned: '2026-09-12T08:41:53.653272+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12873,7 +13127,33 @@ resources:
   updated_at: '2026-08-10T17:26:36Z'
   pushed_at: '2026-08-10T17:24:00Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:32.129456+00:00'
+  last_scanned: '2026-09-12T08:41:54.116183+00:00'
+  curation:
+    status: candidate
+    source: automated-discovery
+    verified: false
+    veterinary_relevance_score: 0.4
+    score_reasons:
+    - +4 strong:veterinary
+- id: joseaugustoscherer-gestor-pet-app
+  source: github
+  full_name: JoseAugustoScherer/gestor-pet-app
+  url: https://github.com/JoseAugustoScherer/gestor-pet-app
+  description: App for pet shops and veterinary clinics
+  homepage: null
+  topics: []
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  fork: false
+  created_at: '2026-09-12T00:29:22Z'
+  updated_at: '2026-09-12T01:27:45Z'
+  pushed_at: '2026-09-12T01:27:42Z'
+  default_branch: main
+  last_scanned: '2026-09-12T08:41:54.522370+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12899,7 +13179,7 @@ resources:
   updated_at: '2026-08-18T13:07:06Z'
   pushed_at: '2026-08-18T13:04:53Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:32.487136+00:00'
+  last_scanned: '2026-09-12T08:41:54.978125+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12925,7 +13205,7 @@ resources:
   updated_at: '2026-08-18T13:58:48Z'
   pushed_at: '2026-08-18T13:53:50Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:32.842179+00:00'
+  last_scanned: '2026-09-12T08:41:55.385785+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12951,7 +13231,7 @@ resources:
   updated_at: '2026-09-05T07:17:25Z'
   pushed_at: '2026-09-05T08:52:41Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:33.252916+00:00'
+  last_scanned: '2026-09-12T08:41:55.950340+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -12977,7 +13257,7 @@ resources:
   updated_at: '2026-09-03T06:49:14Z'
   pushed_at: '2026-09-03T06:49:09Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:33.655917+00:00'
+  last_scanned: '2026-09-12T08:41:56.378537+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13003,7 +13283,7 @@ resources:
   updated_at: '2026-09-04T07:10:06Z'
   pushed_at: '2026-09-04T07:09:57Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:34.067705+00:00'
+  last_scanned: '2026-09-12T08:41:56.829392+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13029,7 +13309,7 @@ resources:
   updated_at: '2026-08-24T08:28:08Z'
   pushed_at: '2026-08-24T08:27:02Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:34.470673+00:00'
+  last_scanned: '2026-09-12T08:41:57.266007+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13056,7 +13336,7 @@ resources:
   updated_at: '2026-09-09T14:28:23Z'
   pushed_at: '2026-09-09T14:07:21Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:34.815385+00:00'
+  last_scanned: '2026-09-12T08:41:57.731604+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13082,7 +13362,7 @@ resources:
   updated_at: '2026-08-13T16:24:52Z'
   pushed_at: '2026-08-13T16:24:47Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:35.280944+00:00'
+  last_scanned: '2026-09-12T08:41:58.189148+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13098,7 +13378,7 @@ resources:
   description: 'A Decision Support System of Veterinary Inventory,Records Management, Optimization, and Demand Forecasting '
   homepage: null
   topics: []
-  language: HTML
+  language: JavaScript
   license: null
   stars: 0
   forks: 0
@@ -13106,10 +13386,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-09-01T12:10:42Z'
-  updated_at: '2026-09-11T08:42:02Z'
-  pushed_at: '2026-09-11T08:41:55Z'
+  updated_at: '2026-09-11T09:22:38Z'
+  pushed_at: '2026-09-11T09:22:31Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:35.711315+00:00'
+  last_scanned: '2026-09-12T08:41:58.640999+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13136,7 +13416,7 @@ resources:
   updated_at: '2026-09-04T07:18:00Z'
   pushed_at: '2026-09-04T07:16:18Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:36.169089+00:00'
+  last_scanned: '2026-09-12T08:41:59.116206+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13163,7 +13443,7 @@ resources:
   updated_at: '2026-09-11T06:21:48Z'
   pushed_at: '2026-09-11T06:21:46Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:36.551050+00:00'
+  last_scanned: '2026-09-12T08:41:59.537347+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13190,7 +13470,7 @@ resources:
   updated_at: '2026-08-11T13:43:35Z'
   pushed_at: '2026-08-11T13:41:04Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:36.949695+00:00'
+  last_scanned: '2026-09-12T08:42:00.079799+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13217,7 +13497,7 @@ resources:
   updated_at: '2026-08-20T06:45:33Z'
   pushed_at: '2026-08-20T06:44:09Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:37.334081+00:00'
+  last_scanned: '2026-09-12T08:42:00.533136+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13254,7 +13534,7 @@ resources:
   updated_at: '2026-09-06T09:51:18Z'
   pushed_at: '2026-09-06T09:51:14Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:37.748316+00:00'
+  last_scanned: '2026-09-12T08:42:00.996347+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13282,7 +13562,7 @@ resources:
   updated_at: '2026-08-24T03:51:34Z'
   pushed_at: '2026-08-24T03:51:21Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:38.150580+00:00'
+  last_scanned: '2026-09-12T08:42:01.462100+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13309,7 +13589,7 @@ resources:
   updated_at: '2026-09-09T07:53:02Z'
   pushed_at: '2026-09-09T07:51:33Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:38.559406+00:00'
+  last_scanned: '2026-09-12T08:42:01.937387+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13340,7 +13620,7 @@ resources:
   updated_at: '2026-09-04T15:50:05Z'
   pushed_at: '2026-09-04T15:50:01Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:38.983799+00:00'
+  last_scanned: '2026-09-12T08:42:02.421825+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13367,10 +13647,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-04-18T16:01:00Z'
-  updated_at: '2026-09-10T13:19:17Z'
-  pushed_at: '2026-09-10T13:17:15Z'
+  updated_at: '2026-09-11T11:09:44Z'
+  pushed_at: '2026-09-11T11:09:51Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:39.413443+00:00'
+  last_scanned: '2026-09-12T08:42:02.870906+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13399,7 +13679,7 @@ resources:
   updated_at: '2026-09-10T22:22:06Z'
   pushed_at: '2026-09-10T22:09:29Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:39.810602+00:00'
+  last_scanned: '2026-09-12T08:42:03.377161+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13429,7 +13709,7 @@ resources:
   updated_at: '2026-09-10T14:44:18Z'
   pushed_at: '2026-09-10T14:38:04Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:40.210239+00:00'
+  last_scanned: '2026-09-12T08:42:03.861870+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13459,7 +13739,7 @@ resources:
   updated_at: '2026-08-10T23:34:37Z'
   pushed_at: '2026-08-10T23:33:57Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:40.588265+00:00'
+  last_scanned: '2026-09-12T08:42:04.353411+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13486,7 +13766,7 @@ resources:
   updated_at: '2026-08-17T13:33:45Z'
   pushed_at: '2026-08-17T13:30:36Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:40.946513+00:00'
+  last_scanned: '2026-09-12T08:42:04.783579+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13514,7 +13794,7 @@ resources:
   updated_at: '2026-09-09T09:14:18Z'
   pushed_at: '2026-09-05T17:33:00Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:41.303236+00:00'
+  last_scanned: '2026-09-12T08:42:05.350370+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13541,7 +13821,7 @@ resources:
   updated_at: '2026-09-06T13:19:33Z'
   pushed_at: '2026-09-06T13:19:29Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:41.741808+00:00'
+  last_scanned: '2026-09-12T08:42:05.805806+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13571,7 +13851,7 @@ resources:
   updated_at: '2026-09-09T18:01:44Z'
   pushed_at: '2026-09-09T17:59:03Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:42.141597+00:00'
+  last_scanned: '2026-09-12T08:42:06.242482+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13600,7 +13880,7 @@ resources:
   updated_at: '2026-09-04T23:47:32Z'
   pushed_at: '2026-09-04T23:47:30Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:42.502167+00:00'
+  last_scanned: '2026-09-12T08:42:06.673221+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13626,7 +13906,7 @@ resources:
   updated_at: '2026-06-16T02:34:49Z'
   pushed_at: '2026-06-16T02:34:45Z'
   default_branch: claude/clever-rubin-jk5abo
-  last_scanned: '2026-09-11T08:58:42.882603+00:00'
+  last_scanned: '2026-09-12T08:42:07.197499+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13652,7 +13932,7 @@ resources:
   updated_at: '2026-09-11T07:45:49Z'
   pushed_at: '2026-09-11T07:45:45Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:43.238989+00:00'
+  last_scanned: '2026-09-12T08:42:07.610776+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13678,7 +13958,7 @@ resources:
   updated_at: '2026-09-07T02:37:36Z'
   pushed_at: '2026-09-07T02:37:32Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:43.652897+00:00'
+  last_scanned: '2026-09-12T08:42:08.044865+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13704,7 +13984,7 @@ resources:
   updated_at: '2025-04-12T01:11:26Z'
   pushed_at: '2025-04-12T01:11:22Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:44.042594+00:00'
+  last_scanned: '2026-09-12T08:42:08.476249+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13723,14 +14003,14 @@ resources:
   license: MIT
   stars: 1
   forks: 1
-  open_issues: 14
+  open_issues: 16
   archived: false
   fork: false
   created_at: '2026-04-17T22:17:14Z'
   updated_at: '2026-08-25T19:04:04Z'
-  pushed_at: '2026-09-08T12:16:45Z'
+  pushed_at: '2026-09-12T07:01:26Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:44.405312+00:00'
+  last_scanned: '2026-09-12T08:42:08.931816+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13757,7 +14037,7 @@ resources:
   updated_at: '2026-08-25T03:47:25Z'
   pushed_at: '2026-08-25T03:42:46Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:44.868550+00:00'
+  last_scanned: '2026-09-12T08:42:09.424517+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13786,10 +14066,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-02-27T19:15:00Z'
-  updated_at: '2026-09-09T13:46:43Z'
-  pushed_at: '2026-09-09T13:41:09Z'
+  updated_at: '2026-09-11T23:19:36Z'
+  pushed_at: '2026-09-11T23:19:33Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:45.234913+00:00'
+  last_scanned: '2026-09-12T08:42:09.960274+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13815,7 +14095,7 @@ resources:
   updated_at: '2026-08-07T03:20:09Z'
   pushed_at: '2026-08-07T03:20:09Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:45.642989+00:00'
+  last_scanned: '2026-09-12T08:42:10.394320+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13842,7 +14122,7 @@ resources:
   updated_at: '2026-07-31T18:44:22Z'
   pushed_at: '2026-07-31T18:42:34Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:46.069043+00:00'
+  last_scanned: '2026-09-12T08:42:10.864252+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13869,7 +14149,7 @@ resources:
   updated_at: '2026-09-09T12:13:47Z'
   pushed_at: '2026-09-09T12:11:05Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:46.551763+00:00'
+  last_scanned: '2026-09-12T08:42:11.372981+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13924,7 +14204,7 @@ resources:
   updated_at: '2026-09-04T19:17:30Z'
   pushed_at: '2026-09-04T19:17:23Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:47.067495+00:00'
+  last_scanned: '2026-09-12T08:42:11.972759+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13951,7 +14231,7 @@ resources:
   updated_at: '2026-08-31T20:30:42Z'
   pushed_at: '2026-08-31T20:20:57Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:47.519223+00:00'
+  last_scanned: '2026-09-12T08:42:12.391989+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -13979,7 +14259,7 @@ resources:
   updated_at: '2026-08-10T18:11:42Z'
   pushed_at: '2026-08-10T18:10:26Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:47.916374+00:00'
+  last_scanned: '2026-09-12T08:42:12.868322+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14008,7 +14288,7 @@ resources:
   updated_at: '2026-09-03T17:53:24Z'
   pushed_at: '2026-09-03T17:53:24Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:48.342222+00:00'
+  last_scanned: '2026-09-12T08:42:13.390195+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14035,7 +14315,7 @@ resources:
   updated_at: '2026-07-15T12:01:16Z'
   pushed_at: '2026-07-15T12:00:55Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:58:48.788389+00:00'
+  last_scanned: '2026-09-12T08:42:13.909265+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14061,7 +14341,33 @@ resources:
   updated_at: '2026-04-15T00:18:22Z'
   pushed_at: '2026-04-15T00:18:19Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:49.212428+00:00'
+  last_scanned: '2026-09-12T08:42:14.337020+00:00'
+  curation:
+    status: candidate
+    source: automated-discovery
+    verified: false
+    veterinary_relevance_score: 0.4
+    score_reasons:
+    - +4 strong:veterinary
+- id: ricardoakinaga-dev-cvg-trainee-vet
+  source: github
+  full_name: ricardoakinaga-dev/cvg-trainee-vet
+  url: https://github.com/ricardoakinaga-dev/cvg-trainee-vet
+  description: CVG veterinary training platform
+  homepage: null
+  topics: []
+  language: TypeScript
+  license: null
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  fork: false
+  created_at: '2026-08-10T10:19:30Z'
+  updated_at: '2026-09-11T20:09:56Z'
+  pushed_at: '2026-09-11T20:09:51Z'
+  default_branch: main
+  last_scanned: '2026-09-12T08:42:14.792987+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14087,7 +14393,7 @@ resources:
   updated_at: '2026-08-19T15:39:08Z'
   pushed_at: '2026-08-19T15:25:31Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:49.877511+00:00'
+  last_scanned: '2026-09-12T08:42:15.253510+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14113,7 +14419,7 @@ resources:
   updated_at: '2026-09-03T02:31:39Z'
   pushed_at: '2026-09-03T02:31:39Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:50.225312+00:00'
+  last_scanned: '2026-09-12T08:42:15.698169+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14139,7 +14445,7 @@ resources:
   updated_at: '2026-08-14T16:51:42Z'
   pushed_at: '2026-08-14T16:51:27Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:50.656413+00:00'
+  last_scanned: '2026-09-12T08:42:16.194502+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14165,7 +14471,7 @@ resources:
   updated_at: '2026-09-03T07:44:02Z'
   pushed_at: '2026-09-03T07:38:30Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:51.123845+00:00'
+  last_scanned: '2026-09-12T08:42:16.764414+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14173,6 +14479,34 @@ resources:
     veterinary_relevance_score: 0.4
     score_reasons:
     - +4 strong:veterinary
+- id: samruddhis14-vatsalya
+  source: github
+  full_name: samruddhiS14/Vatsalya
+  url: https://github.com/samruddhiS14/Vatsalya
+  description: 'Vatsalya: Because "Every life deserves a second chance." An end-to-end stray animal welfare platform
+    streamlining rescue operations, medical tracking, and forever-home adoptions.'
+  homepage: null
+  topics: []
+  language: JavaScript
+  license: null
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  fork: false
+  created_at: '2026-09-11T18:24:33Z'
+  updated_at: '2026-09-11T18:26:27Z'
+  pushed_at: '2026-09-11T18:26:21Z'
+  default_branch: main
+  last_scanned: '2026-09-12T08:42:17.218240+00:00'
+  curation:
+    status: candidate
+    source: automated-discovery
+    verified: false
+    veterinary_relevance_score: 0.4
+    score_reasons:
+    - +3.5 strong:animal welfare
+    - +0.5 support:animal
 - id: sandramilosevic-vet-manager
   source: github
   full_name: sandramilosevic/vet-manager
@@ -14199,7 +14533,7 @@ resources:
   updated_at: '2026-09-06T21:06:57Z'
   pushed_at: '2026-09-06T21:06:54Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:51.527739+00:00'
+  last_scanned: '2026-09-12T08:42:17.647195+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14226,7 +14560,7 @@ resources:
   updated_at: '2026-08-31T08:04:05Z'
   pushed_at: '2026-08-31T08:02:12Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:51.957490+00:00'
+  last_scanned: '2026-09-12T08:42:18.068357+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14253,7 +14587,7 @@ resources:
   updated_at: '2026-08-14T20:59:48Z'
   pushed_at: '2026-08-14T20:59:44Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:52.392012+00:00'
+  last_scanned: '2026-09-12T08:42:18.521267+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14280,7 +14614,7 @@ resources:
   updated_at: '2026-08-14T21:47:07Z'
   pushed_at: '2026-08-14T21:45:38Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:52.778522+00:00'
+  last_scanned: '2026-09-12T08:42:18.991013+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14306,7 +14640,7 @@ resources:
   updated_at: '2026-08-15T20:21:57Z'
   pushed_at: '2026-08-15T20:21:50Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:53.188453+00:00'
+  last_scanned: '2026-09-12T08:42:19.419771+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14339,7 +14673,7 @@ resources:
   updated_at: '2026-09-04T00:32:54Z'
   pushed_at: '2026-09-04T00:32:50Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:53.566326+00:00'
+  last_scanned: '2026-09-12T08:42:19.879767+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14372,7 +14706,7 @@ resources:
   updated_at: '2026-08-31T03:39:48Z'
   pushed_at: '2026-08-21T00:54:50Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:54.000118+00:00'
+  last_scanned: '2026-09-12T08:42:20.365075+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14381,6 +14715,32 @@ resources:
     score_reasons:
     - +3.5 strong:animal welfare
     - +0.5 support:animal
+- id: shameemalungal-vetrx
+  source: github
+  full_name: shameemalungal/VetRx
+  url: https://github.com/shameemalungal/VetRx
+  description: Veterinary Practitioners' Prescription and Invoice Maker
+  homepage: null
+  topics: []
+  language: HTML
+  license: null
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  fork: false
+  created_at: '2026-09-08T19:01:29Z'
+  updated_at: '2026-09-12T08:06:02Z'
+  pushed_at: '2026-09-12T08:05:58Z'
+  default_branch: main
+  last_scanned: '2026-09-12T08:42:20.837330+00:00'
+  curation:
+    status: candidate
+    source: automated-discovery
+    verified: false
+    veterinary_relevance_score: 0.4
+    score_reasons:
+    - +4 strong:veterinary
 - id: sharoontariq-risenrescue
   source: github
   full_name: sharoontariq/risenrescue
@@ -14399,7 +14759,7 @@ resources:
   updated_at: '2026-09-07T04:03:20Z'
   pushed_at: '2026-09-07T04:03:16Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:54.397394+00:00'
+  last_scanned: '2026-09-12T08:42:21.354260+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14441,7 +14801,7 @@ resources:
   updated_at: '2026-06-20T21:26:22Z'
   pushed_at: '2026-09-11T03:52:52Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:54.840121+00:00'
+  last_scanned: '2026-09-12T08:42:21.833349+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14471,7 +14831,7 @@ resources:
   updated_at: '2026-09-10T00:10:04Z'
   pushed_at: '2026-09-10T00:09:47Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:55.288947+00:00'
+  last_scanned: '2026-09-12T08:42:22.235114+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14507,10 +14867,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-09-06T14:51:02Z'
-  updated_at: '2026-09-11T08:04:54Z'
-  pushed_at: '2026-09-11T08:04:50Z'
+  updated_at: '2026-09-12T07:56:23Z'
+  pushed_at: '2026-09-12T07:56:19Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:55.690266+00:00'
+  last_scanned: '2026-09-12T08:42:22.677327+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14536,7 +14896,7 @@ resources:
   updated_at: '2026-09-06T16:12:24Z'
   pushed_at: '2026-09-06T16:12:18Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:56.249367+00:00'
+  last_scanned: '2026-09-12T08:42:23.178275+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14560,10 +14920,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-05-10T16:31:13Z'
-  updated_at: '2026-09-09T17:27:52Z'
-  pushed_at: '2026-09-09T17:23:42Z'
+  updated_at: '2026-09-11T15:32:48Z'
+  pushed_at: '2026-09-11T15:32:46Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:56.664196+00:00'
+  last_scanned: '2026-09-12T08:42:23.648763+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14590,7 +14950,7 @@ resources:
   updated_at: '2026-09-11T06:43:14Z'
   pushed_at: '2026-09-11T06:43:10Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:57.143527+00:00'
+  last_scanned: '2026-09-12T08:42:24.103527+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14613,10 +14973,10 @@ resources:
   archived: false
   fork: false
   created_at: '2026-02-16T04:39:01Z'
-  updated_at: '2026-09-11T07:03:03Z'
-  pushed_at: '2026-09-11T07:02:58Z'
+  updated_at: '2026-09-12T00:25:47Z'
+  pushed_at: '2026-09-12T00:25:43Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:57.533794+00:00'
+  last_scanned: '2026-09-12T08:42:24.541085+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14642,7 +15002,7 @@ resources:
   updated_at: '2026-09-07T16:34:52Z'
   pushed_at: '2026-09-07T16:34:18Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:57.900621+00:00'
+  last_scanned: '2026-09-12T08:42:24.974842+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14670,7 +15030,7 @@ resources:
   updated_at: '2026-08-19T05:05:11Z'
   pushed_at: '2026-08-19T05:04:38Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:58.368767+00:00'
+  last_scanned: '2026-09-12T08:42:25.411985+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14696,7 +15056,7 @@ resources:
   updated_at: '2026-09-10T10:36:05Z'
   pushed_at: '2026-09-10T10:35:00Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:58.707171+00:00'
+  last_scanned: '2026-09-12T08:42:25.848054+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14729,7 +15089,7 @@ resources:
   updated_at: '2026-09-02T04:50:31Z'
   pushed_at: '2026-09-02T04:50:06Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:59.180989+00:00'
+  last_scanned: '2026-09-12T08:42:26.406710+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14758,7 +15118,7 @@ resources:
   updated_at: '2026-09-07T08:26:41Z'
   pushed_at: '2026-09-07T08:26:19Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:59.579223+00:00'
+  last_scanned: '2026-09-12T08:42:26.804640+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14785,7 +15145,7 @@ resources:
   updated_at: '2026-09-04T16:37:33Z'
   pushed_at: '2026-09-04T16:37:30Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:58:59.937717+00:00'
+  last_scanned: '2026-09-12T08:42:27.239653+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14811,7 +15171,7 @@ resources:
   updated_at: '2026-05-29T08:13:17Z'
   pushed_at: '2026-05-29T07:37:35Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:00.346714+00:00'
+  last_scanned: '2026-09-12T08:42:27.670399+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14838,7 +15198,7 @@ resources:
   updated_at: '2026-09-07T13:29:23Z'
   pushed_at: '2026-09-07T13:28:04Z'
   default_branch: master
-  last_scanned: '2026-09-11T08:59:00.873299+00:00'
+  last_scanned: '2026-09-12T08:42:28.136590+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14873,7 +15233,7 @@ resources:
   updated_at: '2026-09-09T18:33:09Z'
   pushed_at: '2026-09-10T15:20:50Z'
   default_branch: dev
-  last_scanned: '2026-09-11T08:59:01.335503+00:00'
+  last_scanned: '2026-09-12T08:42:28.620389+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14899,7 +15259,7 @@ resources:
   updated_at: '2026-08-02T01:27:49Z'
   pushed_at: '2026-08-02T01:27:45Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:01.704304+00:00'
+  last_scanned: '2026-09-12T08:42:29.102365+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14927,7 +15287,7 @@ resources:
   updated_at: '2026-08-09T18:17:25Z'
   pushed_at: '2026-08-09T18:16:39Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:02.371720+00:00'
+  last_scanned: '2026-09-12T08:42:29.572058+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14954,7 +15314,7 @@ resources:
   updated_at: '2026-09-08T12:33:16Z'
   pushed_at: '2026-09-08T12:31:26Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:02.806902+00:00'
+  last_scanned: '2026-09-12T08:42:29.975109+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -14982,7 +15342,7 @@ resources:
   updated_at: '2026-09-05T19:31:10Z'
   pushed_at: '2026-09-05T19:31:06Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:03.327789+00:00'
+  last_scanned: '2026-09-12T08:42:30.394000+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15009,7 +15369,7 @@ resources:
   updated_at: '2026-07-22T17:16:50Z'
   pushed_at: '2026-08-30T05:33:47Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:03.789523+00:00'
+  last_scanned: '2026-09-12T08:42:30.879260+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15036,7 +15396,7 @@ resources:
   updated_at: '2026-09-08T13:46:13Z'
   pushed_at: '2026-09-08T13:43:13Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:04.282582+00:00'
+  last_scanned: '2026-09-12T08:42:31.355105+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15065,7 +15425,7 @@ resources:
   updated_at: '2026-09-06T06:08:37Z'
   pushed_at: '2026-09-06T06:08:33Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:04.755304+00:00'
+  last_scanned: '2026-09-12T08:42:31.828824+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15091,7 +15451,7 @@ resources:
   updated_at: '2026-08-05T07:44:29Z'
   pushed_at: '2026-08-05T07:43:43Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:05.148499+00:00'
+  last_scanned: '2026-09-12T08:42:32.269783+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15117,7 +15477,7 @@ resources:
   updated_at: '2026-09-08T20:22:16Z'
   pushed_at: '2026-09-08T20:22:03Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:05.553928+00:00'
+  last_scanned: '2026-09-12T08:42:32.710836+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15143,7 +15503,7 @@ resources:
   updated_at: '2026-08-09T17:43:33Z'
   pushed_at: '2026-08-09T17:42:28Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:05.977854+00:00'
+  last_scanned: '2026-09-12T08:42:33.152913+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15169,7 +15529,7 @@ resources:
   updated_at: '2026-09-11T04:23:49Z'
   pushed_at: '2026-09-11T04:23:45Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:06.369526+00:00'
+  last_scanned: '2026-09-12T08:42:33.570274+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15197,7 +15557,7 @@ resources:
   updated_at: '2026-08-12T10:06:16Z'
   pushed_at: '2026-08-12T08:23:00Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:06.852543+00:00'
+  last_scanned: '2026-09-12T08:42:34.026269+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15224,7 +15584,7 @@ resources:
   updated_at: '2026-07-13T08:04:32Z'
   pushed_at: '2026-07-13T08:04:26Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:07.262023+00:00'
+  last_scanned: '2026-09-12T08:42:34.506487+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15232,6 +15592,35 @@ resources:
     veterinary_relevance_score: 0.4
     score_reasons:
     - +3.5 strong:animal health
+    - +0.5 support:animal
+- id: vritanshi-sys-paw-safety
+  source: github
+  full_name: vritanshi-sys/Paw-Safety
+  url: https://github.com/vritanshi-sys/Paw-Safety
+  description: “Paw Safety is a unified campus safety platform that protects both students and animals by providing
+    quick reporting, emergency guidance, voice assistance, animal welfare resources, and live GPS-based incident
+    tracking—all in one platform.”
+  homepage: null
+  topics: []
+  language: Python
+  license: null
+  stars: 0
+  forks: 0
+  open_issues: 0
+  archived: false
+  fork: false
+  created_at: '2026-09-11T20:22:33Z'
+  updated_at: '2026-09-11T20:31:30Z'
+  pushed_at: '2026-09-11T20:31:26Z'
+  default_branch: main
+  last_scanned: '2026-09-12T08:42:34.935667+00:00'
+  curation:
+    status: candidate
+    source: automated-discovery
+    verified: false
+    veterinary_relevance_score: 0.4
+    score_reasons:
+    - +3.5 strong:animal welfare
     - +0.5 support:animal
 - id: wajasaab-onyxdigital-point-loma-veterinary-clinic-san-diego
   source: github
@@ -15251,7 +15640,7 @@ resources:
   updated_at: '2026-09-07T21:37:36Z'
   pushed_at: '2026-09-07T21:36:38Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:07.684257+00:00'
+  last_scanned: '2026-09-12T08:42:35.377301+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15277,7 +15666,7 @@ resources:
   updated_at: '2026-09-05T02:01:27Z'
   pushed_at: '2026-09-05T02:01:23Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:08.088786+00:00'
+  last_scanned: '2026-09-12T08:42:35.801735+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15303,7 +15692,7 @@ resources:
   updated_at: '2026-09-08T18:32:02Z'
   pushed_at: '2026-09-08T18:27:23Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:08.513334+00:00'
+  last_scanned: '2026-09-12T08:42:36.229519+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15329,7 +15718,7 @@ resources:
   updated_at: '2026-09-04T03:30:47Z'
   pushed_at: '2026-09-04T03:30:38Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:08.932962+00:00'
+  last_scanned: '2026-09-12T08:42:36.674771+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15356,7 +15745,7 @@ resources:
   updated_at: '2026-08-12T15:45:45Z'
   pushed_at: '2026-08-12T15:43:19Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:09.428945+00:00'
+  last_scanned: '2026-09-12T08:42:37.128681+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15390,7 +15779,7 @@ resources:
   updated_at: '2026-09-04T01:58:45Z'
   pushed_at: '2026-09-04T01:58:41Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:09.852179+00:00'
+  last_scanned: '2026-09-12T08:42:37.623102+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15456,7 +15845,7 @@ resources:
   updated_at: '2026-09-03T05:43:48Z'
   pushed_at: '2026-09-02T16:05:19Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:10.448208+00:00'
+  last_scanned: '2026-09-12T08:42:38.207266+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15483,7 +15872,7 @@ resources:
   updated_at: '2026-09-04T11:52:19Z'
   pushed_at: '2026-09-04T11:51:45Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:10.903986+00:00'
+  last_scanned: '2026-09-12T08:42:38.654817+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15511,7 +15900,7 @@ resources:
   updated_at: '2026-08-10T03:01:01Z'
   pushed_at: '2026-08-10T02:58:58Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:11.309751+00:00'
+  last_scanned: '2026-09-12T08:42:39.126228+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15537,7 +15926,7 @@ resources:
   updated_at: '2026-09-08T17:38:55Z'
   pushed_at: '2026-09-08T17:37:05Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:11.708641+00:00'
+  last_scanned: '2026-09-12T08:42:39.566895+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15565,7 +15954,7 @@ resources:
   updated_at: '2026-08-12T01:53:51Z'
   pushed_at: '2026-08-12T23:55:32Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:12.094090+00:00'
+  last_scanned: '2026-09-12T08:42:40.047310+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15591,7 +15980,7 @@ resources:
   updated_at: '2026-08-03T13:50:30Z'
   pushed_at: '2026-08-03T13:44:19Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:12.548548+00:00'
+  last_scanned: '2026-09-12T08:42:40.509707+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15618,7 +16007,7 @@ resources:
   updated_at: '2026-09-07T17:04:13Z'
   pushed_at: '2026-09-07T17:03:57Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:12.925430+00:00'
+  last_scanned: '2026-09-12T08:42:40.951162+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15645,7 +16034,7 @@ resources:
   updated_at: '2026-08-12T23:07:47Z'
   pushed_at: '2026-08-12T23:07:43Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:13.389898+00:00'
+  last_scanned: '2026-09-12T08:42:41.374744+00:00'
   curation:
     status: candidate
     source: automated-discovery
@@ -15678,7 +16067,7 @@ resources:
   updated_at: '2026-09-01T03:19:14Z'
   pushed_at: '2026-09-01T03:12:34Z'
   default_branch: main
-  last_scanned: '2026-09-11T08:59:13.834102+00:00'
+  last_scanned: '2026-09-12T08:42:41.875566+00:00'
   curation:
     status: candidate
     source: automated-discovery
