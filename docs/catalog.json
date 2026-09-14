@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-13T09:37:24.121658+00:00",
+  "generated_at": "2026-09-14T09:57:18.063254+00:00",
   "counts": {
     "accepted": 2
   },
@@ -45,7 +45,7 @@
       "updated_at": "2026-08-05T07:41:51Z",
       "pushed_at": "2026-08-05T07:17:30Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-13T09:33:34.518295+00:00"
+      "last_scanned": "2026-09-14T09:52:48.568521+00:00"
     },
     {
       "id": "vetai-lab-vetjudge",
@@ -89,7 +89,7 @@
       "updated_at": "2026-08-05T08:13:57Z",
       "pushed_at": "2026-08-05T08:12:23Z",
       "default_branch": "main",
-      "last_scanned": "2026-09-13T09:33:35.009776+00:00"
+      "last_scanned": "2026-09-14T09:52:48.973388+00:00"
     }
   ]
 }
